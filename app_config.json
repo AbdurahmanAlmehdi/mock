@@ -2,7 +2,7 @@
   "homeConfig": {
     "homeSections": [
       {
-        "categoryId": "176",
+        "sectionId": "Men",
         "components": [
           {
             "layout": "banner",
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "categoryId": "172",
+        "sectionId": "172",
         "components": [
           {
             "layout": "carousel",
@@ -62,7 +62,7 @@
         ]
       },
       {
-        "categoryId": "6298",
+        "sectionId": "6298",
         "components": [
           {
             "layout": "influencer_story",
@@ -80,7 +80,7 @@
         ]
       },
       {
-        "categoryId": "1677",
+        "sectionId": "1677",
         "components": [
           {
             "layout": "product_list",
@@ -94,7 +94,7 @@
         ]
       },
       {
-        "categoryId": "4982",
+        "sectionId": "4982",
         "components": [
           {
             "layout": "banner",
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "categoryId": "2066",
+        "sectionId": "2066",
         "components": [
           {
             "layout": "brands_list",
@@ -126,7 +126,7 @@
         ]
       },
       {
-        "categoryId": "1684",
+        "sectionId": "1684",
         "components": [
           {
             "layout": "product_list",
@@ -140,7 +140,7 @@
         ]
       },
       {
-        "categoryId": "174",
+        "sectionId": "174",
         "components": [
           {
             "layout": "influencer_story",
