@@ -1,0 +1,162 @@
+{
+  "homeConfig": {
+    "homeSections": [
+      {
+        "categoryId": "176",
+        "components": [
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "category": 123,
+                  "goToProducts": true,
+                  "image": "https://example.com/banner1.jpg",
+                  "radius": 8,
+                  "height": 0.2,
+                  "padding": 10
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 10,
+              "marginBottom": 10
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 176,
+              "height": 320,
+              "title": "Featured Products",
+              "showMore": true,
+              "marginTop": 20,
+              "marginBottom": 20
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": "172",
+        "components": [
+          {
+            "layout": "carousel",
+            "config": {
+              "items": [
+                {"image": "https://example.com/slide1.jpg"},
+                {"image": "https://example.com/slide2.jpg"}
+              ],
+              "autoPlay": true,
+              "intervalTime": 3,
+              "height": 0.3
+            }
+          },
+          {
+            "layout": "brands_list",
+            "config": {
+              "brandIds": [1, 2, 3, 4],
+              "height": 80,
+              "title": "Popular Brands",
+              "showMore": true
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": "6298",
+        "components": [
+          {
+            "layout": "influencer_story",
+            "config": {
+              "small_img": "https://example.com/story_thumb.jpg",
+              "big_img": "https://example.com/story_full.jpg",
+              "title": "Summer Collection",
+              "products": [111, 112, 113],
+              "influencer_name": "John Doe",
+              "card_title": "Fashion Tips",
+              "influencer_pfp": "https://example.com/profile.jpg",
+              "height": 200
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": "1677",
+        "components": [
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1677,
+              "height": 320,
+              "title": "New Arrivals",
+              "showMore": true
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": "4982",
+        "components": [
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "category": 4982,
+                  "image": "https://example.com/banner2.jpg",
+                  "height": 0.25
+                }
+              ],
+              "height": 0.25
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": "2066",
+        "components": [
+          {
+            "layout": "brands_list",
+            "config": {
+              "brandIds": [5, 6, 7, 8],
+              "height": 100,
+              "title": "Featured Brands",
+              "showMore": true
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": "1684",
+        "components": [
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1684,
+              "height": 320,
+              "title": "Best Sellers",
+              "showMore": true
+            }
+          }
+        ]
+      },
+      {
+        "categoryId": "174",
+        "components": [
+          {
+            "layout": "influencer_story",
+            "config": {
+              "small_img": "https://example.com/story2_thumb.jpg",
+              "big_img": "https://example.com/story2_full.jpg",
+              "title": "Winter Collection",
+              "products": [114, 115, 116],
+              "influencer_name": "Jane Smith",
+              "card_title": "Style Guide",
+              "influencer_pfp": "https://example.com/profile2.jpg",
+              "height": 200
+            }
+          }
+        ]
+      }
+    ]
+  }
+} 
