@@ -9,7 +9,7 @@
             "config": {
               "items": [
                 {
-                  "category": 123,
+                  "category": 176,
                   "goToProducts": true,
                   "image": "https://example.com/banner1.jpg",
                   "radius": 8,
@@ -47,13 +47,13 @@
               ],
               "autoPlay": true,
               "intervalTime": 3,
-              "height": 0.3
+              "height": 0.2
             }
           },
           {
             "layout": "brands_list",
             "config": {
-              "brandIds": [1, 2, 3, 4],
+              "brandIds": [5705, 3536, 2862],
               "height": 80,
               "title": "Popular Brands",
               "showMore": true
@@ -67,13 +67,13 @@
           {
             "layout": "influencer_story",
             "config": {
-              "small_img": "https://example.com/story_thumb.jpg",
-              "big_img": "https://example.com/story_full.jpg",
+              "small_img": "https://media.istockphoto.com/id/626385918/photo/intense-dude.jpg?s=612x612&w=0&k=20&c=6GUk14GSiUtTHCIyE50jN-3Lv5lNR6jcHFVBwxJwO5Y=",
+              "big_img": "https://media.istockphoto.com/id/626385918/photo/intense-dude.jpg?s=612x612&w=0&k=20&c=6GUk14GSiUtTHCIyE50jN-3Lv5lNR6jcHFVBwxJwO5Y=",
               "title": "Summer Collection",
-              "products": [111, 112, 113],
+              "products": [451639, 450007, 450082],
               "influencer_name": "John Doe",
               "card_title": "Fashion Tips",
-              "influencer_pfp": "https://example.com/profile.jpg",
+              "influencer_pfp": "https://media.istockphoto.com/id/626385918/photo/intense-dude.jpg?s=612x612&w=0&k=20&c=6GUk14GSiUtTHCIyE50jN-3Lv5lNR6jcHFVBwxJwO5Y=",
               "height": 200
             }
           }
@@ -102,7 +102,7 @@
               "items": [
                 {
                   "category": 4982,
-                  "image": "https://example.com/banner2.jpg",
+                  "image": "https://m.media-amazon.com/images/I/61rso93xlkL._AC_UF894,1000_QL80_.jpg",
                   "height": 0.25
                 }
               ],
@@ -117,7 +117,7 @@
           {
             "layout": "brands_list",
             "config": {
-              "brandIds": [5, 6, 7, 8],
+              "brandIds": [5705, 3536, 2862],
               "height": 100,
               "title": "Featured Brands",
               "showMore": true
@@ -142,18 +142,19 @@
       {
         "sectionName": "174",
         "components": [
-          {
+         {
             "layout": "influencer_story",
             "config": {
-              "small_img": "https://example.com/story2_thumb.jpg",
-              "big_img": "https://example.com/story2_full.jpg",
-              "title": "Winter Collection",
-              "products": [114, 115, 116],
-              "influencer_name": "Jane Smith",
-              "card_title": "Style Guide",
-              "influencer_pfp": "https://example.com/profile2.jpg",
+              "small_img": "https://media.istockphoto.com/id/626385918/photo/intense-dude.jpg?s=612x612&w=0&k=20&c=6GUk14GSiUtTHCIyE50jN-3Lv5lNR6jcHFVBwxJwO5Y=",
+              "big_img": "https://media.istockphoto.com/id/626385918/photo/intense-dude.jpg?s=612x612&w=0&k=20&c=6GUk14GSiUtTHCIyE50jN-3Lv5lNR6jcHFVBwxJwO5Y=",
+              "title": "Summer Collection",
+              "products": [451639, 450007, 450082],
+              "influencer_name": "John Doe",
+              "card_title": "Fashion Tips",
+              "influencer_pfp": "https://media.istockphoto.com/id/626385918/photo/intense-dude.jpg?s=612x612&w=0&k=20&c=6GUk14GSiUtTHCIyE50jN-3Lv5lNR6jcHFVBwxJwO5Y=",
               "height": 200
             }
+          }
           }
         ]
       }
