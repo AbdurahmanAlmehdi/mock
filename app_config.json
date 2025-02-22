@@ -11,7 +11,7 @@
                 {
                   "category": 176,
                   "goToProducts": true,
-                  "image": "https://example.com/banner1.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png",
                   "radius": 8,
                   "height": 0.2,
                   "padding": 10
@@ -42,8 +42,8 @@
             "layout": "carousel",
             "config": {
               "items": [
-                {"image": "https://example.com/slide1.jpg"},
-                {"image": "https://example.com/slide2.jpg"}
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png"}
               ],
               "autoPlay": true,
               "intervalTime": 3,
@@ -53,7 +53,7 @@
           {
             "layout": "brands_list",
             "config": {
-              "brandIds": [5705, 3536, 2862],
+              "brandIds": ["4f", "addlink", "adidas"],
               "height": 80,
               "title": "Popular Brands",
               "showMore": true
@@ -117,7 +117,7 @@
           {
             "layout": "brands_list",
             "config": {
-              "brandIds": [5705, 3536, 2862],
+              "brandIds": ["4f", "addlink", "adidas"],
               "height": 100,
               "title": "Featured Brands",
               "showMore": true
