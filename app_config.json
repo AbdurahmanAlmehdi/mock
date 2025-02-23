@@ -141,7 +141,8 @@
               "brandIds": ["4f", "addlink", "adidas"],
               "height": 80,
               "title": "Popular Brands",
-              "showMore": true
+              "showMore": true,
+              "marginTop": 20
             }
           }
         ]
