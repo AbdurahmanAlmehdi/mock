@@ -1,6 +1,8 @@
 {
-  "categoryBanners": {
-    "6298": {
+  "categoryBanners": [
+    {
+      "categoryId": "6298",
+      "component": {
             "layout": "carousel",
             "config": {
               "items": [
@@ -14,8 +16,11 @@
               "intervalTime": 5,
               "height": 0.1
             }
-          },
-    "172":{
+          }
+    },
+    {
+      "categoryId": "172",
+      "component": {
             "layout": "banner",
             "config": {
               "height": 0.22,
@@ -37,7 +42,8 @@
               "marginBottom": 10
             }
           }
-  },
+    }
+  ],
   "homeConfig": {
     "homeSections": [
       {
