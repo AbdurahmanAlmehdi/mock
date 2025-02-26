@@ -1,4 +1,43 @@
 {
+  "categoryBanners": {
+    "6298": {
+            "layout": "carousel",
+            "config": {
+              "items": [
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/marhaba-coupon-categories-screen.gif"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/cat-sec-bamnner-4.png"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/SEVERIN-MIZRAN-SLIDER-FEB-2025.gif"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/exchange.gif"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/edited-contact-us.gif"}
+              ],
+              "autoPlay": true,
+              "intervalTime": 5,
+              "height": 0.1
+            }
+          },
+    "172":{
+            "layout": "banner",
+            "config": {
+              "height": 0.22,
+              "items": [
+              {
+                "category": 6900,
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/fryers-20-2-offer.png",
+                "padding": 5,
+                "radius": 12
+              },
+              {
+                "category": 6853,
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-confetti-20-2-offer.png",
+                "padding": 5,
+                "radius": 12
+              }
+            ],
+              "marginTop": 10,
+              "marginBottom": 10
+            }
+          }
+  },
   "homeConfig": {
     "homeSections": [
       {
@@ -9,7 +48,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/OSMANLI-NOTIFY-FEB-2025.gif",
                   "radius": 0,
                   "padding": 0
                 }
@@ -45,12 +84,15 @@
             "layout": "carousel",
             "config": {
               "items": [
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png"},
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png"}
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/osmanli-oud-feb-2025-edit-1.gif"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/abna-youssef-slider-edited-18-2.gif"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/SEVERIN-MIZRAN-SLIDER-FEB-2025.gif"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/exchange.gif"},
+                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/edited-contact-us.gif"}
               ],
               "autoPlay": true,
-              "intervalTime": 3,
-              "height": 0.2
+              "intervalTime": 5,
+              "height": 0.15
             }
           },
           {
