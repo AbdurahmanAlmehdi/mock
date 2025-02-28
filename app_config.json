@@ -79,7 +79,9 @@
               }
             ],
               "marginTop": 10,
-              "marginBottom": 10
+              "marginBottom": 0
+              "marginLeft": 0
+              "marginRight": 0
             }
           },
           {
@@ -101,7 +103,9 @@
               }
             ],
               "marginTop": 10,
-              "marginBottom": 10
+              "marginBottom": 0
+              "marginLeft": 0
+              "marginRight": 0
             }
           },
           {
@@ -125,7 +129,9 @@
                 }
             ],
               "marginTop": 10,
-              "marginBottom": 10
+              "marginBottom": 0
+              "marginLeft": 0
+              "marginRight": 0
             }
           },
           {
@@ -149,7 +155,9 @@
                 }
             ],
               "marginTop": 10,
-              "marginBottom": 10
+              "marginBottom": 0
+              "marginLeft": 0
+              "marginRight": 0
             }
           },
           {
@@ -173,7 +181,9 @@
                 }
             ],
               "marginTop": 10,
-              "marginBottom": 10
+              "marginBottom": 0
+              "marginLeft": 0
+              "marginRight": 0
             }
           },
           {
@@ -182,18 +192,20 @@
               "height": 0.22,
               "items": [
                 {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/blank-border.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-appliance-20-2-offer.png",
                     "padding": 5,
                     "radius": 12
                 },
                 {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/blank-border.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-appliance-20-2-offer.png",
                     "padding": 5,
                     "radius": 12
                 }
             ],
               "marginTop": 10,
-              "marginBottom": 10
+              "marginBottom": 0
+              "marginLeft": 0
+              "marginRight": 0
             }
           },
           {
@@ -558,13 +570,13 @@
                {
                     "category": 525,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-clothes.jpg",
-                    "padding": 5,
+                    "padding": 2,
                     "radius": 6
                 },
                 {
                     "category": 530,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-shoes.jpg",
-                    "padding": 5,
+                    "padding": 2,
                     "radius": 6
                 }
               ],
@@ -572,7 +584,7 @@
               "marginTop": 40,
               "marginRight": 0,
               "marginLeft": 0,
-              "marginBottom": 10
+              "marginBottom": 0
             }
           },
           {
@@ -596,7 +608,7 @@
               "marginTop": 5,
               "marginRight": 0,
               "marginLeft": 0,
-              "marginBottom": 10
+              "marginBottom": 0
             }
           },
           {
