@@ -44,6 +44,9 @@
           }
     }
   ],
+  "cartConfig": {
+    "emptyCartId":"6298"
+  },
   "homeConfig": {
     "homeSections": [
       {
