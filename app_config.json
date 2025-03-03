@@ -50,7 +50,7 @@
   "homeConfig": {
     "homeSections": [
       {
-        "sectionName": "Mataa",
+        "sectionName": "متاع",
         "isMain": true,
         "components": [
           {
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "sectionName": "Mataa Now",
+        "sectionName": "متاع Now",
         "isInHouse": true,
         "components": [
           {
@@ -647,7 +647,7 @@
         ]
       },
                {
-        "sectionName": "Mataa Pay",
+        "sectionName": "متاع Pay",
         "isWallet": true,
         "components": [
         ]
