@@ -417,12 +417,7 @@
               "marginBottom": 10
             }
           },
-         {
-        "sectionName": "Mataa Pay",
-        "isWallet": true,
-        "components": [
-        ]
-         },
+
           {
             "layout": "banner",
             "config": {
@@ -651,6 +646,12 @@
           }
         ]
       },
+               {
+        "sectionName": "Mataa Pay",
+        "isWallet": true,
+        "components": [
+        ]
+         },
       {
         "sectionName": "Mataa Now",
         "components": [
