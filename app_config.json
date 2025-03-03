@@ -50,7 +50,8 @@
   "homeConfig": {
     "homeSections": [
       {
-        "sectionName": "Men",
+        "sectionName": "Mataa",
+        "isMain": true,
         "components": [
           {
             "layout": "banner",
@@ -321,7 +322,8 @@
         ]
       },
       {
-        "sectionName": "Second",
+        "sectionName": "Mataa Now",
+        "isInHouse": true,
         "components": [
           {
             "layout": "banner",
@@ -415,6 +417,12 @@
               "marginBottom": 10
             }
           },
+         {
+        "sectionName": "Mataa Pay",
+        "isWallet": true,
+        "components": [
+        ]
+         },
           {
             "layout": "banner",
             "config": {
@@ -644,7 +652,7 @@
         ]
       },
       {
-        "sectionName": "6298",
+        "sectionName": "Mataa Now",
         "components": [
           {
             "layout": "influencer_story",
@@ -856,6 +864,7 @@
           
         ]
       }
+
     ]
   }
 } 
