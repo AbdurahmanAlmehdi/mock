@@ -312,7 +312,7 @@
           {
             "layout": "brands_list",
             "config": {
-              "brandIds": ["4f", "addlink", "adidas"],
+               "brandIds": ["8de3f4cf-4e02-4745-948f-2bbf6f2ae210", "adc360b6-2759-4e03-9504-ed2174b27f74", "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"],
               "height": 80,
               "title": "Popular Brands",
               "showMore": true,
@@ -638,7 +638,7 @@
           {
             "layout": "brands_list",
             "config": {
-              "brandIds": ["4f", "addlink", "adidas"],
+              "brandIds": ["8de3f4cf-4e02-4745-948f-2bbf6f2ae210", "adc360b6-2759-4e03-9504-ed2174b27f74", "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"],
               "height": 80,
               "title": "Popular Brands",
               "showMore": true
@@ -766,7 +766,7 @@
           {
             "layout": "brands_list",
             "config": {
-              "brandIds": ["4f", "addlink", "adidas"],
+               "brandIds": ["8de3f4cf-4e02-4745-948f-2bbf6f2ae210", "adc360b6-2759-4e03-9504-ed2174b27f74", "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"],
               "height": 100,
               "title": "Featured Brands",
               "showMore": true
