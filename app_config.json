@@ -3,49 +3,64 @@
     {
       "categoryId": "6298",
       "component": {
-            "layout": "carousel",
-            "config": {
-              "items": [
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/marhaba-coupon-categories-screen.gif", "categoryId": "6298"},
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/cat-sec-bamnner-4.png", "categoryId": "6298"},
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/SEVERIN-MIZRAN-SLIDER-FEB-2025.gif", "categoryId": "6298"},
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/exchange.gif", "categoryId": "6298"},
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/edited-contact-us.gif", "categoryId": "6298"}
-              ],
-              "autoPlay": true,
-              "intervalTime": 5,
-              "height": 0.1
+        "layout": "carousel",
+        "config": {
+          "items": [
+            {
+              "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/marhaba-coupon-categories-screen.gif",
+              "categoryId": "6298"
+            },
+            {
+              "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/cat-sec-bamnner-4.png",
+              "categoryId": "6298"
+            },
+            {
+              "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/SEVERIN-MIZRAN-SLIDER-FEB-2025.gif",
+              "categoryId": "6298"
+            },
+            {
+              "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/exchange.gif",
+              "categoryId": "6298"
+            },
+            {
+              "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/edited-contact-us.gif",
+              "categoryId": "6298"
             }
-          }
+          ],
+          "autoPlay": true,
+          "intervalTime": 5,
+          "height": 0.1
+        }
+      }
     },
     {
       "categoryId": "172",
       "component": {
-            "layout": "banner",
-            "config": {
-              "height": 0.22,
-              "items": [
-              {
-                "category": 6900,
-                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/fryers-20-2-offer.png",
-                "padding": 5,
-                "radius": 12
-              },
-              {
-                "category": 6853,
-                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-confetti-20-2-offer.png",
-                "padding": 5,
-                "radius": 12
-              }
-            ],
-              "marginTop": 10,
-              "marginBottom": 10
+        "layout": "banner",
+        "config": {
+          "height": 0.22,
+          "items": [
+            {
+              "category": 6900,
+              "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/fryers-20-2-offer.png",
+              "padding": 5,
+              "radius": 12
+            },
+            {
+              "category": 6853,
+              "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-confetti-20-2-offer.png",
+              "padding": 5,
+              "radius": 12
             }
-          }
+          ],
+          "marginTop": 10,
+          "marginBottom": 10
+        }
+      }
     }
   ],
   "cartConfig": {
-    "emptyCartId":"6298"
+    "emptyCartId": "6298"
   },
   "homeConfig": {
     "homeSections": [
@@ -75,13 +90,13 @@
             "config": {
               "height": 0.22,
               "items": [
-              {
-                "category": 6298,
-                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-weekend-slider-edition-3.gif",
-                "padding": 5,
-                "radius": 12
-              }
-            ],
+                {
+                  "category": 6298,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-weekend-slider-edition-3.gif",
+                  "padding": 5,
+                  "radius": 12
+                }
+              ],
               "marginTop": 10,
               "marginBottom": 0,
               "marginLeft": 0,
@@ -93,71 +108,19 @@
             "config": {
               "height": 0.22,
               "items": [
-              {
-                "category": 6298,
-                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/fryers-20-2-offer.png",
-                "padding": 5,
-                "radius": 12
-              },
-              {
-                "category": 6853,
-                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-confetti-20-2-offer.png",
-                "padding": 5,
-                "radius": 12
-              }
-            ],
-              "marginTop": 10,
-              "marginBottom": 0,
-              "marginLeft": 0,
-              "marginRight": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.22,
-              "items": [
-              {
-                    "goToProducts": true,
-                    "category": 6900,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/fryers-20-2-offer.png",
-                    "padding": 5,
-                    "radius": 12
+                {
+                  "category": 6298,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/fryers-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
                 },
                 {
-                    "goToProducts": true,
-                    "category": 6853,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-confetti-20-2-offer.png",
-                    "padding": 5,
-                    "radius": 12
+                  "category": 6853,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-confetti-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
                 }
-            ],
-              "marginTop": 10,
-              "marginBottom": 0,
-              "marginLeft": 0,
-              "marginRight": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.22,
-              "items": [
-               {
-                    "goToProducts": true,
-                    "category": 6898,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/multi-functional-20-2-offer.png",
-                    "padding": 5,
-                    "radius": 12
-                },
-                {
-                    "goToProducts": true,
-                    "category": 6901,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/home-accessories-20-2-offer.png",
-                    "padding": 5,
-                    "radius": 12
-                }
-            ],
+              ],
               "marginTop": 10,
               "marginBottom": 0,
               "marginLeft": 0,
@@ -170,20 +133,20 @@
               "height": 0.22,
               "items": [
                 {
-                    "goToProducts": true,
-                    "category": 6905,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-tools.png",
-                    "padding": 5,
-                    "radius": 12
+                  "goToProducts": true,
+                  "category": 6900,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/fryers-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
                 },
                 {
-                    "goToProducts": true,
-                    "category": 6857,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-appliance-20-2-offer.png",
-                    "padding": 5,
-                    "radius": 12
+                  "goToProducts": true,
+                  "category": 6853,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/ramadan-confetti-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
                 }
-            ],
+              ],
               "marginTop": 10,
               "marginBottom": 0,
               "marginLeft": 0,
@@ -196,16 +159,68 @@
               "height": 0.22,
               "items": [
                 {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-appliance-20-2-offer.png",
-                    "padding": 5,
-                    "radius": 12
+                  "goToProducts": true,
+                  "category": 6898,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/multi-functional-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
                 },
                 {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-appliance-20-2-offer.png",
-                    "padding": 5,
-                    "radius": 12
+                  "goToProducts": true,
+                  "category": 6901,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/home-accessories-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
                 }
-            ],
+              ],
+              "marginTop": 10,
+              "marginBottom": 0,
+              "marginLeft": 0,
+              "marginRight": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.22,
+              "items": [
+                {
+                  "goToProducts": true,
+                  "category": 6905,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-tools.png",
+                  "padding": 5,
+                  "radius": 12
+                },
+                {
+                  "goToProducts": true,
+                  "category": 6857,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-appliance-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 10,
+              "marginBottom": 0,
+              "marginLeft": 0,
+              "marginRight": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.22,
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-appliance-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-appliance-20-2-offer.png",
+                  "padding": 5,
+                  "radius": 12
+                }
+              ],
               "marginTop": 10,
               "marginBottom": 0,
               "marginLeft": 0,
@@ -216,11 +231,26 @@
             "layout": "carousel",
             "config": {
               "items": [
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/osmanli-oud-feb-2025-edit-1.gif", "categoryId": "6861" },
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/abna-youssef-slider-edited-18-2.gif", "categoryId": "6861" },
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/SEVERIN-MIZRAN-SLIDER-FEB-2025.gif", "categoryId": "6861" },
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/exchange.gif", "categoryId": "6861" },
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/edited-contact-us.gif", "categoryId": "6861" }
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/osmanli-oud-feb-2025-edit-1.gif",
+                  "categoryId": "6861"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/abna-youssef-slider-edited-18-2.gif",
+                  "categoryId": "6861"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/SEVERIN-MIZRAN-SLIDER-FEB-2025.gif",
+                  "categoryId": "6861"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/exchange.gif",
+                  "categoryId": "6861"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/01/edited-contact-us.gif",
+                  "categoryId": "6861"
+                }
               ],
               "autoPlay": true,
               "intervalTime": 5,
@@ -312,7 +342,11 @@
           {
             "layout": "brands_list",
             "config": {
-               "brandIds": ["8de3f4cf-4e02-4745-948f-2bbf6f2ae210", "adc360b6-2759-4e03-9504-ed2174b27f74", "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"],
+              "brandIds": [
+                "8de3f4cf-4e02-4745-948f-2bbf6f2ae210",
+                "adc360b6-2759-4e03-9504-ed2174b27f74",
+                "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"
+              ],
               "height": 80,
               "title": "Popular Brands",
               "showMore": true,
@@ -330,11 +364,11 @@
             "config": {
               "items": [
                 {
-                    "goToProducts": true,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/OSMANLI-NOTIFY-FEB-2025.gif",
-                    "padding": 0,
-                    "radius": 0,
-                    "showSubcategory": false
+                  "goToProducts": true,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/OSMANLI-NOTIFY-FEB-2025.gif",
+                  "padding": 0,
+                  "radius": 0,
+                  "showSubcategory": false
                 }
               ],
               "height": 0.06,
@@ -344,70 +378,69 @@
               "marginBottom": 10
             }
           },
-          
           {
             "layout": "banner",
             "config": {
               "items": [
                 {
-                    "category": 172,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-main-category.jpg",
-                    "padding": 10,
-                    "radius": 100,
-                    "mainTitle": {
-                        "text": "رجال",
-                        "fontFamily": "Ge",
-                        "fontSize": 18,
-                        "color": "#000000",
-                        "x": 0,
-                        "y": 0,
-                        "enableShadow": false
-                    }
+                  "category": 172,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-main-category.jpg",
+                  "padding": 10,
+                  "radius": 100,
+                  "mainTitle": {
+                    "text": "رجال",
+                    "fontFamily": "Ge",
+                    "fontSize": 18,
+                    "color": "#000000",
+                    "x": 0,
+                    "y": 0,
+                    "enableShadow": false
+                  }
                 },
                 {
-                    "category": 174,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-main-category.jpg",
-                    "padding": 10,
-                    "radius": 100,
-                    "mainTitle": {
-                        "text": "نساء",
-                        "fontFamily": "Ge",
-                        "fontSize": 18,
-                        "color": "#000000",
-                        "x": 0,
-                        "y": 0,
-                        "enableShadow": false
-                    }
+                  "category": 174,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-main-category.jpg",
+                  "padding": 10,
+                  "radius": 100,
+                  "mainTitle": {
+                    "text": "نساء",
+                    "fontFamily": "Ge",
+                    "fontSize": 18,
+                    "color": "#000000",
+                    "x": 0,
+                    "y": 0,
+                    "enableShadow": false
+                  }
                 },
                 {
-                    "category": 176,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-kids-main-category.jpg",
-                    "padding": 10,
-                    "radius": 100,
-                    "mainTitle": {
-                        "text": "أطفال",
-                        "fontFamily": "Ge",
-                        "fontSize": 18,
-                        "color": "#000000",
-                        "x": 0,
-                        "y": 0,
-                        "enableShadow": false
-                    }
+                  "category": 176,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-kids-main-category.jpg",
+                  "padding": 10,
+                  "radius": 100,
+                  "mainTitle": {
+                    "text": "أطفال",
+                    "fontFamily": "Ge",
+                    "fontSize": 18,
+                    "color": "#000000",
+                    "x": 0,
+                    "y": 0,
+                    "enableShadow": false
+                  }
                 },
                 {
-                    "category": 1684,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-makeup-main-category.jpg",
-                    "padding": 10,
-                    "radius": 60,
-                    "mainTitle": {
-                        "text": "مكياج",
-                        "fontFamily": "Ge",
-                        "fontSize": 18,
-                        "color": "#000000",
-                        "x": 0,
-                        "y": 0,
-                        "enableShadow": false
-                    }
+                  "category": 1684,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-makeup-main-category.jpg",
+                  "padding": 10,
+                  "radius": 60,
+                  "mainTitle": {
+                    "text": "مكياج",
+                    "fontFamily": "Ge",
+                    "fontSize": 18,
+                    "color": "#000000",
+                    "x": 0,
+                    "y": 0,
+                    "enableShadow": false
+                  }
                 }
               ],
               "height": 0.12,
@@ -417,70 +450,69 @@
               "marginBottom": 10
             }
           },
-
           {
             "layout": "banner",
             "config": {
               "items": [
                 {
-                    "category": 1677,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-care-main-category.jpg",
-                    "padding": 10,
-                    "radius": 100,
-                    "mainTitle": {
-                        "text": "عناية",
-                        "fontFamily": "Ge",
-                        "fontSize": 18,
-                        "color": "#000000",
-                        "x": 0,
-                        "y": 0,
-                        "enableShadow": false
-                    }
+                  "category": 1677,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-care-main-category.jpg",
+                  "padding": 10,
+                  "radius": 100,
+                  "mainTitle": {
+                    "text": "عناية",
+                    "fontFamily": "Ge",
+                    "fontSize": 18,
+                    "color": "#000000",
+                    "x": 0,
+                    "y": 0,
+                    "enableShadow": false
+                  }
                 },
                 {
-                    "category": 2066,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-home-main-category.jpg",
-                    "padding": 10,
-                    "radius": 100,
-                    "mainTitle": {
-                        "text": "هوم",
-                        "fontFamily": "Ge",
-                        "fontSize": 18,
-                        "color": "#000000",
-                        "x": 0,
-                        "y": 0,
-                        "enableShadow": false
-                    }
+                  "category": 2066,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-home-main-category.jpg",
+                  "padding": 10,
+                  "radius": 100,
+                  "mainTitle": {
+                    "text": "هوم",
+                    "fontFamily": "Ge",
+                    "fontSize": 18,
+                    "color": "#000000",
+                    "x": 0,
+                    "y": 0,
+                    "enableShadow": false
+                  }
                 },
                 {
-                    "category": 6298,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/FAST-SHIPPING-CATEGORIES.png",
-                    "padding": 10,
-                    "radius": 100,
-                    "mainTitle": {
-                        "text": "سريع",
-                        "fontFamily": "Ge",
-                        "fontSize": 18,
-                        "color": "#000000",
-                        "x": 0,
-                        "y": 0,
-                        "enableShadow": false
-                    }
+                  "category": 6298,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/FAST-SHIPPING-CATEGORIES.png",
+                  "padding": 10,
+                  "radius": 100,
+                  "mainTitle": {
+                    "text": "سريع",
+                    "fontFamily": "Ge",
+                    "fontSize": 18,
+                    "color": "#000000",
+                    "x": 0,
+                    "y": 0,
+                    "enableShadow": false
+                  }
                 },
                 {
-                    "category": 4982,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-tech-main-category.jpg",
-                    "padding": 10,
-                    "radius": 100,
-                    "mainTitle": {
-                        "text": "تيك",
-                        "fontFamily": "Ge",
-                        "fontSize": 18,
-                        "color": "#000000",
-                        "x": 0,
-                        "y": 0,
-                        "enableShadow": false
-                    }
+                  "category": 4982,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-tech-main-category.jpg",
+                  "padding": 10,
+                  "radius": 100,
+                  "mainTitle": {
+                    "text": "تيك",
+                    "fontFamily": "Ge",
+                    "fontSize": 18,
+                    "color": "#000000",
+                    "x": 0,
+                    "y": 0,
+                    "enableShadow": false
+                  }
                 }
               ],
               "height": 0.12,
@@ -494,8 +526,14 @@
             "layout": "carousel",
             "config": {
               "items": [
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png", "categoryId": "6861"},
-                {"image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png", "categoryId": "6861"}
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png",
+                  "categoryId": "6861"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/coffee-makers-20-2-offer.png",
+                  "categoryId": "6861"
+                }
               ],
               "autoPlay": true,
               "intervalTime": 3,
@@ -507,11 +545,11 @@
             "config": {
               "items": [
                 {
-                    "goToProducts": true,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-border.png",
-                    "padding": 0,
-                    "radius": 0,
-                    "showSubcategory": false
+                  "goToProducts": true,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-border.png",
+                  "padding": 0,
+                  "radius": 0,
+                  "showSubcategory": false
                 }
               ],
               "height": 0.06,
@@ -526,22 +564,22 @@
             "config": {
               "items": [
                 {
-                    "category": 3041,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-accessories.jpg",
-                    "padding": 5,
-                    "radius": 6
+                  "category": 3041,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-accessories.jpg",
+                  "padding": 5,
+                  "radius": 6
                 },
                 {
-                    "category": 606,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-women-shoes.jpg",
-                    "padding": 5,
-                    "radius": 6
+                  "category": 606,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-women-shoes.jpg",
+                  "padding": 5,
+                  "radius": 6
                 },
                 {
-                    "category": 889,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-bags.jpg",
-                    "padding": 5,
-                    "radius": 6
+                  "category": 889,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-women-bags.jpg",
+                  "padding": 5,
+                  "radius": 6
                 }
               ],
               "height": 0.1,
@@ -555,11 +593,11 @@
             "layout": "banner",
             "config": {
               "items": [
-               {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-border.png",
-                    "padding": 0,
-                    "radius": 0,
-                    "showSubcategory": false
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-border.png",
+                  "padding": 0,
+                  "radius": 0,
+                  "showSubcategory": false
                 }
               ],
               "height": 0.06,
@@ -573,17 +611,17 @@
             "layout": "banner",
             "config": {
               "items": [
-               {
-                    "category": 525,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-clothes.jpg",
-                    "padding": 2,
-                    "radius": 6
+                {
+                  "category": 525,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-clothes.jpg",
+                  "padding": 2,
+                  "radius": 6
                 },
                 {
-                    "category": 530,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-shoes.jpg",
-                    "padding": 2,
-                    "radius": 6
+                  "category": 530,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-shoes.jpg",
+                  "padding": 2,
+                  "radius": 6
                 }
               ],
               "height": 0.14,
@@ -597,17 +635,17 @@
             "layout": "banner",
             "config": {
               "items": [
-               {
-                    "category": 900,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-bags.jpg",
-                    "padding": 5,
-                    "radius": 6
+                {
+                  "category": 900,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-bags.jpg",
+                  "padding": 5,
+                  "radius": 6
                 },
                 {
-                    "category": 2073,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-care.jpg",
-                    "padding": 5,
-                    "radius": 6
+                  "category": 2073,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-men-men-care.jpg",
+                  "padding": 5,
+                  "radius": 6
                 }
               ],
               "height": 0.14,
@@ -621,11 +659,11 @@
             "layout": "banner",
             "config": {
               "items": [
-               {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-care-border.png",
-                    "padding": 0,
-                    "radius": 0,
-                    "showSubcategory": false
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2024/11/white-friday-care-border.png",
+                  "padding": 0,
+                  "radius": 0,
+                  "showSubcategory": false
                 }
               ],
               "height": 0.06,
@@ -638,7 +676,11 @@
           {
             "layout": "brands_list",
             "config": {
-              "brandIds": ["8de3f4cf-4e02-4745-948f-2bbf6f2ae210", "adc360b6-2759-4e03-9504-ed2174b27f74", "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"],
+              "brandIds": [
+                "8de3f4cf-4e02-4745-948f-2bbf6f2ae210",
+                "adc360b6-2759-4e03-9504-ed2174b27f74",
+                "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"
+              ],
               "height": 80,
               "title": "Popular Brands",
               "showMore": true
@@ -646,12 +688,11 @@
           }
         ]
       },
-               {
+      {
         "sectionName": "متاع Pay",
         "isWallet": true,
-        "components": [
-        ]
-         },
+        "components": []
+      },
       {
         "sectionName": "Ramadan",
         "components": [
@@ -766,7 +807,11 @@
           {
             "layout": "brands_list",
             "config": {
-               "brandIds": ["8de3f4cf-4e02-4745-948f-2bbf6f2ae210", "adc360b6-2759-4e03-9504-ed2174b27f74", "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"],
+              "brandIds": [
+                "8de3f4cf-4e02-4745-948f-2bbf6f2ae210",
+                "adc360b6-2759-4e03-9504-ed2174b27f74",
+                "baa4b8fc-0226-4cc2-8d05-7506617f4ca2"
+              ],
               "height": 100,
               "title": "Featured Brands",
               "showMore": true
@@ -791,7 +836,7 @@
       {
         "sectionName": "174",
         "components": [
-         {
+          {
             "layout": "influencer_story",
             "config": {
               "items": [
@@ -862,10 +907,8 @@
               "showMore": true
             }
           }
-          
         ]
       }
-
     ]
   }
-} 
+}
