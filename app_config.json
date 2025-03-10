@@ -1186,7 +1186,8 @@
         ]
       },
       {
-        "sectionName": "1677",
+        "sectionName": "Special",
+        "isSpecial": true,
         "components": [
           {
             "layout": "product_list",
