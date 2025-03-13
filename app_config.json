@@ -476,8 +476,7 @@
        },
        {
          "sectionName": "مميز",
-        "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BACKGROUND-LOGO.jpg",
-        "homeTabBarBackgroundColor": "#FAA61A",
+        "sectionBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BACKGROUND-LOGO.jpg",
          "components": [
            {
              "layout": "banner",
@@ -654,8 +653,8 @@
        },
        {
         "sectionName": "سوبر مَتاع",
-        "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SUPER-MATAA-BACKGROUND-LOGO.jpg",
-        "homeTabBarBackgroundColor": "#0063b3",
+        "sectionBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SUPER-MATAA-BACKGROUND-LOGO.jpg",
+
         "isInHouse": true,
         "components": [
           {
