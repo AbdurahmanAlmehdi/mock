@@ -969,11 +969,6 @@
         ]
        },
        {
-         "sectionName": "متاع Pay",
-         "isWallet": true,
-         "components": []
-       },
-       {
          "sectionName": "Ramadan",
          "sectionBackgroundImage": "https://i.pinimg.com/736x/12/ae/9e/12ae9ef1258bb0cbc532c9eb9ddde19c.jpg",
          "isSpecial": true,
