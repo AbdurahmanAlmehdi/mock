@@ -655,11 +655,11 @@
         "isInHouse": true,
         "components": [
           {
-            "layout": "bannerImage",
-            "design": "static",
-            "fit": "fitWidth",
+            "layout": "banner",
+
+
             "marginLeft": 0,
-            "height": 0.200000000000000011102230246251565404236316680908203125,
+            "height": 0.2,
             "items": [
               {
                 "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/slider-for-women-bags-super-mataa.jpg",
@@ -675,8 +675,8 @@
             "marginTop": 6
           },
           {
-            "layout": "bannerImage",
-            "fit": "cover",
+            "layout": "banner",
+
             "height": 0.1,
             "marginTop": 5,
             "items": [
