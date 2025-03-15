@@ -656,12 +656,9 @@
         "components": [
           {
             "layout": "banner",
-
-
-            "marginLeft": 0,
-            "height": 0.2,
-            "items": [
-              {
+            "config": {
+              "items": [
+                {
                 "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/slider-for-women-bags-super-mataa.jpg",
                 "padding": 5,
                 "radius": 6,
@@ -669,18 +666,19 @@
                 "showCartIcon": true,
                 "category": "7088"
               }
-            ],
-            "marginBottom": 0,
-            "marginRight": 0,
-            "marginTop": 6
+              ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
           },
           {
             "layout": "banner",
-
-            "height": 0.1,
-            "marginTop": 5,
-            "items": [
-              {
+            "config": {
+              "items": [
+                {
                 "category": 7087,
                 "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/banner-for-womens-accessories-super-mataa.jpg",
                 "padding": 5,
@@ -698,9 +696,14 @@
                 "padding": 5,
                 "radius": 6
               }
-            ]
+              ],
+              "height": 0.1,
+              "marginTop": 5,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
           },
-          
           {
             "layout": "banner",
             "config": {
@@ -718,13 +721,14 @@
                   "radius": 12
                 }
               ],
-              "height": 0.22,
-              "marginTop": 9,
-              "marginRight": 9,
-              "marginLeft": 9,
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
               "marginBottom": 0
             }
           },
+          
           {
             "layout": "banner",
             "config": {
