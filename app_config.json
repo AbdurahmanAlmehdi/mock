@@ -681,19 +681,25 @@
                 {
                 "category": 7087,
                 "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/banner-for-womens-accessories-super-mataa.jpg",
-                "padding": 10,
+                "padding": 0,
                 "radius": 6
               },
               {
                 "category": 7089,
                 "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/banner-for-womens-clothes-super-mataa.jpg",
-                "padding": 10,
+                "padding": 0,
                 "radius": 6
               },
               {
                 "category": 7093,
                 "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/banner-for-womens-shoes-super-mataa.jpg",
-                "padding": 10,
+                "padding": 0,
+                "radius": 6
+              },
+              {
+                "category": 7093,
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/banner-for-womens-shoes-super-mataa.jpg",
+                "padding": 0,
                 "radius": 6
               }
               ],
