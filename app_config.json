@@ -67,7 +67,7 @@
     "homeTabBarBackgroundColor": "#AF1D35",
     "homeSections": [
       {
-        "sectionName": "مَتااع",
+        "sectionName": "مَتاع",
         "sectionBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MATAA-BACJGROUND-LOGO.jpg",
         "isMain": true,
         "components": [
@@ -655,85 +655,52 @@
         "isInHouse": true,
         "components": [
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "goToProducts": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/OSMANLI-NOTIFY-FEB-2025.gif",
-                  "padding": 0,
-                  "radius": 0,
-                  "showSubcategory": false
-                }
-              ],
-              "height": 0.06,
-              "marginTop": 10,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 10
-            }
+            "layout": "bannerImage",
+            "design": "static",
+            "fit": "fitWidth",
+            "marginLeft": 0,
+            "height": 0.200000000000000011102230246251565404236316680908203125,
+            "items": [
+              {
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/slider-for-women-bags-super-mataa.jpg",
+                "padding": 5,
+                "radius": 6,
+                "showSubcategory": false,
+                "showCartIcon": true,
+                "category": "7088"
+              }
+            ],
+            "marginBottom": 0,
+            "marginRight": 0,
+            "marginTop": 6
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 6298,
-              "height": 320,
-              "title": "منتجات سوبر ⭐",
-              "showMore": true,
-              "marginTop": 20,
-              "marginBottom": 20
-            }
+            "layout": "bannerImage",
+            "fit": "cover",
+            "height": 0.1,
+            "marginTop": 5,
+            "items": [
+              {
+                "category": 7087,
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/banner-for-womens-accessories-super-mataa.jpg",
+                "padding": 5,
+                "radius": 6
+              },
+              {
+                "category": 7089,
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/banner-for-womens-clothes-super-mataa.jpg",
+                "padding": 5,
+                "radius": 6
+              },
+              {
+                "category": 7093,
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/banner-for-womens-shoes-super-mataa.jpg",
+                "padding": 5,
+                "radius": 6
+              }
+            ]
           },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/WOMEN-BAGS-SUPER-MATAA.png",
-                  "padding": 5,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "628"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 40,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "category": 6344,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ACCESSORIES-SUPER-MATAA.png",
-                  "padding": 5,
-                  "radius": 6
-                },
-                {
-                  "category": 534,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/WOMENS-CLOTHES-SUPER-MATAA.png",
-                  "padding": 5,
-                  "radius": 6
-                },
-                {
-                  "category": 606,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/WOMENS-SHOES-SUPER-MATAA.png",
-                  "padding": 5,
-                  "radius": 6
-                }
-              ],
-              "height": 0.1,
-              "marginTop": 5,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 10
-            }
-          },
+          
           {
             "layout": "banner",
             "config": {
