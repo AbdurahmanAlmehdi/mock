@@ -712,7 +712,7 @@
             "config": {
               "items": [
                 {
-                "image": "hhttps://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-makeup-sm.jpg",
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-makeup-sm.jpg",
                 "padding": 5,
                 "radius": 6,
                 "showSubcategory": false,
