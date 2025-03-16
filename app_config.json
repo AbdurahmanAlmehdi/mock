@@ -68,7 +68,10 @@
     "homeSections": [
       {
         "sectionName": "مَتاع",
-        "sectionBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MATAA-BACJGROUND-LOGO.jpg",
+        "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MATAA-BACJGROUND-LOGO.jpg",
+        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MATAA-BACJGROUND-LOGO.jpg",
+        "sectionTabBackgroundColor":"#FFFFFF",
+        "sectionBackgroundColor":"#AF1D35",
         "isMain": true,
         "components": [
           {
