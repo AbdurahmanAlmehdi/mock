@@ -10,6 +10,7 @@
       {
         "sectionName": "مَتاع",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
+        "homeTabBarBackgroundOpacity": 0.5,
         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
         "sectionTabBackgroundColor":"#FAA61A",
         "sectionBackgroundColor":"#AF1D35",
