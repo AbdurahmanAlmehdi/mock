@@ -68,10 +68,8 @@
     "homeSections": [
       {
         "sectionName": "مَتاع",
-        "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MATAA-BACJGROUND-LOGO.jpg",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MATAA-BACJGROUND-LOGO.jpg",
-        "sectionTabBackgroundColor":"#FFFFFF",
-        "sectionBackgroundColor":"#AF1D35",
+        "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/section-logo-main-mataa.png",
+
         "isMain": true,
         "components": [
           {
@@ -655,6 +653,7 @@
       {
         "sectionName": "سوبر مَتاع",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/section-logo-super-mataa.png",
+        
         "isInHouse": true,
         "components": [
           {
