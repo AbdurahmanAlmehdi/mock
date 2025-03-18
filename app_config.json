@@ -11,10 +11,9 @@
       {
         "sectionName": "مَتاع",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-        
         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
         "sectionTabBackgroundColor":"#FAA61A",
-        "sectionBackgroundColor":"#AF1D35",
+        "sectionBackgroundColor":"#FAA61A",
         "isMain": true,
         "components": [
           {
@@ -67,6 +66,34 @@
             }
           },
           {
+            "layout": "carousel",
+            "config": {
+              "items": [
+                {
+                  "category": 7140,
+                  "height": 350,
+                  "goToProducts": true,
+                  "padding": 10.5,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-giveaway-slider.jpg"
+                },
+                {
+                  "category": 7142,
+                  "height": 350,
+                  "goToProducts": true,
+                  "padding": 10.5,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/arshia-giveaway-slider.jpg"
+                }
+              ],
+              "autoPlay": true,
+              "intervalTime": 5,
+              "height": 0.2,
+              "marginTop": 7,
+              "marginBottom": 0,
+              "marginLeft": 0,
+              "marginRight": 0
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "height": 0.22,
@@ -84,7 +111,7 @@
                   "radius": 12
                 }
               ],
-              "marginTop": 9,
+              "marginTop": 7,
               "marginBottom": 0,
               "marginRight": 9,
               "marginLeft": 9
@@ -377,26 +404,6 @@
               "marginRight": 9,
               "marginLeft": 9
             }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.22,
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kids-games-ramadan.jpg",
-                  "padding": 18,
-                  "radius": 12,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "5442"
-                }
-              ],
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginTop": 9,
-              "marginLeft": 0
-            }
           }
         ]
       },
@@ -467,7 +474,7 @@
             "config": {
               "items": [
                 {
-                "image": "hhttps://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-makeup-sm.jpg",
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-makeup-sm.jpg",
                 "padding": 5,
                 "goToProducts": true,
                 "radius": 6,
@@ -774,7 +781,7 @@
         "sectionName": "مميز",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-SPECIAL.png",
         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
-        "sectionTabBackgroundColor":"#AF1D35",
+        "sectionTabBackgroundColor":"#FAA61A",
         "sectionBackgroundColor":"#FAA61A",
         "components": [
           {
@@ -808,7 +815,7 @@
                   "category": 6947
                 }
               ],
-              "height": 0.22,
+              "height": 0.18,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 10,
@@ -827,7 +834,7 @@
                   "category": 6950
                 }
               ],
-              "height": 0.22,
+              "height": 0.18,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 5,
@@ -846,7 +853,7 @@
                   "category": 7021
                 }
               ],
-              "height": 0.22,
+              "height": 0.18,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 5,
@@ -865,7 +872,7 @@
                   "category": 6949
                 }
               ],
-              "height": 0.22,
+              "height": 0.18,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 5,
@@ -884,7 +891,7 @@
                   "category": 6861
                 }
               ],
-              "height": 0.22,
+              "height": 0.18,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 5,
@@ -903,7 +910,7 @@
                   "category": 6951
                 }
               ],
-              "height": 0.22,
+              "height": 0.18,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 5,
@@ -922,7 +929,7 @@
                   "category": 6863
                 }
               ],
-              "height": 0.22,
+              "height": 0.18,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 5,
@@ -934,7 +941,6 @@
       {
         "sectionName": "مسابقة العيد",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-EID.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
         "sectionTabBackgroundColor":"#AF1D35",
         "sectionBackgroundColor":"#FAA61A",
         "isSpecial": true,
