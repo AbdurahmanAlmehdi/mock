@@ -21,13 +21,13 @@
                   "config": {
                      "items": [
                         {
-                        "categoryId": 174,
+                        "categoryId": "174",
                         "height": 350,
                         "padding": 10.5,
                         "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/mothers-day.jpg"
                      },
                      {
-                        "categoryId": 7133,
+                        "categoryId": "7133",
                         "height": 350,
                         "padding": 10.5,
                         "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/donations-2025-1.png"
@@ -71,13 +71,13 @@
                   "config": {
                      "items": [
                         {
-                           "categoryId": 7140,
+                           "categoryId": "7140",
                            "height": 350,
                            "padding": 10.5,
                            "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-giveaway-slider.jpg"
                         },
                         {
-                           "categoryId": 7142,
+                           "categoryId": "7142",
                            "height": 350,
                            "padding": 10.5,
                            "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/arshia-giveaway-slider.jpg"
@@ -443,19 +443,19 @@
                   "config": {
                      "items": [
                         {
-                           "categoryId": 7121,
+                           "categoryId": "7121",
                            "height": 350,
                            "padding": 10.5,
                            "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/BRANDS-giveaway-slider.jpg"
                         },
                         {
-                           "categoryId": 7140,
+                           "categoryId": "7140",
                            "height": 350,
                            "padding": 10.5,
                            "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-giveaway-slider.jpg"
                         },
                         {
-                           "categoryId": 7142,
+                           "categoryId": "7142",
                            "height": 350,
                            "padding": 10.5,
                            "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/arshia-giveaway-slider.jpg"
