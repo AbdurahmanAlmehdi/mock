@@ -18,14 +18,9 @@
             "components": [
                {
                   "layout": "carousel",
-                  "marginTop": 5,
-                  "marginBottom": 0,
-                  "marginLeft": 0,
-                  "marginRight": 0,
-                  "height": 0.24,
-                  "fit": "cover",
-                  "items": [
-                     {
+                  "config": {
+                     "items": [
+                        {
                         "categoryId": 174,
                         "height": 350,
                         "padding": 10.5,
@@ -37,10 +32,15 @@
                         "padding": 10.5,
                         "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/donations-2025-1.png"
                      }
-                  ],
-                  "autoPlay": true,
-                  "radius": 20,
-                  "intervalTime": 5
+                     ],
+                     "autoPlay": true,
+                     "intervalTime": 5,
+                     "height": 0.24,
+                     "marginTop": 5,
+                     "marginBottom": 0,
+                     "marginLeft": 0,
+                     "marginRight": 0
+                  }
                },
                {
                   "layout": "banner",
