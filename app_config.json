@@ -40,7 +40,7 @@
                   ],
                   "autoPlay": true,
                   "radius": 20,
-                  "intervalTime": 5,
+                  "intervalTime": 5
                },
                {
                   "layout": "banner",
