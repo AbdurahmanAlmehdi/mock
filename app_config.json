@@ -17,8 +17,7 @@
             "isMain": true,
             "components": [
                {
-                  "layout": "bannerImage",
-                  "isSlider": true,
+                  "layout": "carousel",
                   "marginTop": 5,
                   "marginBottom": 0,
                   "marginLeft": 0,
@@ -27,37 +26,21 @@
                   "fit": "cover",
                   "items": [
                      {
-                        "category": 174,
+                        "categoryId": 174,
                         "height": 350,
                         "padding": 10.5,
                         "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/mothers-day.jpg"
                      },
                      {
-                        "category": 7133,
+                        "categoryId": 7133,
                         "height": 350,
                         "padding": 10.5,
                         "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/donations-2025-1.png"
                      }
                   ],
                   "autoPlay": true,
-                  "design": "default",
                   "radius": 20,
                   "intervalTime": 5,
-                  "showBackground": false,
-                  "upHeight": 107.73319251095265,
-                  "isBlur": false,
-                  "title": {
-                     "title": "",
-                     "showSearch": false,
-                     "height": 0,
-                     "fontSize": 20,
-                     "marginLeft": 0,
-                     "marginRight": 0,
-                     "marginTop": 0,
-                     "marginBottom": 0,
-                     "layout": "header_text",
-                     "key": "v1d5sh0jd3"
-                  }
                },
                {
                   "layout": "banner",
