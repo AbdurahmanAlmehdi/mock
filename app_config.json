@@ -1,596 +1,60 @@
 {
-  "categoryBanners": [],
-  "cartConfig": {
+   "categoryBanners": [],
+   "cartConfig": {
      "emptyCartId": "6298"
-  },
-  "homeConfig": {
+   },
+   "homeConfig": {
      "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
      "homeTabBarBackgroundOpacity": 0.5,
      "homeTabBarBackgroundColor": "#AF1D35",
      "homeSections": [
-        {
-           "sectionName": "مَتاع",
-           "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-           "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
-           "sectionTabBackgroundColor": "#FAA61A",
-           "sectionBackgroundColor": "#FAA61A",
-           "isMain": true,
-           "components": [
-              {
-                 "layout": "carousel",
-                 "config": {
-                    "items": [
-                       {
-                       "categoryId": "174",
-                       "height": 350,
-                       "padding": 10.5,
-                       "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/mothers-day.jpg"
-                    },
-                    {
-                       "categoryId": "7133",
-                       "height": 350,
-                       "padding": 10.5,
-                       "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/donations-2025-1.png"
-                    }
-                    ],
-                    "autoPlay": true,
-                    "intervalTime": 5,
-                    "height": 0.2,
-                    "marginTop": 5,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 533,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-shoes-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 525,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-clothes-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "carousel",
-                 "config": {
-                    "items": [
-                      {
-                        "categoryId": "7140",
-                        "height": 350,
-                        "padding": 10.5,
-                        "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-giveaway-slider-edited-YO.png"
-                      }
-                    ],
-                    "autoPlay": true,
-                    "intervalTime": 5,
-                    "height": 0.2,
-                    "marginTop": 5,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0
-                 }
-              },
-              {
-                "layout": "carousel",
-                "config": {
-                   "items": [
-                    {
-                      "categoryId": "7142",
-                      "height": 350,
-                      "padding": 10.5,
-                      "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ARSHIA-MIDEA-ROWENTA-giveaway.jpg"
-                    }
-                   ],
-                   "autoPlay": true,
-                   "intervalTime": 5,
-                   "height": 0.2,
-                   "marginTop": 5,
-                   "marginBottom": 0,
-                   "marginLeft": 0,
-                   "marginRight": 0
-                }
-             },
-             {
-              "layout": "carousel",
-              "config": {
-                 "items": [
-                   {
-                    "categoryId": "7159",
-                    "height": 350,
-                    "padding": 10.5,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/NASAEM-LIBYA-giveaway.jpg"
-                   }
-                 ],
-                 "autoPlay": true,
-                 "intervalTime": 5,
-                 "height": 0.2,
-                 "marginTop": 5,
-                 "marginBottom": 0,
-                 "marginLeft": 0,
-                 "marginRight": 0
-               }
-             },
-             {
-              "layout": "carousel",
-              "config": {
-                 "items": [
-                  {
-                    "categoryId": "7100",
-                    "height": 350,
-                    "padding": 10.5,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/TAFAUL-ESPAGNA-giveaway.jpg"
-                  }
-                 ],
-                 "autoPlay": true,
-                 "intervalTime": 5,
-                 "height": 0.2,
-                 "marginTop": 5,
-                 "marginBottom": 0,
-                 "marginLeft": 0,
-                 "marginRight": 0
-               }
-             },
-             {
-              "layout": "carousel",
-              "config": {
-                 "items": [
-                  {
-                    "categoryId": "7154",
-                    "height": 350,
-                    "padding": 10.5,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/DAWN-COME-giveaway.jpg"
-                  }
-                 ],
-                 "autoPlay": true,
-                 "intervalTime": 5,
-                 "height": 0.2,
-                 "marginTop": 5,
-                 "marginBottom": 0,
-                 "marginLeft": 0,
-                 "marginRight": 0
-              }
-            },
+       {
+         "sectionName": "مَتاع",
+         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
+         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
+         "sectionTabBackgroundColor": "#FAA61A",
+         "sectionBackgroundColor": "#FAA61A",
+         "isMain": true,
+         "components": [
            {
-             "layout": "banner",
-              "config": {
-                 "height": 0.22,
-                 "items": [
-                       {
-                          "category": 1865,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-perfumes-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 669,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-accessories-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
+             "layout": "influencer_story",
+             "config": {
+               "items": [
+                 {
+                   "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-watches-photo-2-1.png",
+                   "slider_images": [
+                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-watches-photo-2-1.png",
+                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-watches-photo-2.png"
+                   ],
+                   "title": "ساعات نسائية",
+                   "categoryId": "2358",
+                   "influencer_name": "mataa مَتاع",
+                   "card_title": "أفضل الساعات النسائية داخل تطبيق مَتاع",
+                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 3152,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/face-care-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 6344,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/hair-care-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 4472,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/body-care-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 1866,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/women-perfumes-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 7,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 540,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/9.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 653,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/10.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 637,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-accessories-box-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 640,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-bags-edited-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 3040,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/womem-watches-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 3038,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-watches-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 2508,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 3315,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/electric-devices-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 2496,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/bedroom-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 2517,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/home-accessories-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 2791,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-slider-box-eyes-makeup-edited.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 1875,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-slider-box-nails-edited.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 2714,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/lips-makeup-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 2694,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/face-makeup-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 5586,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/phone-supplies-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 5593,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/earpods-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 2124,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/girls-shoes-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 2101,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/boys-clothes-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 2114,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/girls-clothes-box-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 2122,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/boys-shoes-box-ramadan.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "height": 0.22,
-                    "items": [
-                       {
-                          "category": 2017,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/box-banner-kids-accessories.png",
-                          "padding": 9,
-                          "radius": 12
-                       },
-                       {
-                          "category": 5440,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/box-banner-kids-games.png",
-                          "padding": 9,
-                          "radius": 12
-                       }
-                    ],
-                    "marginTop": 9,
-                    "marginBottom": 0,
-                    "marginRight": 9,
-                    "marginLeft": 9
-                 }
-              },
-              {
-                "layout": "product_list",
-                "config": {
-                   "categoryId": 7147,
-                   "height": 320,
-                   "title": "أحدث منتجات SHEIN",
-                   "showMore": true
-                }
+               ],
+               "height": 200,
+               "marginTop": 10,
+               "marginBottom": 10,
+               "showMore": true
              }
-           ]
-        },
-        {
-           "sectionName": "سوبر مَتاع",
-           "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-S-MATAA.png",
-           "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
-           "sectionTabBackgroundColor": "#faa61a",
-           "sectionBackgroundColor": "#A0C0FF",
-           "isInHouse": true,
-           "components": [
-            {
-              "layout": "carousel",
-              "config": {
-                 "items": [
-                  {
-                    "categoryId": "7154",
-                    "height": 350,
-                    "padding": 10.5,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/DAWN-COME-giveaway.jpg"
-                  }
-                 ],
-                 "autoPlay": true,
-                 "intervalTime": 5,
-                 "height": 0.2,
-                 "marginTop": 5,
-                 "marginBottom": 0,
-                 "marginLeft": 0,
-                 "marginRight": 0
-              }
-            },
-            {
-              "layout": "carousel",
-              "config": {
-                 "items": [
-                  {
-                    "categoryId": "7100",
-                    "height": 350,
-                    "padding": 10.5,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/TAFAUL-ESPAGNA-giveaway.jpg"
-                  }
-                 ],
-                 "autoPlay": true,
-                 "intervalTime": 5,
-                 "height": 0.2,
-                 "marginTop": 5,
-                 "marginBottom": 0,
-                 "marginLeft": 0,
-                 "marginRight": 0
-               }
-             },
-             {
-              "layout": "carousel",
-              "config": {
-                 "items": [
-                  {
-                    "categoryId": "6949",
-                    "height": 350,
-                    "padding": 10.5,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-and-rosebaie-giveaway.jpg"
-                 }
-                 ],
-                 "autoPlay": true,
-                 "intervalTime": 5,
-                 "height": 0.2,
-                 "marginTop": 5,
-                 "marginBottom": 0,
-                 "marginLeft": 0,
-                 "marginRight": 0
-              }
-            },
-            {
+           },
+           {
              "layout": "carousel",
              "config": {
-                "items": [
-                   {
-                     "categoryId": "7143",
-                     "height": 350,
-                     "padding": 10.5,
-                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SANDAL-giveaway.jpg"
-                   }
+               "items": [
+                 {
+                   "categoryId": "174",
+                   "height": 350,
+                   "padding": 10.5,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/mothersdaygiveaway.png"
+                 },
+                 {
+                   "categoryId": "7133",
+                   "height": 350,
+                   "padding": 10.5,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/donations-edited-giveaway.png"
+                 }
                ],
                "autoPlay": true,
                "intervalTime": 5,
@@ -601,527 +65,1368 @@
                "marginRight": 0
              }
            },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-clothes-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "7091"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 533,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-shoes-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 525,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-clothes-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-shoes-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "7092"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-giveaway-slider-edited-YO.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7140"
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-bags-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "7088"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ARSHIA-MIDEA-ROWENTA-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7142"
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "category": 7087,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/accessories-wmn-sm.png",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       },
-                       {
-                          "category": 7089,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-clothes-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       },
-                       {
-                          "category": 7093,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-shoes-sm.png",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       }
-                    ],
-                    "height": 0.15,
-                    "marginTop": 3,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/NASAEM-LIBYA-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7159"
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-makeup-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "7101"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/TAFAUL-ESPAGNA-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7088"
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "category": 7102,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/eyes-makeup-sm.png",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       },
-                       {
-                          "category": 7103,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/lips-makeup-sm.png",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       },
-                       {
-                          "category": 7104,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/nail-products-sm.png",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       }
-                    ],
-                    "height": 0.15,
-                    "marginTop": 3,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/DAWN-COME-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7154"
                  }
-              },
-              {
-                "layout": "product_list",
-                "config": {
-                   "categoryId": 7147,
-                   "height": 320,
-                   "title": "ديكور وزينة",
-                   "showMore": true
-                }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/food-compliments-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "7090"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdehar-giveaway.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7162"
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "category": 7100,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/body-care-sm.png",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       },
-                       {
-                          "category": 7097,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-care-sm.png",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       },
-                       {
-                          "category": 7099,
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hair-care-sm.png",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6
-                       }
-                    ],
-                    "height": 0.15,
-                    "marginTop": 3,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 1865,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-perfumes-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 669,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-accessories-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-clothes-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "7095"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 3152,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/face-care-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 6344,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/hair-care-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-shoes-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "7094"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 4472,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/body-care-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 1866,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/women-perfumes-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "product_list",
-                 "config": {
-                    "categoryId": 7096,
-                    "height": 320,
-                    "title": "ألعاب العيد",
-                    "showMore": true
+               ],
+               "marginTop": 7,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 540,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/9.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 653,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/10.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/home-electro-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "6854"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 637,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-accessories-box-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 640,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-bags-edited-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kitchen-tools-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "6905"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 3040,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/womem-watches-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 3038,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/men-watches-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/super-home-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "6901"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 2508,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/kitchen-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 3315,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/electric-devices-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/super-tech-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "7105"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 2496,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/bedroom-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 2517,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/home-accessories-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/perfume-sm.jpg",
-                          "padding": 5,
-                          "goToProducts": true,
-                          "radius": 6,
-                          "showSubcategory": false,
-                          "showCartIcon": true,
-                          "category": "6894"
-                       }
-                    ],
-                    "height": 0.2,
-                    "marginTop": 6,
-                    "marginRight": 0,
-                    "marginLeft": 0,
-                    "marginBottom": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 2791,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-slider-box-eyes-makeup-edited.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 1875,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-slider-box-nails-edited.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              }
-           ]
-        },
-        {
-           "sectionName": "مميز",
-           "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-SPECIAL.png",
-           "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
-           "sectionTabBackgroundColor": "#FAA61A",
-           "sectionBackgroundColor": "#FAA61A",
-           "components": [
-              {
-                 "layout": "brands_list",
-                 "config": {
-                    "brandIds": [
-                       "StarVille",
-                       "Seropipe",
-                       "shaan",
-                       "rosebaie",
-                       "d2s",
-                       "philips-home",
-                       "osmanli-oud",
-                       "ghalior-paris",
-                       "abna-youssef"
-                    ],
-                    "height": 80,
-                    "title": "Popular Brands",
-                    "showMore": true
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 2714,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/lips-makeup-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 2694,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/face-makeup-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-seropipe-slider.png",
-                          "padding": 18,
-                          "radius": 12,
-                          "goToProducts": true,
-                          "category": 6947
-                       }
-                    ],
-                    "height": 0.24,
-                    "marginBottom": 0,
-                    "marginRight": 0,
-                    "marginTop": 10,
-                    "marginLeft": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 5586,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/phone-supplies-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 5593,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/earpods-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-philips-slider.png",
-                          "padding": 18,
-                          "radius": 12,
-                          "goToProducts": true,
-                          "category": 6950
-                       }
-                    ],
-                    "height": 0.24,
-                    "marginBottom": 0,
-                    "marginRight": 0,
-                    "marginTop": 5,
-                    "marginLeft": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 2124,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/girls-shoes-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 2101,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/02/boys-clothes-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-lierack-slider-edit-2.png",
-                          "padding": 18,
-                          "radius": 12,
-                          "goToProducts": true,
-                          "category": 7021
-                       }
-                    ],
-                    "height": 0.24,
-                    "marginBottom": 0,
-                    "marginRight": 0,
-                    "marginTop": 5,
-                    "marginLeft": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 2114,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/girls-clothes-box-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 2122,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/boys-shoes-box-ramadan.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-D2S-SLIDER-edited.png",
-                          "padding": 18,
-                          "radius": 12,
-                          "goToProducts": true,
-                          "category": 6949
-                       }
-                    ],
-                    "height": 0.24,
-                    "marginBottom": 0,
-                    "marginRight": 0,
-                    "marginTop": 5,
-                    "marginLeft": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "height": 0.22,
+               "items": [
+                 {
+                   "category": 2017,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/box-banner-kids-accessories.png",
+                   "padding": 9,
+                   "radius": 12
+                 },
+                 {
+                   "category": 5440,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/box-banner-kids-games.png",
+                   "padding": 9,
+                   "radius": 12
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-OSMNALI-SLIDER.png",
-                          "padding": 18,
-                          "radius": 12,
-                          "goToProducts": true,
-                          "category": 6861
-                       }
-                    ],
-                    "height": 0.24,
-                    "marginBottom": 0,
-                    "marginRight": 0,
-                    "marginTop": 5,
-                    "marginLeft": 0
+               ],
+               "marginTop": 9,
+               "marginBottom": 0,
+               "marginRight": 9,
+               "marginLeft": 9
+             }
+           },
+           {
+             "layout": "product_list",
+             "config": {
+               "categoryId": 7160,
+               "height": 320,
+               "title": "أحدث منتجات SHEIN",
+               "showMore": true
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/DAWN-COME-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7154"
                  }
-              },
-              {
-                 "layout": "banner",
-                 "config": {
-                    "items": [
-                       {
-                          "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-G-PARIS-SLIDER.png",
-                          "padding": 18,
-                          "radius": 12,
-                          "goToProducts": true,
-                          "category": 6951
-                       }
-                    ],
-                    "height": 0.24,
-                    "marginBottom": 0,
-                    "marginRight": 0,
-                    "marginTop": 5,
-                    "marginLeft": 0
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/TAFAUL-ESPAGNA-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7088"
                  }
-              }
-           ]
-        },
-        {
-           "sectionName": "مسابقة العيد",
-           "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA-eid-edited.png",
-           "sectionTabBackgroundColor": "#faa61a",
-           "sectionBackgroundColor": "#FAA61A",
-           "isSpecial": true,
-           "components": []
-        }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-and-rosebaie-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "6949"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SANDAL-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7143"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/lelas-giveaway.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7177"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           }
+         ]
+       },
+       {
+         "sectionName": "سوبر مَتاع",
+         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-S-MATAA.png",
+         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
+         "sectionTabBackgroundColor": "#faa61a",
+         "sectionBackgroundColor": "#A0C0FF",
+         "isInHouse": true,
+         "components": [
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/DAWN-COME-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7154"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/TAFAUL-ESPAGNA-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7088"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-and-rosebaie-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "6949"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SANDAL-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7143"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/lelas-giveaway.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7177"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-clothes-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7091"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-shoes-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7092"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-bags-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7088"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 4,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "category": 7087,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/accessories-wmn-sm.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 },
+                 {
+                   "category": 7089,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-clothes-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 },
+                 {
+                   "category": 7093,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-shoes-sm.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 }
+               ],
+               "height": 0.15,
+               "marginTop": 3,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-makeup-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7101"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 5,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "category": 7102,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/eyes-makeup-sm.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 },
+                 {
+                   "category": 7103,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/lips-makeup-sm.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 },
+                 {
+                   "category": 7104,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/nail-products-sm.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 }
+               ],
+               "height": 0.15,
+               "marginTop": 3,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "product_list",
+             "config": {
+               "categoryId": 7147,
+               "height": 320,
+               "title": "ديكور وزينة",
+               "showMore": true
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/food-compliments-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7090"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "category": 7100,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/body-care-sm.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 },
+                 {
+                   "category": 7097,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-care-sm.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 },
+                 {
+                   "category": 7099,
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hair-care-sm.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6
+                 }
+               ],
+               "height": 0.15,
+               "marginTop": 3,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-clothes-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7095"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-shoes-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7094"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "product_list",
+             "config": {
+               "categoryId": 7096,
+               "height": 320,
+               "title": "ألعاب العيد",
+               "showMore": true
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/home-electro-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "6854"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kitchen-tools-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "6905"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/super-home-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "6901"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/super-tech-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7105"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/perfume-sm.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "6894"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-giveaway-slider-edited-YO.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7140"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ARSHIA-MIDEA-ROWENTA-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7142"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/NASAEM-LIBYA-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7159"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/TAFAUL-ESPAGNA-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7088"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/DAWN-COME-giveaway.jpg",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7154"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdehar-giveaway.png",
+                   "padding": 5,
+                   "goToProducts": true,
+                   "radius": 6,
+                   "showSubcategory": false,
+                   "showCartIcon": true,
+                   "category": "7162"
+                 }
+               ],
+               "height": 0.2,
+               "marginTop": 6,
+               "marginRight": 0,
+               "marginLeft": 0,
+               "marginBottom": 0
+             }
+           }
+         ]
+       },
+       {
+         "sectionName": "مميز",
+         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-SPECIAL.png",
+         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
+         "sectionTabBackgroundColor": "#FAA61A",
+         "sectionBackgroundColor": "#FAA61A",
+         "components": [
+           {
+             "layout": "brands_list",
+             "config": {
+               "brandIds": [
+                 "StarVille",
+                 "Seropipe",
+                 "shaan",
+                 "rosebaie",
+                 "d2s",
+                 "philips-home",
+                 "osmanli-oud",
+                 "ghalior-paris",
+                 "abna-youssef"
+               ],
+               "height": 80,
+               "title": "Popular Brands",
+               "showMore": true
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-seropipe-slider.png",
+                   "padding": 18,
+                   "radius": 12,
+                   "goToProducts": true,
+                   "category": 6947
+                 }
+               ],
+               "height": 0.24,
+               "marginBottom": 0,
+               "marginRight": 0,
+               "marginTop": 10,
+               "marginLeft": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-philips-slider.png",
+                   "padding": 18,
+                   "radius": 12,
+                   "goToProducts": true,
+                   "category": 6950
+                 }
+               ],
+               "height": 0.24,
+               "marginBottom": 0,
+               "marginRight": 0,
+               "marginTop": 5,
+               "marginLeft": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-lierack-slider-edit-2.png",
+                   "padding": 18,
+                   "radius": 12,
+                   "goToProducts": true,
+                   "category": 7021
+                 }
+               ],
+               "height": 0.24,
+               "marginBottom": 0,
+               "marginRight": 0,
+               "marginTop": 5,
+               "marginLeft": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-D2S-SLIDER-edited.png",
+                   "padding": 18,
+                   "radius": 12,
+                   "goToProducts": true,
+                   "category": 6949
+                 }
+               ],
+               "height": 0.24,
+               "marginBottom": 0,
+               "marginRight": 0,
+               "marginTop": 5,
+               "marginLeft": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-OSMNALI-SLIDER.png",
+                   "padding": 18,
+                   "radius": 12,
+                   "goToProducts": true,
+                   "category": 6861
+                 }
+               ],
+               "height": 0.24,
+               "marginBottom": 0,
+               "marginRight": 0,
+               "marginTop": 5,
+               "marginLeft": 0
+             }
+           },
+           {
+             "layout": "banner",
+             "config": {
+               "items": [
+                 {
+                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-G-PARIS-SLIDER.png",
+                   "padding": 18,
+                   "radius": 12,
+                   "goToProducts": true,
+                   "category": 6951
+                 }
+               ],
+               "height": 0.24,
+               "marginBottom": 0,
+               "marginRight": 0,
+               "marginTop": 5,
+               "marginLeft": 0
+             }
+           }
+         ]
+       },
+       {
+         "sectionName": "مسابقة العيد",
+         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA-eid-edited.png",
+         "sectionTabBackgroundColor": "#faa61a",
+         "sectionBackgroundColor": "#FAA61A",
+         "isSpecial": true,
+         "components": []
+       }
      ]
-  }
-}
+   }
+ }
