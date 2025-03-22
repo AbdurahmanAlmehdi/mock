@@ -21,20 +21,20 @@
               "config": {
                 "items": [
                   {
-                    "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-watches-photo-2-1.png",
+                    "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-1.png",
                     "slider_images": [
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-1.png",
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-2.png",
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-3.png"
                     ],
-                    "title": "أحدث منتجات SHEIN",
+                    "title": "مستجدات مَتاع",
                     "categoryId": "7160",
                     "influencer_name": "mataa مَتاع",
                     "card_title": "كوليكشن عصري يليق بك",
                     "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
                   },
                   {
-                    "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-watches-photo-2-1.png",
+                    "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-1.png",
                     "slider_images": [
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/GHG-watches-photo-1.png",
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/GHG-watches-photo-2.png",
@@ -79,13 +79,13 @@
                 "height": 0.22,
                 "items": [
                   {
-                    "category": 2809,
+                    "category": 7078,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/box-banner-hijab-edited.png",
                     "padding": 9,
                     "radius": 12
                   },
                   {
-                    "category": 7078,
+                    "category": 2809,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/box-banner-abaya-edited.png",
                     "padding": 9,
                     "radius": 12
@@ -581,15 +581,6 @@
                 "marginBottom": 0,
                 "marginRight": 9,
                 "marginLeft": 9
-              }
-            },
-            {
-              "layout": "product_list",
-              "config": {
-                "categoryId": 7160,
-                "height": 320,
-                "title": "أحدث منتجات SHEIN",
-                "showMore": true
               }
             },
             {
