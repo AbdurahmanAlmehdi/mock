@@ -1,7 +1,8 @@
 {
     "categoryBanners": [],
     "cartConfig": {
-      "emptyCartId": "6298"
+      "emptyCartId": "6298",
+        "isCouponEnabled": true
     },
     "homeConfig": {
       "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
