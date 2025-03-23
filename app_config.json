@@ -1,8 +1,7 @@
 {
     "categoryBanners": [],
     "cartConfig": {
-      "emptyCartId": "6298",
-        "isCouponEnabled": true
+      "emptyCartId": "6298"
     },
     "homeConfig": {
       "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
@@ -787,43 +786,25 @@
             {
               "layout": "banner",
               "config": {
+                "height": 0.22,
                 "items": [
                   {
+                    "category": 7091,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-clothes-sm.jpg",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 6,
-                    "showSubcategory": false,
-                    "showCartIcon": true,
-                    "category": "7091"
-                  }
-                ],
-                "height": 0.2,
-                "marginTop": 4,
-                "marginRight": 0,
-                "marginLeft": 0,
-                "marginBottom": 0
-              }
-            },
-            {
-              "layout": "banner",
-              "config": {
-                "items": [
+                    "padding": 9,
+                    "radius": 12
+                  },
                   {
+                    "category": 7092,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-shoes-sm.jpg",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 6,
-                    "showSubcategory": false,
-                    "showCartIcon": true,
-                    "category": "7092"
+                    "padding": 9,
+                    "radius": 12
                   }
                 ],
-                "height": 0.2,
-                "marginTop": 4,
-                "marginRight": 0,
-                "marginLeft": 0,
-                "marginBottom": 0
+                "marginTop": 3,
+                "marginBottom": 0,
+                "marginRight": 9,
+                "marginLeft": 9
               }
             },
             {
@@ -991,43 +972,25 @@
             {
               "layout": "banner",
               "config": {
+                "height": 0.22,
                 "items": [
                   {
+                    "category": 7095,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-clothes-sm.jpg",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 6,
-                    "showSubcategory": false,
-                    "showCartIcon": true,
-                    "category": "7095"
-                  }
-                ],
-                "height": 0.2,
-                "marginTop": 6,
-                "marginRight": 0,
-                "marginLeft": 0,
-                "marginBottom": 0
-              }
-            },
-            {
-              "layout": "banner",
-              "config": {
-                "items": [
+                    "padding": 9,
+                    "radius": 12
+                  },
                   {
+                    "category": 7094,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-shoes-sm.jpg",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 6,
-                    "showSubcategory": false,
-                    "showCartIcon": true,
-                    "category": "7094"
+                    "padding": 9,
+                    "radius": 12
                   }
                 ],
-                "height": 0.2,
-                "marginTop": 6,
-                "marginRight": 0,
-                "marginLeft": 0,
-                "marginBottom": 0
+                "marginTop": 3,
+                "marginBottom": 0,
+                "marginRight": 9,
+                "marginLeft": 9
               }
             },
             {
@@ -1084,43 +1047,25 @@
             {
               "layout": "banner",
               "config": {
+                "height": 0.22,
                 "items": [
                   {
+                    "category": 6901,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/super-home-sm.jpg",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 6,
-                    "showSubcategory": false,
-                    "showCartIcon": true,
-                    "category": "6901"
-                  }
-                ],
-                "height": 0.2,
-                "marginTop": 6,
-                "marginRight": 0,
-                "marginLeft": 0,
-                "marginBottom": 0
-              }
-            },
-            {
-              "layout": "banner",
-              "config": {
-                "items": [
+                    "padding": 9,
+                    "radius": 12
+                  },
                   {
+                    "category": 7105,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/super-tech-sm.jpg",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 6,
-                    "showSubcategory": false,
-                    "showCartIcon": true,
-                    "category": "7105"
+                    "padding": 9,
+                    "radius": 12
                   }
                 ],
-                "height": 0.2,
-                "marginTop": 6,
-                "marginRight": 0,
-                "marginLeft": 0,
-                "marginBottom": 0
+                "marginTop": 3,
+                "marginBottom": 0,
+                "marginRight": 9,
+                "marginLeft": 9
               }
             },
             {
