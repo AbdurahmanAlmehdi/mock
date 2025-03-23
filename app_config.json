@@ -82,12 +82,14 @@
                     "category": 7078,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/box-banner-hijab-edited.png",
                     "padding": 9,
+                    "goToProducts": true,
                     "radius": 12
                   },
                   {
                     "category": 2809,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/abaya-box-banner-slider.png",
                     "padding": 9,
+                    "goToProducts": true,
                     "radius": 12
                   }
                 ],
