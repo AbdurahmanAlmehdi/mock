@@ -76,6 +76,90 @@
             {
               "layout": "banner",
               "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MEN-80.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7194"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/KIDS-80.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7182"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/WOMEN-80.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7193"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ARSHIA-MIDEA-ROWENTA-giveaway.jpg",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7142"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
                 "height": 0.22,
                 "items": [
                   {
@@ -93,7 +177,7 @@
                     "radius": 12
                   }
                 ],
-                "marginTop": 9,
+                "marginTop": 6,
                 "marginBottom": 0,
                 "marginRight": 9,
                 "marginLeft": 9
@@ -790,16 +874,14 @@
                 "items": [
                   {
                     "category": 7091,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-MEN-CLOTHES.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-clothes-sm.jpg",
                     "padding": 9,
-                    "goToProducts": true,
                     "radius": 12
                   },
                   {
                     "category": 7092,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-MEN-SHOES.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-shoes-sm.jpg",
                     "padding": 9,
-                    "goToProducts": true,
                     "radius": 12
                   }
                 ],
@@ -978,16 +1060,14 @@
                 "items": [
                   {
                     "category": 7095,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-KIDS-CLOTHES.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-clothes-sm.jpg",
                     "padding": 9,
-                    "goToProducts": true,
                     "radius": 12
                   },
                   {
                     "category": 7094,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-KIDS-SHOES.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-shoes-sm.jpg",
                     "padding": 9,
-                    "goToProducts": true,
                     "radius": 12
                   }
                 ],
@@ -1055,16 +1135,14 @@
                 "items": [
                   {
                     "category": 6901,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-SUPER-HOME.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/super-home-sm.jpg",
                     "padding": 9,
-                    "goToProducts": true,
                     "radius": 12
                   },
                   {
                     "category": 7105,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-SUPER-HOME-1.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/super-tech-sm.jpg",
                     "padding": 9,
-                    "goToProducts": true,
                     "radius": 12
                   }
                 ],
@@ -1090,6 +1168,69 @@
                 ],
                 "height": 0.2,
                 "marginTop": 6,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MEN-80.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7194"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/KIDS-80.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7182"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/WOMEN-80.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7193"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
                 "marginRight": 0,
                 "marginLeft": 0,
                 "marginBottom": 0
