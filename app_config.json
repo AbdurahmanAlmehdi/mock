@@ -139,6 +139,48 @@
             {
               "layout": "banner",
               "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/the-first-sportsman.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7196"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/watches-discount.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7195"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
                 "height": 0.22,
                 "items": [
                   {
