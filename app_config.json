@@ -45,6 +45,19 @@
                     "influencer_name": "mataa مَتاع",
                     "card_title": "ضيافة من الطراز الملكي",
                     "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  },
+                  {
+                    "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-main-photo.png",
+                    "slider_images": [
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-1.png",
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-2.png",
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-3.png"
+                    ],
+                    "title": "بوكس المفاجأة",
+                    "categoryId": "7188",
+                    "influencer_name": "mataa مَتاع",
+                    "card_title": "إحتياجك التام للعناية ببشرتك في بوكس واحد",
+                    "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
                   }
                 ],
                 "height": 200,
