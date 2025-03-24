@@ -215,6 +215,27 @@
             {
               "layout": "banner",
               "config": {
+                "items": [
+                  {
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hashem-group.png",
+                    "padding": 5,
+                    "goToProducts": true,
+                    "radius": 6,
+                    "showSubcategory": false,
+                    "showCartIcon": true,
+                    "category": "7195"
+                  }
+                ],
+                "height": 0.2,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
                 "height": 0.22,
                 "items": [
                   {
@@ -1144,43 +1165,25 @@
             {
               "layout": "banner",
               "config": {
+                "height": 0.24,
                 "items": [
                   {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/home-electro-sm.jpg",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 6,
-                    "showSubcategory": false,
-                    "showCartIcon": true,
-                    "category": "6854"
-                  }
-                ],
-                "height": 0.2,
-                "marginTop": 6,
-                "marginRight": 0,
-                "marginLeft": 0,
-                "marginBottom": 0
-              }
-            },
-            {
-              "layout": "banner",
-              "config": {
-                "items": [
+                    "category": 6854,
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-electrohome.png",
+                    "padding": 6,
+                    "radius": 12
+                  },
                   {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kitchen-tools-sm.jpg",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 6,
-                    "showSubcategory": false,
-                    "showCartIcon": true,
-                    "category": "6905"
+                    "category": 6905,
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-kitchen-appliances.png",
+                    "padding": 6,
+                    "radius": 12
                   }
                 ],
-                "height": 0.2,
-                "marginTop": 6,
+                "marginTop": 3,
+                "marginBottom": 0,
                 "marginRight": 0,
-                "marginLeft": 0,
-                "marginBottom": 0
+                "marginLeft": 0
               }
             },
             {
