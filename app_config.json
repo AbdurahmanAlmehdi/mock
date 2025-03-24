@@ -925,25 +925,25 @@
             {
               "layout": "banner",
               "config": {
-                "height": 0.22,
+                "height": 0.24,
                 "items": [
                   {
                     "category": 7091,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-MEN-CLOTHES.png",
-                    "padding": 9,
+                    "padding": 6,
                     "radius": 12
                   },
                   {
                     "category": 7092,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-MEN-SHOES.png",
-                    "padding": 9,
+                    "padding": 6,
                     "radius": 12
                   }
                 ],
                 "marginTop": 3,
                 "marginBottom": 0,
-                "marginRight": 9,
-                "marginLeft": 9
+                "marginRight": 0,
+                "marginLeft": 0
               }
             },
             {
@@ -1186,25 +1186,25 @@
             {
               "layout": "banner",
               "config": {
-                "height": 0.22,
+                "height": 0.24,
                 "items": [
                   {
                     "category": 6901,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-SUPER-HOME.png",
-                    "padding": 9,
+                    "padding": 6,
                     "radius": 12
                   },
                   {
                     "category": 7105,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-SUPER-HOME-1.png",
-                    "padding": 9,
+                    "padding": 6,
                     "radius": 12
                   }
                 ],
                 "marginTop": 3,
                 "marginBottom": 0,
-                "marginRight": 9,
-                "marginLeft": 9
+                "marginRight": 0,
+                "marginLeft": 0
               }
             },
             {
