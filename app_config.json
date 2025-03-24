@@ -1,8 +1,7 @@
 {
     "categoryBanners": [],
     "cartConfig": {
-      "emptyCartId": "6298",
-      "isCouponEnabled": true
+      "emptyCartId": "6298"
     },
     "homeConfig": {
       "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
@@ -184,7 +183,7 @@
               "config": {
                 "items": [
                   {
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tefal-and-moulinex-giveaway.png",
+                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tefal-and-moulinex-giveaway-EDITED.png",
                     "padding": 5,
                     "goToProducts": true,
                     "radius": 6,
@@ -794,32 +793,6 @@
                 "marginRight": 0,
                 "marginLeft": 0,
                 "marginBottom": 0
-              }
-            },
-            {
-              "layout": "banner",
-              "config": {
-                "height": 0.22,
-                "items": [
-                  {
-                    "category": 7078,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/box-banner-hijab-edited.png",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 12
-                  },
-                  {
-                    "category": 2809,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/abaya-box-banner-slider.png",
-                    "padding": 5,
-                    "goToProducts": true,
-                    "radius": 12
-                  }
-                ],
-                "marginTop": 6,
-                "marginBottom": 0,
-                "marginRight": 0,
-                "marginLeft": 0
               }
             }
           ]
