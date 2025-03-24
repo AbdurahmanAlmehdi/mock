@@ -1116,13 +1116,13 @@
                   {
                     "category": 7095,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-KIDS-CLOTHES.png",
-                    "padding": 6,
+                    "padding": 3,
                     "radius": 12
                   },
                   {
                     "category": 7094,
                     "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-KIDS-SHOES.png",
-                    "padding": 6,
+                    "padding": 9,
                     "radius": 12
                   }
                 ],
