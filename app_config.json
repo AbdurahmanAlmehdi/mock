@@ -121,6 +121,7 @@
                     "goToProducts": true,
                     "mainTitle": {
                       "text": "تريند",
+                      "textheight": 0.2,
                       "color": "#000000",
                       "fontSize": 10
                     }
