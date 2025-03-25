@@ -158,6 +158,26 @@
             "config": {
               "items": [
                 {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SADAD-SLIDER.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 4,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-and-rosebaie-giveaway.jpg",
                   "padding": 5,
                   "goToProducts": true,
