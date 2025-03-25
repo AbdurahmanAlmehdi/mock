@@ -126,7 +126,7 @@
                     }
                   }
                 ],
-                "height": 0.16,
+                "height": 0.14,
                 "marginTop": 3,
                 "marginRight": 0,
                 "marginLeft": 0,
@@ -193,8 +193,8 @@
                     }
                   }
                 ],
-                "height": 0.16,
-                "marginTop": 3,
+                "height": 0.14,
+                "marginTop": 1,
                 "marginRight": 0,
                 "marginLeft": 0,
                 "marginBottom": 0
