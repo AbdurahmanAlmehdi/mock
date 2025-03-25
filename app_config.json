@@ -81,7 +81,7 @@
                     "mainTitle": {
                       "text": "رجال",
                       "color": "#000000",
-                      "fontSize": 10
+                      "fontSize": 13
                     }
                   },
                   {
@@ -95,7 +95,7 @@
                     "mainTitle": {
                       "text": "نساء",
                       "color": "#000000",
-                      "fontSize": 10
+                      "fontSize": 12
                     }
                   },
                   {
@@ -109,7 +109,7 @@
                     "mainTitle": {
                       "text": "أطفال",
                       "color": "#000000",
-                      "fontSize": 10
+                      "fontSize": 11
                     }
                   },
                   {
@@ -121,7 +121,6 @@
                     "goToProducts": true,
                     "mainTitle": {
                       "text": "تريند",
-                      "textheight": 0.2,
                       "color": "#000000",
                       "fontSize": 10
                     }
