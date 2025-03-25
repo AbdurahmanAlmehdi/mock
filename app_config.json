@@ -500,7 +500,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7179"
+                  "category": "7154"
                 }
               ],
               "height": 0.2,
@@ -539,7 +539,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7177,
+              "categoryId": 7179,
               "height": 320,
               "title": "عروض منتجات العناية",
               "showMore": true
@@ -1134,7 +1134,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7178"
+                  "category": "7154"
                 }
               ],
               "height": 0.2,
