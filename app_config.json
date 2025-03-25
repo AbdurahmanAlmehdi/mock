@@ -75,7 +75,7 @@
                     "isCircular": true,
                     "image":
                         "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/accessories-wmn-sm.png",
-                    "padding": 8,
+                    "padding": 3,
                     "goToProducts": true,
   
                     "mainTitle": {
@@ -89,7 +89,7 @@
                     "isCircular": true,
                     "image":
                         "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-clothes-sm.jpg",
-                    "padding": 8,
+                    "padding": 3,
                     "goToProducts": true,
   
                     "mainTitle": {
@@ -103,7 +103,7 @@
                     "isCircular": true,
                     "image":
                         "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-shoes-sm.png",
-                    "padding": 8,
+                    "padding": 3,
                     "goToProducts": true,
   
                     "mainTitle": {
@@ -117,7 +117,7 @@
                     "isCircular": true,
                     "image":
                         "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-shoes-sm.png",
-                    "padding": 8,
+                    "padding": 3,
                     "goToProducts": true,
                     "mainTitle": {
                       "text": "الملابس",
