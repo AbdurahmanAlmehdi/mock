@@ -1,8 +1,7 @@
 {
     "categoryBanners": [],
     "cartConfig": {
-      "emptyCartId": "6298",
-      "isCouponEnabled": true
+      "emptyCartId": "6298"
     },
     "homeConfig": {
       "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
@@ -65,6 +64,73 @@
                 "marginTop": 10,
                 "marginBottom": 10,
                 "showMore": true
+              }
+            },
+            {
+              "layout": "banner",
+              "config": {
+                "items": [
+                  {
+                    "category": 7087,
+                    "isCircular": true,
+                    "image":
+                        "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/accessories-wmn-sm.png",
+                    "padding": 8,
+                    "goToProducts": true,
+  
+                    "mainTitle": {
+                      "text": "الملابس",
+                      "color": "#000000",
+                      "fontSize": 15
+                    }
+                  },
+                  {
+                    "category": 7089,
+                    "isCircular": true,
+                    "image":
+                        "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-clothes-sm.jpg",
+                    "padding": 8,
+                    "goToProducts": true,
+  
+                    "mainTitle": {
+                      "text": "الملابس",
+                      "color": "#000000",
+                      "fontSize": 15
+                    }
+                  },
+                  {
+                    "category": 7093,
+                    "isCircular": true,
+                    "image":
+                        "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-shoes-sm.png",
+                    "padding": 8,
+                    "goToProducts": true,
+  
+                    "mainTitle": {
+                      "text": "الملابس",
+                      "color": "#000000",
+                      "fontSize": 15
+                    }
+                  },
+                  {
+                    "category": 7093,
+                    "isCircular": true,
+                    "image":
+                        "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-shoes-sm.png",
+                    "padding": 8,
+                    "goToProducts": true,
+                    "mainTitle": {
+                      "text": "الملابس",
+                      "color": "#000000",
+                      "fontSize": 15
+                    }
+                  }
+                ],
+                "height": 0.15,
+                "marginTop": 3,
+                "marginRight": 0,
+                "marginLeft": 0,
+                "marginBottom": 0
               }
             },
             {
