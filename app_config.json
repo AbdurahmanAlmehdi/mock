@@ -44,6 +44,7 @@
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-small-banner.png",
                   "padding": 11,
                   "goToProducts": true,
+                  "isMainCategory": true,
 
                   "mainTitle": {
                     "text": "نساء",
@@ -58,6 +59,7 @@
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-small-banner.png",
                   "padding": 11,
                   "goToProducts": true,
+                  "isMainCategory": true,
 
                   "mainTitle": {
                     "text": "أطفال",
@@ -68,6 +70,7 @@
                 {
                   "category": 5152,
                   "isCircular": true,
+                  "isMainCategory": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/trend-small-banner.png",
                   "padding": 11,
@@ -94,6 +97,7 @@
                 {
                   "category": 1677,
                   "isCircular": true,
+                  "isMainCategory": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/care-small-banner.png",
                   "padding": 11,
@@ -108,6 +112,7 @@
                 {
                   "category": 1684,
                   "isCircular": true,
+                  "isMainCategory": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/makeup-small-banner.png",
                   "padding": 11,
@@ -122,6 +127,7 @@
                 {
                   "category": 2066,
                   "isCircular": true,
+                  "isMainCategory": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/home-small-banner.png",
                   "padding": 11,
@@ -136,6 +142,7 @@
                 {
                   "category": 4982,
                   "isCircular": true,
+                  "isMainCategory": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tech-small-banner.png",
                   "padding": 11,
