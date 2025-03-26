@@ -507,7 +507,7 @@
               "height": 200,
               "marginTop": 10,
               "marginBottom": 10,
-              "showMore": true
+              "showMore": false
             }
           },
           {
