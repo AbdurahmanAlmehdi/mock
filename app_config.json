@@ -1354,13 +1354,13 @@
               "items": [
                 {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/Special-note-slider.gif",
-                  "padding": 18,
-                  "radius": 12,
+                  "padding": 5,
+                  "radius": 6,
                   "goToProducts": true,
                   "category": 6947
                 }
               ],
-              "height": 0.2,
+              "height": 0.10,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 10,
