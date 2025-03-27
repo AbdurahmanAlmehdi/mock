@@ -1360,7 +1360,7 @@
                   "category": 6947
                 }
               ],
-              "height": 0.06,
+              "height": 0.2,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 10,
@@ -1419,7 +1419,7 @@
             "config": {
               "categoryId": 7223,
               "height": 320,
-              "title": "معطرات بأقل من 100 د.ل",
+              "title": "معطرات بأقل الأسعار",
               "showMore": true
             }
           },
@@ -1449,7 +1449,7 @@
             "config": {
               "categoryId": 7222,
               "height": 320,
-              "title": "مكياجك بأقل الأسعار",
+              "title": "مكياجك بأقل من 60 د.ل",
               "showMore": true
             }
           },
