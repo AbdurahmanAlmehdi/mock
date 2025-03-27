@@ -507,7 +507,7 @@
               "height": 200,
               "marginTop": 10,
               "marginBottom": 10,
-              "showMore": false
+              "showMore": true
             }
           },
           {
@@ -1343,8 +1343,8 @@
                 "ghalior-paris",
                 "abna-youssef"
               ],
-              "height": 80,
-              "title": "Popular Brands",
+              "height": 100,
+              "title": "ماركات مميزة",
               "showMore": true
             }
           },
@@ -1353,14 +1353,14 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-seropipe-slider.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/Special-note-slider.gif",
                   "padding": 18,
                   "radius": 12,
                   "goToProducts": true,
                   "category": 6947
                 }
               ],
-              "height": 0.24,
+              "height": 0.06,
               "marginBottom": 0,
               "marginRight": 0,
               "marginTop": 10,
@@ -1372,18 +1372,55 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-philips-slider.png",
-                  "padding": 18,
-                  "radius": 12,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/special-parkville-slider.jpg",
+                  "padding": 5,
                   "goToProducts": true,
-                  "category": 6950
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "6947"
                 }
               ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
               "height": 0.24,
+              "items": [
+                {
+                  "category": 7225,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/Rosebaie-alone-box.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7224,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-alone-box.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 3,
               "marginBottom": 0,
               "marginRight": 0,
-              "marginTop": 5,
               "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7223,
+              "height": 320,
+              "title": "معطرات بأقل من 100 د.ل",
+              "showMore": true
             }
           },
           {
@@ -1391,18 +1428,29 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-lierack-slider-edit-2.png",
-                  "padding": 18,
-                  "radius": 12,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/special-osmanli-oud-perfumes.jpg",
+                  "padding": 5,
                   "goToProducts": true,
-                  "category": 7021
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "6861"
                 }
               ],
-              "height": 0.24,
-              "marginBottom": 0,
+              "height": 0.2,
+              "marginTop": 6,
               "marginRight": 0,
-              "marginTop": 5,
-              "marginLeft": 0
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7222,
+              "height": 320,
+              "title": "مكياجك بأقل الأسعار",
+              "showMore": true
             }
           },
           {
@@ -1410,56 +1458,20 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-D2S-SLIDER-edited.png",
-                  "padding": 18,
-                  "radius": 12,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/special-ghalior-paris.jpg",
+                  "padding": 5,
                   "goToProducts": true,
-                  "category": 6949
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "6951"
                 }
               ],
-              "height": 0.24,
-              "marginBottom": 0,
+              "height": 0.2,
+              "marginTop": 6,
               "marginRight": 0,
-              "marginTop": 5,
-              "marginLeft": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-OSMNALI-SLIDER.png",
-                  "padding": 18,
-                  "radius": 12,
-                  "goToProducts": true,
-                  "category": 6861
-                }
-              ],
-              "height": 0.24,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginTop": 5,
-              "marginLeft": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ramadan-G-PARIS-SLIDER.png",
-                  "padding": 18,
-                  "radius": 12,
-                  "goToProducts": true,
-                  "category": 6951
-                }
-              ],
-              "height": 0.24,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginTop": 5,
-              "marginLeft": 0
+              "marginLeft": 0,
+              "marginBottom": 0
             }
           }
         ]
