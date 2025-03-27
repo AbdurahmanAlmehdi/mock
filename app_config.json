@@ -64,15 +64,15 @@
                   }
                 },
                 {
-                  "category": 5152,
+                  "category": 7230,
                   "isCircular": true,
                   "image":
-                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/trend-small-banner.png",
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/small-banner-perfume.png",
                   "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
-                    "text": "تريند",
+                    "text": "عطور",
                     "color": "#000000",
                     "fontSize": 13
                   }
