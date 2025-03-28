@@ -199,6 +199,27 @@
             "config": {
               "items": [
                 {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-giveaway.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "6947"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 4,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-and-rosebaie-giveaway.jpg",
                   "padding": 5,
                   "goToProducts": true,
@@ -695,10 +716,31 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7143,
+              "categoryId": 7195,
               "height": 320,
-              "title": "إختياراتنا من أجلك",
+              "title": "أفضل الساعات، بأفضل الأسعار",
               "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SANDAL-giveaway.jpg",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7143"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 4,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
             }
           },
           {
@@ -738,6 +780,27 @@
               ],
               "height": 0.2,
               "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-giveaway.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "6947"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 4,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -1055,6 +1118,15 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7143,
+              "height": 320,
+              "title": "إختياراتنا من أجلك",
+              "showMore": true
             }
           },
           {
