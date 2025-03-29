@@ -162,7 +162,6 @@
                 {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/almadar-offer.png",
                   "padding": 5,
-                  "externalLink": "https://stackoverflow.com/questions/60290869/unhandled-exception-platformexceptionerror-java-lang-illegalstateexception-t",
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
