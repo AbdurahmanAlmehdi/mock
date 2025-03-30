@@ -197,6 +197,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7193,
+              "height": 320,
+              "title": "تخفيضات كبرى",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -222,7 +231,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-and-rosebaie-giveaway.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -747,6 +756,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7096,
+              "height": 320,
+              "title": "ألعاب العيد",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -814,7 +832,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-and-rosebaie-giveaway.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -828,15 +846,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7096,
-              "height": 320,
-              "title": "ألعاب العيد",
-              "showMore": true
             }
           },
           {
@@ -888,60 +897,6 @@
               ],
               "height": 0.15,
               "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "category": 7102,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/eyes-makeup-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7103,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/lips-makeup-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7104,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/nail-products-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-makeup-sm.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7101"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 5,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
