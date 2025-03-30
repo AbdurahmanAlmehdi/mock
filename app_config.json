@@ -185,8 +185,7 @@
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "6947"
+                  "showCartIcon": true
                 }
               ],
               "height": 0.2,
