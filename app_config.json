@@ -11,7 +11,6 @@
     "homeSections": [
       {
         "sectionName": "مَتاع",
-        "sectionShowcase": "مَتاع",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
         "sectionTabBackgroundColor": "#FAA61A",
@@ -162,10 +161,10 @@
                 {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/almadar-offer.png",
                   "padding": 5,
-                  "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
-                  "showCartIcon": true
+                  "showCartIcon": true,
+                  "externalLink": "https://www.almadar.ly/ar/Pages/Offers/RamadanPackages.aspx"
                 }
               ],
               "height": 0.2,
@@ -185,7 +184,8 @@
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
-                  "showCartIcon": true
+                  "showCartIcon": true,
+                  "category": "6947"
                 }
               ],
               "height": 0.2,
@@ -200,7 +200,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-giveaway.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -242,7 +242,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MEN-80-EDITED-2.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/man-deal-80.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -263,7 +263,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/NASAEM-LIBYA-giveaway.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/afnan-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -284,7 +284,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/TAFAUL-ESPAGNA-giveaway.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alafia.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -305,7 +305,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/arshia-edited-45.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/arshia-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -335,7 +335,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/WOMEN-80-EDITED-2.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/womens-deal-80.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -377,7 +377,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/the-first-sportsman.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/reebok-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -398,7 +398,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/KIDS-80-EDITED-2.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-deal-80.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -419,7 +419,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SANDAL-giveaway.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alvira-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -440,7 +440,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tefal-and-moulinex-giveaway-EDITED.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/moulinex-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -536,7 +536,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-giveaway-slider-edited-YO.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-cosmatic-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -557,7 +557,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-edited-giveaway.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -634,7 +634,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hashem-group.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hashem-group-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -698,7 +698,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/best-brands-with-less-money-EDITED-1.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/worldwide-brands-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -749,7 +749,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/NASAEM-LIBYA-giveaway.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/afnan-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -770,7 +770,28 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-giveaway-slider-edited-YO.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tricovel-deal.jpg",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7240"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-cosmatic-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -791,7 +812,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-giveaway.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1189,7 +1210,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MEN-80-EDITED-2.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/man-deal-80.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1210,7 +1231,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/KIDS-80-EDITED-2.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-deal-80.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1231,7 +1252,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/WOMEN-80-EDITED-2.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/womens-deal-80.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1261,7 +1282,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/TAFAUL-ESPAGNA-giveaway.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alafia.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1282,7 +1303,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-edited-giveaway.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1303,7 +1324,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdehar-giveaway.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdehar-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
