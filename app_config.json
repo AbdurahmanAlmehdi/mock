@@ -160,7 +160,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/almadar-offer.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/almadar-eid.png",
                   "padding": 5,
                   "radius": 6,
                   "showSubcategory": false,
@@ -769,7 +769,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tricovel-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tricovel-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
