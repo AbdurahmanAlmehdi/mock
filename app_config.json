@@ -156,6 +156,67 @@
             }
           },
           {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ayadi-edited.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "6298"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 4,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/almadar-eid.png",
+                  "padding": 5,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "externalLink": "Https:// www.almadar.ly/ar/Pages/Offers/EidOffer2025.aspx"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 4,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SADAD-SLIDER.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 4,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
             "layout": "product_list",
             "config": {
               "categoryId": 7193,
@@ -169,7 +230,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -190,7 +251,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -211,7 +272,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/man-deal-80.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/man-80-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -232,7 +293,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/afnan-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/afnan-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -253,7 +314,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alafia.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alafia-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -274,7 +335,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/arshia-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/arshia-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -304,7 +365,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/womens-deal-80.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-80-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -325,7 +386,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/reebok-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/1st-sportsman-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -346,7 +407,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-deal-80.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-80-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -367,7 +428,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alvira-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alvira-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -388,7 +449,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/moulinex-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tefal-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -484,7 +545,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-cosmatic-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -505,7 +566,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -561,7 +622,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hashem-group-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hashem-group-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -626,7 +687,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/worldwide-brands-promo.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/worldwide-brands-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -677,7 +738,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/afnan-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/afnan-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -707,7 +768,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tricovel-promo.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tricovel-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -728,7 +789,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-cosmatic-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -749,7 +810,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/parkville-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -770,7 +831,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1063,7 +1124,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/man-deal-80.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/man-80-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1084,7 +1145,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-deal-80.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-80-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1105,7 +1166,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/womens-deal-80.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-80-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1135,7 +1196,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alafia.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alafia-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1156,7 +1217,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1177,7 +1238,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdehar-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdihar-eid-promo.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
