@@ -160,16 +160,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/madar4thpromo.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tricovel-promo.jpg",
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "externalLink": "https://www.almadar.ly/ar/Pages/Offers/infinity.aspx"
+                  "category": "7240"
                 }
               ],
               "height": 0.2,
-              "marginTop": 4,
+              "marginTop": 6,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -178,7 +179,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7193,
+              "categoryId": 7194,
               "height": 320,
               "title": "تخفيضات كبرى",
               "showMore": true
@@ -231,6 +232,56 @@
             "config": {
               "items": [
                 {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/watches-discount.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7204"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7177,
+              "height": 320,
+              "title": "عطور بماركات متنوعة",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/madar4thpromo.png",
+                  "padding": 5,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "externalLink": "https://www.almadar.ly/ar/Pages/Offers/infinity.aspx"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 4,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/man-deal-80.jpg",
                   "padding": 5,
                   "goToProducts": true,
@@ -269,53 +320,11 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alafia.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7088"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 4,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/arshia-deal.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7142"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 4,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
-              "categoryId": 7177,
+              "categoryId": 7088,
               "height": 320,
-              "title": "عطور بماركات متنوعة",
+              "title": "أحدث الحقائب النسائية",
               "showMore": true
             }
           },
@@ -500,74 +509,6 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-cosmatic-deal.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7140"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 4,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-deal.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7154"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 4,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.24,
-              "items": [
-                {
-                  "category": 7100,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/t-faul-edited.png",
-                  "padding": 9,
-                  "goToProducts": true,
-                  "radius": 12
-                },
-                {
-                  "category": 7162,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdihar-edited.png",
-                  "padding": 9,
-                  "goToProducts": true,
-                  "radius": 12
-                }
-              ],
-              "marginTop": 3,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
               "categoryId": 7179,
@@ -716,9 +657,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7096,
+              "categoryId": 7196,
               "height": 320,
-              "title": "ألعاب العيد",
+              "title": "تخفيضات الأحذية",
               "showMore": true
             }
           },
@@ -734,27 +675,6 @@
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "7240"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 6,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/haifa-cosmatic-deal.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7140"
                 }
               ],
               "height": 0.2,
@@ -1155,48 +1075,6 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/alafia.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7088"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 4,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/uriage-deal.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7154"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 6,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdehar-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
@@ -1450,7 +1328,6 @@
         "sectionTabBackgroundColor": "#faa61a",
         "sectionBackgroundColor": "#FAA61A",
         "isSpecial": true,
-        "showSearch": false,
         "components": []
       }
     ]
