@@ -1450,6 +1450,7 @@
         "sectionTabBackgroundColor": "#faa61a",
         "sectionBackgroundColor": "#FAA61A",
         "isSpecial": true,
+        "showSearch": false,
         "components": []
       }
     ]
