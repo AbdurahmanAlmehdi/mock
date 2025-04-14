@@ -13,7 +13,7 @@
         "sectionName": "مَتاع",
         "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
+        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/mataa-main-tabback.png",
         "sectionTabBackgroundColor": "#FAA61A",
         "sectionBackgroundColor": "#FAA61A",
         "isMain": true,
@@ -312,6 +312,27 @@
             "config": {
               "items": [
                 {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/snousi-giveaway-watch.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7204"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/reebok-deal.jpg",
                   "padding": 5,
                   "goToProducts": true,
@@ -375,7 +396,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/moulinex-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/moulinex-tefal-slider-giveaway-turmus.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -489,7 +510,7 @@
         "sectionName": "سوبر مَتاع",
         "sectionShowcase": "سوبر مَتاع توفرلك أفضل المنتجات مبيعًا بتوصيل خلال ساعات من مخازننا مباشرة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-S-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
+        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/super-mataa-tabback.png",
         "sectionTabBackgroundColor": "#faa61a",
         "sectionBackgroundColor": "#A0C0FF",
         "isInHouse": true,
@@ -624,6 +645,27 @@
               ],
               "height": 0.2,
               "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/snousi-giveaway-watch.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7204"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -1081,7 +1123,7 @@
         "sectionName": "مميز",
         "sectionShowcase": "أفضل الماركات والمنتجات المميزة لهذا الشهر",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-SPECIAL.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
+        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/special-section-tabback.png",
         "sectionTabBackgroundColor": "#FAA61A",
         "sectionBackgroundColor": "#FAA61A",
         "components": [
@@ -1239,7 +1281,6 @@
         "sectionTabBackgroundColor": "#faa61a",
         "sectionBackgroundColor": "#FAA61A",
         "isSpecial": true,
-        "showSearchBar": false,
         "components": []
       }
     ]
