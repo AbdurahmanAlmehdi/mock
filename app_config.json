@@ -160,17 +160,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/trico-promo.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/euro-sport-banner.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7240"
+                  "category": "6640"
                 }
               ],
               "height": 0.2,
-              "marginTop": 6,
+              "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -239,6 +239,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7240,
+              "height": 320,
+              "title": "شامبو هدية عند الطلب",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -303,7 +312,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/shein-bags-discount.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/shein-ipekyol-giveaway.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -317,6 +326,15 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7367,
+              "height": 320,
+              "title": "تخفيضات Twist و IPEKYOL",
+              "showMore": true
             }
           },
           {
