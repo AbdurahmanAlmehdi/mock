@@ -337,6 +337,174 @@
               "marginLeft": 0,
               "marginBottom": 0
             }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/farmasi-dr-tuna-discount.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7384"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.24,
+              "items": [
+                {
+                  "category": 7385,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/mavi-clothes-discount.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7387,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/reebok-clothes-discount.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 6,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7388,
+              "height": 320,
+              "title": "خصومات Santa barbara polo",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/4f-merrell-discount.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7381"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.24,
+              "items": [
+                {
+                  "category": 7382,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BIGOTTI-MILANO-DISCOUNT.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7391,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/SHEIN-COVERS-DISCOUNT.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 6,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7392,
+              "height": 320,
+              "title": "تخفيضات Urgreen, Goui",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/puma-discount.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7386"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.24,
+              "items": [
+                {
+                  "category": 7383,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/daniel-klein-discount.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7389,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/SERGIO-TACCHINI-discount.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 6,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7097,
+              "height": 320,
+              "title": "تخفيضات العناية بالوجه",
+              "showMore": true
+            }
           }
         ]
       },
@@ -856,6 +1024,174 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/farmasi-dr-tuna-discount.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7384"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.24,
+              "items": [
+                {
+                  "category": 7385,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/mavi-clothes-discount.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7387,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/reebok-clothes-discount.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 6,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7388,
+              "height": 320,
+              "title": "خصومات Santa barbara polo",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/4f-merrell-discount.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7381"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.24,
+              "items": [
+                {
+                  "category": 7382,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BIGOTTI-MILANO-DISCOUNT.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7391,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/SHEIN-COVERS-DISCOUNT.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 6,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7392,
+              "height": 320,
+              "title": "تخفيضات Urgreen, Goui",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/puma-discount.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7386"
+                }
+              ],
+              "height": 0.2,
+              "marginTop": 6,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.24,
+              "items": [
+                {
+                  "category": 7383,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/daniel-klein-discount.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7389,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/SERGIO-TACCHINI-discount.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 6,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7097,
+              "height": 320,
+              "title": "تخفيضات العناية بالوجه",
+              "showMore": true
             }
           }
         ]
