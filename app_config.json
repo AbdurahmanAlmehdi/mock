@@ -1193,6 +1193,32 @@
               "title": "تخفيضات العناية بالوجه",
               "showMore": true
             }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.24,
+              "items": [
+                {
+                  "category": 7390,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/SHEGLAM-DISCOUNT.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7394,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/HAIR-CARE-DISCOUNT.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 6,
+              "marginBottom": 0,
+             "marginRight": 0,
+              "marginLeft": 0
+            }
           }
         ]
       },
