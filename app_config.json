@@ -174,6 +174,29 @@
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
                 },
                 {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-1-BANNEL-1.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-1-BANNEL-2.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-1-BANNEL-3.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7358",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "نضارة ونعومة لا مثيل لهما",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
+                {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-2-BANNEL-1.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-2-BANNEL-2.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7359",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "لحماية تامة لبشرتك",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
+                {
                   "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/euro-sport-story-main.png",
                   "slider_images": [
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/euro-sport-story-sub-1.png",
@@ -183,32 +206,6 @@
                   "categoryId": "6640",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "أحدث المعدات الرياضية لروتين صحي أكثر",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
-                },
-                {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-1.png",
-                  "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-1.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-2.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-3.png"
-                  ],
-                  "title": "ستوريات مَتاع",
-                  "categoryId": "7160",
-                  "influencer_name": "mataa مَتاع",
-                  "card_title": "كوليكشن عصري يليق بك",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
-                },
-                {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-main-photo.png",
-                  "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-1.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-2.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-3.png"
-                  ],
-                  "title": "بوكس المفاجأة",
-                  "categoryId": "7188",
-                  "influencer_name": "mataa مَتاع",
-                  "card_title": "إحتياجك التام للعناية ببشرتك في بوكس واحد",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
                 }
               ],
@@ -774,6 +771,43 @@
             "config": {
               "items": [
                 {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/bayan-main-story.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/bayan-story-01.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/bayan-story-02.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/bayan-story-03.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/bayan-story-04.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7362",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "ضيافة من الطراز الملكي",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
+                {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-1-BANNEL-1.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-1-BANNEL-2.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-1-BANNEL-3.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7358",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "نضارة ونعومة لا مثيل لهما",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
+                {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-2-BANNEL-1.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BEAUTY-STORY-2-BANNEL-2.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7359",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "لحماية تامة لبشرتك",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
+                {
                   "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/euro-sport-story-main.png",
                   "slider_images": [
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/euro-sport-story-sub-1.png",
@@ -783,45 +817,6 @@
                   "categoryId": "6640",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "أحدث المعدات الرياضية لروتين صحي أكثر",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
-                },
-                {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-1.png",
-                  "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-1.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-2.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-3.png"
-                  ],
-                  "title": "ستوريات مَتاع",
-                  "categoryId": "7160",
-                  "influencer_name": "mataa مَتاع",
-                  "card_title": "كوليكشن عصري يليق بك",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
-                },
-                {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/GHG-watches-photo-1.png",
-                  "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/GHG-watches-photo-1.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/GHG-watches-photo-2.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/GHG-watches-photo-3.png"
-                  ],
-                  "title": "ديكور وزينة",
-                  "categoryId": "7147",
-                  "influencer_name": "mataa مَتاع",
-                  "card_title": "ضيافة من الطراز الملكي",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
-                },
-                {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-main-photo.png",
-                  "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-1.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-2.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-3.png"
-                  ],
-                  "title": "بوكس المفاجأة",
-                  "categoryId": "7188",
-                  "influencer_name": "mataa مَتاع",
-                  "card_title": "إحتياجك التام للعناية ببشرتك في بوكس واحد",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
                 }
               ],
