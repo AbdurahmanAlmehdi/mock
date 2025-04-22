@@ -1054,7 +1054,7 @@
               "items": [
                 {
                   "category": 7385,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/mavi-clothes-discount.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/mavi-clothes-men-women-discount.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -1181,14 +1181,14 @@
               ],
               "marginTop": 6,
               "marginBottom": 0,
-              "marginRight": 0,
+             "marginRight": 0,
               "marginLeft": 0
             }
           },
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7097,
+              "categoryId": 7393,
               "height": 320,
               "title": "تخفيضات العناية بالوجه",
               "showMore": true
