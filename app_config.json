@@ -1547,6 +1547,15 @@
             }
           }
         ]
+      },
+      {
+        "sectionName": "مسابقة أبريل",
+        "sectionShowcase": "جوائز متنوعة من قيم مالية وأكثر عند الطلب من داخل التطبيق",
+        "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/april-giveaway.png",
+        "sectionTabBackgroundColor": "#faa61a",
+        "sectionBackgroundColor": "#FAA61A",
+        "isSpecial": true,
+        "components": []
       }
     ]
   }
