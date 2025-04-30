@@ -23,7 +23,7 @@
             "config": {
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "0edbad8d-1fc7-11f0-a5f3-96000432cae4",
                   "isCircular": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-small-banner.png",
@@ -37,7 +37,7 @@
                   }
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "0ef0475e-1fc7-11f0-a5f3-96000432cae4",
                   "isCircular": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-small-banner.png",
@@ -51,7 +51,7 @@
                   }
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "0f0493ab-1fc7-11f0-a5f3-96000432cae4",
                   "isCircular": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-small-banner.png",
@@ -65,7 +65,7 @@
                   }
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "",
                   "isCircular": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/small-banner-perfume.png",
@@ -92,7 +92,7 @@
             "config": {
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "0f2dc594-1fc7-11f0-a5f3-96000432cae4",
                   "isCircular": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/care-small-banner.png",
@@ -106,7 +106,7 @@
                   }
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "0f427438-1fc7-11f0-a5f3-96000432cae4",
                   "isCircular": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/makeup-small-banner.png",
@@ -120,7 +120,7 @@
                   }
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "0ec6714b-1fc7-11f0-a5f3-96000432cae4",
                   "isCircular": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/home-small-banner.png",
@@ -134,7 +134,7 @@
                   }
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "0f18d4f6-1fc7-11f0-a5f3-96000432cae4",
                   "isCircular": true,
                   "image":
                       "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tech-small-banner.png",
