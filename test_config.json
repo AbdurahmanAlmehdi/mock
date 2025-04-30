@@ -1,7 +1,7 @@
 {
   "categoryBanners": [],
   "cartConfig": {
-    "emptyCartId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf", 
+    "emptyCartId": "1375a643-1fc7-11f0-a5f3-96000432cae4", 
     "isCouponEnabled": true
   },
   "homeConfig": {
@@ -166,7 +166,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -213,7 +213,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/euro-sport-story-sub-2.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "أحدث المعدات الرياضية لروتين صحي أكثر",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -226,7 +226,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "كوليكشن عصري يليق بك",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -239,7 +239,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/GHG-watches-photo-3.png"
                   ],
                   "title": "ديكور وزينة",
-                  "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "ضيافة من الطراز الملكي",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -252,7 +252,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-3.png"
                   ],
                   "title": "بوكس المفاجأة",
-                  "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "إحتياجك التام للعناية ببشرتك في بوكس واحد",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -267,7 +267,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "شامبو هدية عند الطلب",
               "showMore": true
@@ -297,7 +297,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "تخفيضات الأحذية",
               "showMore": true
@@ -314,7 +314,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -327,7 +327,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "عطور بماركات متنوعة",
               "showMore": true
@@ -344,7 +344,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -357,7 +357,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "تخفيضات Twist و IPEKYOL",
               "showMore": true
@@ -374,7 +374,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -406,7 +406,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -421,21 +421,21 @@
             "config": {
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MEN-SHOESES-super-mataa-EDITED-1.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/HIJAB-clothes-super-mataa-EDITED-1.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-clothes-super-mataa-EDITED-1.png",
                   "padding": 5,
                   "goToProducts": true,
@@ -452,7 +452,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "أفضل الساعات، بأفضل الأسعار",
               "showMore": true
@@ -469,7 +469,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -490,7 +490,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -511,7 +511,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -524,7 +524,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "تخفيضات الأحذية",
               "showMore": true
@@ -541,7 +541,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -556,21 +556,21 @@
             "config": {
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/accessories-wmn-sm.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-clothes-sm.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-shoes-sm.png",
                   "padding": 5,
                   "goToProducts": true,
@@ -595,7 +595,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -610,21 +610,21 @@
             "config": {
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/eyes-makeup-sm.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/lips-makeup-sm.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/nail-products-sm.png",
                   "padding": 5,
                   "goToProducts": true,
@@ -641,7 +641,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "إختياراتنا من أجلك",
               "showMore": true
@@ -658,7 +658,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/euro-sport-story-sub-2.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "أحدث المعدات الرياضية لروتين صحي أكثر",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -671,7 +671,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SHEEN-watches-photo-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "كوليكشن عصري يليق بك",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -684,7 +684,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/GHG-watches-photo-3.png"
                   ],
                   "title": "ديكور وزينة",
-                  "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "ضيافة من الطراز الملكي",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -697,7 +697,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/cerave-sub-photo-3.png"
                   ],
                   "title": "بوكس المفاجأة",
-                  "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "إحتياجك التام للعناية ببشرتك في بوكس واحد",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -720,7 +720,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -741,7 +741,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -762,7 +762,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -777,21 +777,21 @@
             "config": {
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/body-care-sm.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-care-sm.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hair-care-sm.png",
                   "padding": 5,
                   "goToProducts": true,
@@ -811,14 +811,14 @@
               "height": 0.24,
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-MEN-CLOTHES.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-shoes-super-mataa-26-3.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -842,7 +842,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -858,14 +858,14 @@
               "height": 0.24,
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-electrohome.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-kitchen-appliances.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -884,14 +884,14 @@
               "height": 0.24,
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-SUPER-HOME.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-SUPER-HOME-1.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -915,7 +915,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -963,7 +963,7 @@
                   "padding": 5,
                   "radius": 6,
                   "goToProducts": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.08,
@@ -984,7 +984,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -1000,14 +1000,14 @@
               "height": 0.24,
               "items": [
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/Rosebaie-alone-box.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4",
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/d2s-alone-box.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -1023,7 +1023,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "معطرات بأقل الأسعار",
               "showMore": true
@@ -1040,7 +1040,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
@@ -1053,7 +1053,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf",
+              "categoryId": "1375a643-1fc7-11f0-a5f3-96000432cae4",
               "height": 320,
               "title": "مكياجك بأقل من 60 د.ل",
               "showMore": true
@@ -1070,7 +1070,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "a44c6d2d-f328-4c1e-ba60-2f63e789e5cf"
+                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
                 }
               ],
               "height": 0.2,
