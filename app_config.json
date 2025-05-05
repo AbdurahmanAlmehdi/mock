@@ -148,30 +148,33 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/labour-da.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "6298"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "influencer_story",
             "config": {
               "items": [
+                {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-stories-1.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-stories-2.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-stories-3.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7480",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "أحزمة ساعات بخامة عالية",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
+                {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-story-1.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-story-2.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-story-3.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7512",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "عطور بفوحان ساحر",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
                 {
                   "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/bayan-main-story.png",
                   "slider_images": [
@@ -825,6 +828,30 @@
             "layout": "influencer_story",
             "config": {
               "items": [
+                {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-stories-1.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-stories-2.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-stories-3.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7480",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "أحزمة ساعات بخامة عالية",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
+                {
+                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-story-1.png",
+                  "slider_images": [
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-story-2.png",
+                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-story-3.png"
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "7512",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "عطور بفوحان ساحر",
+                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                },
                 {
                   "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/bayan-main-story.png",
                   "slider_images": [
