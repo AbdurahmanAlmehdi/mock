@@ -156,53 +156,6 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/euro-sport-banner.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1375a643-1fc7-11f0-a5f3-96000432cae4"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-              "layout": "carousel",
-              "config": {
-                "items": [
-                  {
-                    "categoryId": "174",
-                    "height": 350,
-                    "padding": 10.5,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/mothersdaygiveaway.png"
-                  },
-                  {
-                    "categoryId": "7133",
-                    "height": 350,
-                    "padding": 10.5,
-                    "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/donations-edited-giveaway.png"
-                  }
-                ],
-                "autoPlay": true,
-                "intervalTime": 5,
-                "height": 0.2,
-                "marginTop": 5,
-                "marginBottom": 0,
-                "marginLeft": 0,
-                "marginRight": 0
-              }
-            },
-          {
             "layout": "influencer_story",
             "config": {
               "items": [
