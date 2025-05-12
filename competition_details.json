@@ -1,0 +1,39 @@
+{
+    "competitionDetails": {
+        "title": "Competition",
+        "startDate": "2025-05-12T00:00:00Z",
+        "endDate": "2025-05-25T00:00:00Z",
+        "mainImage": "https://abdurahmanalmehdi.github.io/mock/images/competition/main.png",
+        "secondaryImage": "https://abdurahmanalmehdi.github.io/mock/images/competition/secondary.png",
+        "backgroundImage": "https://abdurahmanalmehdi.github.io/mock/images/competition/background.png",
+        "levels": [
+            {
+                "level": 1,
+                "requiredOrders": 0,
+                "minOrderAmount": 0,
+                "title": "Sign Up",
+                "description": "Sign Up to get started",
+                "reward": "",
+                "image": ""
+            },
+            {
+                "level": 2,
+                "requiredOrders": 1,
+                "minOrderAmount": 100,
+                "title": "First Order",
+                "description": "Make your first order to get started",
+                "reward": "",
+                "image": ""
+            },
+            {
+                "level": 3,
+                "requiredOrders": 2,
+                "minOrderAmount": 200,
+                "title": "Second Order",
+                "description": "Make your second order to get started",
+                "reward": "",
+                "image": ""
+            }
+        ]
+    }
+}
