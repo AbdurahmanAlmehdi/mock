@@ -807,6 +807,32 @@
           {
             "layout": "banner",
             "config": {
+              "height": 0.15,
+              "items": [
+                {
+                  "category": 7391,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/shein-discount-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7651,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/afnan-armaf-discount-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 3,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
               "items": [
                 {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/almadar-last-offer.png",
