@@ -26,7 +26,7 @@
                   "category": 172,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
-                  "padding": 0,
+                  "padding": 12,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -39,7 +39,7 @@
                   "category": 174,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
-                  "padding": 0,
+                  "padding": 12,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -52,7 +52,7 @@
                   "category": 176,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
-                  "padding": 0,
+                  "padding": 12,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -65,7 +65,7 @@
                   "category": 7230,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
-                  "padding": 0,
+                  "padding": 12,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -75,7 +75,7 @@
                   }
                 }
               ],
-              "height": 0.15,
+              "height": 0.16,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -104,7 +104,7 @@
                   "category": 1684,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
-                  "padding": 13,
+                  "padding": 12,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -117,7 +117,7 @@
                   "category": 2066,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
-                  "padding": 14,
+                  "padding": 12,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -130,7 +130,7 @@
                   "category": 4982,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
-                  "padding": 15,
+                  "padding": 12,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
