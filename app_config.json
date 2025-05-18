@@ -130,7 +130,7 @@
                   "category": 4982,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
-                  "padding": 0,
+                  "padding": 15,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -140,7 +140,7 @@
                   }
                 }
               ],
-              "height": 0.15,
+              "height": 0.09,
               "marginTop": 1,
               "marginRight": 0,
               "marginLeft": 0,
