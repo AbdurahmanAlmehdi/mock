@@ -25,8 +25,8 @@
                 {
                   "category": 172,
                   "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/men-small-banner.png",
-                  "padding": 11,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
+                  "padding": 14,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -38,8 +38,8 @@
                 {
                   "category": 174,
                   "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-small-banner.png",
-                  "padding": 11,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
+                  "padding": 14,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -51,8 +51,8 @@
                 {
                   "category": 176,
                   "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-small-banner.png",
-                  "padding": 11,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
+                  "padding": 14,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -64,8 +64,8 @@
                 {
                   "category": 7230,
                   "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/small-banner-perfume.png",
-                  "padding": 11,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
+                  "padding": 14,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -90,8 +90,8 @@
                 {
                   "category": 1677,
                   "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/care-small-banner.png",
-                  "padding": 11,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png",
+                  "padding": 14,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -103,8 +103,8 @@
                 {
                   "category": 1684,
                   "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/makeup-small-banner.png",
-                  "padding": 11,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
+                  "padding": 14,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -116,8 +116,8 @@
                 {
                   "category": 2066,
                   "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/home-small-banner.png",
-                  "padding": 11,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
+                  "padding": 14,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -129,8 +129,8 @@
                 {
                   "category": 4982,
                   "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/tech-small-banner.png",
-                  "padding": 11,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
+                  "padding": 14,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -910,6 +910,28 @@
               "height": 320,
               "title": "خصومات Mavi",
               "showMore": true
+            }
+          },
+                    {
+            "layout": "carousel",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mesauda-eid-new-arrivals.png",
+                  "categoryId": "7575"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/sheglam-eid-new-arrivals.png",
+                  "categoryId": "7577"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nyx-eid-new-arrivals.png",
+                  "categoryId": "7578"
+                }
+              ],
+              "autoPlay": true,
+              "intervalTime": 5,
+              "height": 0.30
             }
           },
           {
