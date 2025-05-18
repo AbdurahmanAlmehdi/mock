@@ -790,6 +790,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7387,
+              "height": 320,
+              "title": "تخفيضات ريبوك",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "height": 0.15,
@@ -839,6 +848,66 @@
               "marginBottom": 0,
               "marginRight": 0,
               "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7649,
+              "height": 320,
+              "title": "أحدث تخفيضات Hummel",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/FARMASI-DISCOUNT-EID.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7384"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/IPEKYOL-DISCOUNT-EID.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7367"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7385,
+              "height": 320,
+              "title": "خصومات Mavi",
+              "showMore": true
             }
           },
           {
