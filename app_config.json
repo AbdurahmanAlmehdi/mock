@@ -556,7 +556,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/worldwide-brands-promo.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/big-brands-sheap-prizes.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -565,8 +565,8 @@
                   "category": "7121"
                 }
               ],
-              "height": 0.2,
-              "marginTop": 5,
+              "height": 0.15,
+              "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -577,25 +577,13 @@
             "config": {
               "items": [
                 {
-                  "category": 7092,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/MEN-SHOESES-super-mataa-EDITED-1.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/lilas-giveaway-eid.png",
                   "padding": 5,
                   "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7078,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/HIJAB-clothes-super-mataa-EDITED-1.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7095,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-clothes-super-mataa-EDITED-1.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7651"
                 }
               ],
               "height": 0.15,
@@ -608,9 +596,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7195,
+              "categoryId": 7688,
               "height": 320,
-              "title": "أفضل الساعات، بأفضل الأسعار",
+              "title": "باندلز العناية والمكياج 💄",
               "showMore": true
             }
           },
@@ -619,16 +607,16 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-deal-80.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/roncey-routine-eid.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7182"
+                  "category": "7685"
                 }
               ],
-              "height": 0.2,
+              "height": 0.15,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -640,16 +628,16 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/womens-deal-80.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/la-roche-offer-eid.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7193"
+                  "category": "1961"
                 }
               ],
-              "height": 0.2,
+              "height": 0.15,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -661,37 +649,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/man-deal-80.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7194"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7196,
-              "height": 320,
-              "title": "تخفيضات الأحذية",
-              "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-bags-sm.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/shein-bags-offer-eid.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -700,93 +658,6 @@
                   "category": "7088"
                 }
               ],
-              "height": 0.2,
-              "marginTop": 4,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "category": 7087,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/accessories-wmn-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7089,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-clothes-sm.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7093,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/women-shoes-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-makeup-sm.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7101"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 5,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "category": 7102,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/eyes-makeup-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7103,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/lips-makeup-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7104,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/nail-products-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                }
-              ],
               "height": 0.15,
               "marginTop": 3,
               "marginRight": 0,
@@ -797,10 +668,62 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7143,
+              "categoryId": 7664,
               "height": 320,
-              "title": "إختياراتنا من أجلك",
+              "title": "تخفيضات الملابس الرجالية",
               "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.15,
+              "items": [
+                {
+                  "category": 7103,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/lips-make-up-sm-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7102,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eyes-makeup-sm-eid.gif",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 3,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.15,
+              "items": [
+                {
+                  "category": 7101,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-makeup-sm-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7104,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nails-products-sm-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 3,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
             }
           },
           {
@@ -901,93 +824,79 @@
           {
             "layout": "banner",
             "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/trico-promo.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7240"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 6,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/food-compliments-sm.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7090"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 6,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "category": 7100,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/body-care-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7097,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/face-care-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                },
-                {
-                  "category": 7099,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/hair-care-sm.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6
-                }
-              ],
               "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.24,
               "items": [
                 {
-                  "category": 7091,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SPECIAL-BOX-BANNER-MEN-CLOTHES.png",
+                  "category": 7090,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Nutritional-supplements-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7094,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/kids-shoes-super-mataa-26-3.png",
+                  "category": 7099,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hair-care-sm-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 3,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.15,
+              "items": [
+                {
+                  "category": 7100,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/body-care-sm-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7097,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-care-sm-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 3,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7663,
+              "height": 320,
+              "title": "تخفيضات الملابس النسائية",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.15,
+              "items": [
+                {
+                  "category": 7091,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-shoes-sm-eid.png",
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 7092,
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-clothes-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -1004,17 +913,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/ezdehar-deal.jpg",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/FARMASI-DISCOUNT-EID.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7162"
+                  "category": "7384"
                 }
               ],
-              "height": 0.2,
-              "marginTop": 6,
+              "height": 0.15,
+              "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -1091,242 +1000,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/sunblocker-giveaway.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1961"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/arshia-april-discount.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7142"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 6,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/farmasi-dr-tuna-discount.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7384"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 6,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.24,
-              "items": [
-                {
-                  "category": 7385,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/mavi-clothes-men-women-discount.png",
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                },
-                {
-                  "category": 7387,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/reebok-clothes-discount.png",
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                }
-              ],
-              "marginTop": 6,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7388,
-              "height": 320,
-              "title": "خصومات Santa barbara polo",
-              "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/4f-merrell-discount.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7381"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 6,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.24,
-              "items": [
-                {
-                  "category": 7382,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/BIGOTTI-MILANO-DISCOUNT.png",
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                },
-                {
-                  "category": 7391,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/SHEIN-COVERS-DISCOUNT.png",
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                }
-              ],
-              "marginTop": 6,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7392,
-              "height": 320,
-              "title": "تخفيضات Urgreen, Goui",
-              "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/puma-discount.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7386"
-                }
-              ],
-              "height": 0.2,
-              "marginTop": 6,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.24,
-              "items": [
-                {
-                  "category": 7383,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/daniel-klein-discount.png",
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                },
-                {
-                  "category": 7389,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/SERGIO-TACCHINI-discount.png",
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                }
-              ],
-              "marginTop": 6,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7393,
-              "height": 320,
-              "title": "تخفيضات العناية بالوجه",
-              "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.24,
-              "items": [
-                {
-                  "category": 7390,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/SHEGLAM-DISCOUNT.png",
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                },
-                {
-                  "category": 7394,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/HAIR-CARE-DISCOUNT.png",
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                }
-              ],
-              "marginTop": 6,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
             }
           }
         ]
