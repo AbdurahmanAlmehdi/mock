@@ -147,25 +147,26 @@
               "marginBottom": 0
             }
           },
-          {
-            "layout": "banner",
+                    {
+            "layout": "carousel",
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/drschollbanner.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7672"
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mesauda-eid-new-arrivals.png",
+                  "categoryId": "7575"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/sheglam-eid-new-arrivals.png",
+                  "categoryId": "7577"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nyx-eid-new-arrivals.png",
+                  "categoryId": "7578"
                 }
               ],
-              "height": 0.29,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
+              "autoPlay": true,
+              "intervalTime": 5,
+              "height": 0.27
             }
           },
           {
@@ -261,6 +262,27 @@
               "marginTop": 10,
               "marginBottom": 10,
               "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/drschollbanner.jpg",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7672"
+                }
+              ],
+              "height": 0.29,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
             }
           },
           {
@@ -498,28 +520,6 @@
               "showMore": true
             }
           },
-                    {
-            "layout": "carousel",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mesauda-eid-new-arrivals.png",
-                  "categoryId": "7575"
-                },
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/sheglam-eid-new-arrivals.png",
-                  "categoryId": "7577"
-                },
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nyx-eid-new-arrivals.png",
-                  "categoryId": "7578"
-                }
-              ],
-              "autoPlay": true,
-              "intervalTime": 5,
-              "height": 0.27
-            }
-          },
           {
             "layout": "banner",
             "config": {
@@ -598,7 +598,7 @@
             "config": {
               "categoryId": 7688,
               "height": 320,
-              "title": "باندلز العناية والمكياج 💄",
+              "title": "تجميعات العناية والمكياج 💄",
               "showMore": true
             }
           },
