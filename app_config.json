@@ -565,7 +565,7 @@
                   "category": "7121"
                 }
               ],
-              "height": 0.15,
+              "height": 0.14,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -586,7 +586,7 @@
                   "category": "7651"
                 }
               ],
-              "height": 0.15,
+              "height": 0.14,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -616,7 +616,7 @@
                   "category": "7685"
                 }
               ],
-              "height": 0.15,
+              "height": 0.14,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -637,7 +637,7 @@
                   "category": "1961"
                 }
               ],
-              "height": 0.15,
+              "height": 0.14,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -658,7 +658,7 @@
                   "category": "7088"
                 }
               ],
-              "height": 0.15,
+              "height": 0.14,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -677,7 +677,7 @@
           {
             "layout": "banner",
             "config": {
-              "height": 0.15,
+              "height": 0.14,
               "items": [
                 {
                   "category": 7103,
@@ -703,7 +703,7 @@
           {
             "layout": "banner",
             "config": {
-              "height": 0.15,
+              "height": 0.14,
               "items": [
                 {
                   "category": 7101,
@@ -824,7 +824,7 @@
           {
             "layout": "banner",
             "config": {
-              "height": 0.15,
+              "height": 0.14,
               "items": [
                 {
                   "category": 7090,
@@ -850,7 +850,7 @@
           {
             "layout": "banner",
             "config": {
-              "height": 0.15,
+              "height": 0.14,
               "items": [
                 {
                   "category": 7100,
@@ -885,7 +885,7 @@
           {
             "layout": "banner",
             "config": {
-              "height": 0.15,
+              "height": 0.14,
               "items": [
                 {
                   "category": 7091,
@@ -922,7 +922,7 @@
                   "category": "7384"
                 }
               ],
-              "height": 0.15,
+              "height": 0.14,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -932,7 +932,7 @@
           {
             "layout": "banner",
             "config": {
-              "height": 0.15,
+              "height": 0.14,
               "items": [
                 {
                   "category": 7093,
@@ -958,7 +958,7 @@
           {
             "layout": "banner",
             "config": {
-              "height": 0.15,
+              "height": 0.14,
               "items": [
                 {
                   "category": 7088,
@@ -1004,7 +1004,7 @@
                   "category": "7095"
                 }
               ],
-              "height": 0.15,
+              "height": 0.14,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -1025,7 +1025,7 @@
                   "category": "7094"
                 }
               ],
-              "height": 0.15,
+              "height": 0.14,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -1044,7 +1044,7 @@
           {
             "layout": "banner",
             "config": {
-              "height": 0.15,
+              "height": 0.14,
               "items": [
                 {
                   "category": 6901,
