@@ -982,6 +982,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7195,
+              "height": 320,
+              "title": "تخفيض وتوصيل سريع للساعات",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
