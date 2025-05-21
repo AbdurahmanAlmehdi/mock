@@ -5,7 +5,7 @@
     "isCouponEnabled": true
   },
   "homeConfig": {
-    "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/homebackgroundmataamain.png",
+    "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-al-adha-tab-bar-image.png",
     "homeTabBarBackgroundOpacity": 0.5,
     "homeTabBarBackgroundColor": "#AF1D35",
     "homeSections": [
@@ -13,7 +13,7 @@
         "sectionName": "مَتاع",
         "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/mataa-main-tabback.png",
+        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hometabbar-image-main.png",
         "sectionTabBackgroundColor": "#FAA61A",
         "sectionBackgroundColor": "#FAA61A",
         "isMain": true,
@@ -1103,6 +1103,7 @@
         "sectionName": "مسابقة العيد",
         "sectionShowcase": "جوائز متنوعة من قيم مالية وأكثر عند الطلب من داخل التطبيق",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-al-adha-main-banner.png",
+        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-al-adha-tab-bar-image.png",
         "sectionTabBackgroundColor": "#faa61a",
         "sectionBackgroundColor": "#FAA61A",
         "isSpecial": true,
