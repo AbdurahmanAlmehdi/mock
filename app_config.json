@@ -26,7 +26,7 @@
                   "category": 172,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
-                  "padding": 12,
+                  "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -39,7 +39,7 @@
                   "category": 174,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
-                  "padding": 12,
+                  "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -52,7 +52,7 @@
                   "category": 176,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
-                  "padding": 12,
+                  "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -65,7 +65,7 @@
                   "category": 7230,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
-                  "padding": 12,
+                  "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -75,7 +75,7 @@
                   }
                 }
               ],
-              "height": 0.16,
+              "height": 0.15,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -91,7 +91,7 @@
                   "category": 1677,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png",
-                  "padding": 12,
+                  "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -104,7 +104,7 @@
                   "category": 1684,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
-                  "padding": 12,
+                  "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -117,7 +117,7 @@
                   "category": 2066,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
-                  "padding": 12,
+                  "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -130,7 +130,7 @@
                   "category": 4982,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
-                  "padding": 12,
+                  "padding": 11,
                   "goToProducts": true,
                   "isMainCategory": true,
                   "mainTitle": {
@@ -140,33 +140,167 @@
                   }
                 }
               ],
-              "height": 0.16,
+              "height": 0.15,
               "marginTop": 1,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
             }
           },
-                    {
-            "layout": "carousel",
+          {
+            "layout": "banner",
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mesauda-eid-new-arrivals.png",
-                  "categoryId": "7575"
-                },
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/sheglam-eid-new-arrivals.png",
-                  "categoryId": "7577"
-                },
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nyx-eid-new-arrivals.png",
-                  "categoryId": "7578"
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/edited-drscholls-slider-mataa.gif",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7672"
                 }
               ],
-              "autoPlay": true,
-              "intervalTime": 5,
-              "height": 0.27
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Arshia-Discount-Eid-al-adha.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7142"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Ktc-New-Eid.gif",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7579"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7571,
+              "height": 320,
+              "title": "تجميعات مَتاع هوم",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Tefal-Discount-EDITED-Eid-al-adha.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7205"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/IKEA-BANNER-EDITED-offer-for-eid.gif",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7624"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hashem-group-eid-banner.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7195"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/bayan-new-eid.gif",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7147"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
             }
           },
           {
@@ -261,150 +395,6 @@
               "height": 200,
               "marginTop": 10,
               "marginBottom": 10,
-              "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/drschollbanner.jpg",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7672"
-                }
-              ],
-              "height": 0.29,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Arshia-Discount-Eid-al-adha.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7142"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Ktc-New-Eid.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7579"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7571,
-              "height": 320,
-              "title": "تجميعات مَتاع هوم",
-              "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Tefal-Discount-Eid.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7205"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/ikea-discount-eid.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7624"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/bayan-new-eid.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7147"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7387,
-              "height": 320,
-              "title": "تخفيضات ريبوك",
               "showMore": true
             }
           },
@@ -517,6 +507,37 @@
               "categoryId": 7385,
               "height": 320,
               "title": "خصومات Mavi",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "carousel",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mesauda-eid-new-arrivals.png",
+                  "categoryId": "7575"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/sheglam-eid-new-arrivals.png",
+                  "categoryId": "7577"
+                },
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nyx-eid-new-arrivals.png",
+                  "categoryId": "7578"
+                }
+              ],
+              "autoPlay": true,
+              "intervalTime": 5,
+              "height": 0.25
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7387,
+              "height": 320,
+              "title": "تخفيضات ريبوك",
               "showMore": true
             }
           },
