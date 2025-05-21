@@ -213,9 +213,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7571,
+              "categoryId": 7699,
               "height": 320,
-              "title": "تجميعات مَتاع هوم",
+              "title": "عروض الأسبوع",
               "showMore": true
             }
           },
@@ -619,7 +619,7 @@
             "config": {
               "categoryId": 7688,
               "height": 320,
-              "title": "تجميعات العناية والمكياج 💄",
+              "title": "عروض العناية والمكياج 💄",
               "showMore": true
             }
           },
@@ -948,6 +948,15 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7096,
+              "height": 320,
+              "title": "العاب العيد لأطفالك",
+              "showMore": true
             }
           },
           {
