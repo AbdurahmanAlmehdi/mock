@@ -235,7 +235,7 @@
             "layout": "product_list",
             "config": {
               "categoryId": 7699,
-              "height": 320,
+              "height": 250,
               "title": "عروض الأسبوع",
               "showMore": true
             }
