@@ -13,7 +13,7 @@
         "sectionName": "مَتاع",
         "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hometabbar-image-main.png",
+        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-page-1-mataa.png",
         "sectionTabBackgroundColor": "#FAA61A",
         "sectionBackgroundColor": "#FAA61A",
         "isMain": true,
@@ -255,7 +255,7 @@
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 5,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -516,7 +516,7 @@
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 5,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -597,7 +597,7 @@
                 }
               ],
               "height": 0.2,
-              "marginTop": 4,
+              "marginTop": 6,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -680,7 +680,7 @@
                 }
               ],
               "height": 0.14,
-              "marginTop": 3,
+              "marginTop": 5,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -757,7 +757,7 @@
                   "radius": 12
                 }
               ],
-              "marginTop": 3,
+              "marginTop": 5,
               "marginBottom": 0,
               "marginRight": 0,
               "marginLeft": 0
@@ -965,7 +965,7 @@
                   "radius": 12
                 }
               ],
-              "marginTop": 3,
+              "marginTop": 5,
               "marginBottom": 0,
               "marginRight": 0,
               "marginLeft": 0
@@ -1021,7 +1021,7 @@
                   "radius": 12
                 }
               ],
-              "marginTop": 3,
+              "marginTop": 5,
               "marginBottom": 0,
               "marginRight": 0,
               "marginLeft": 0
@@ -1077,7 +1077,7 @@
                 }
               ],
               "height": 0.14,
-              "marginTop": 3,
+              "marginTop": 5,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -1133,7 +1133,7 @@
                   "radius": 12
                 }
               ],
-              "marginTop": 3,
+              "marginTop": 5,
               "marginBottom": 0,
               "marginRight": 0,
               "marginLeft": 0
