@@ -173,7 +173,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/EDITED-TOP-SELLING-EID.gif",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/most-selling-edited-20-for-eid.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -592,7 +592,7 @@
               ],
               "autoPlay": true,
               "intervalTime": 5,
-              "height": 0.15
+              "height": 0.13
             }
           },
           {
@@ -666,7 +666,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/BEST-PRICES-OFFER-SM-eid.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/worldwide-brands-edited-20-for-eid.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -717,7 +717,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/RONCEY-EDITED-ROUTINE-SM-eid.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/roncey-brand-edited-20-for-eid.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -738,7 +738,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/LA-ROCHE-POSAY-EDITED-ROUTINE-SM-eid.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/la-roche-posay-offer-edited-20-for-eid.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -759,7 +759,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/SHEIN-BAGS-OFFER-SM-eid.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Shein-Bags-offer-edited-20-for-eid.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1088,7 +1088,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/KIDS-CLOTHES-SM-eid.gif",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-clothes-edited-20-for-eid.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -1109,7 +1109,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/KIDS-SHOES-SM-eid.gif",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-shoes-edited-20-for-eid.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
