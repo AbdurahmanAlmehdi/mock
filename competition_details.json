@@ -37,7 +37,7 @@
             },
             {
                 "level": 3,
-                "requiredOrders": 2,
+                "requiredOrders": 1,
                 "minOrderAmount": 500,
                 "title": "اطلب ب 500",
                 "description": "دير طلب بي اكثر من 500 دينار و ادخل السحب على خروف العيد",
