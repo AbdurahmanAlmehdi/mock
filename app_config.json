@@ -23,6 +23,26 @@
             "config": {
               "items": [
                 {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/giveaway-edited-30-for-eid.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
                   "category": 172,
                   "isCircular": true,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
@@ -152,33 +172,13 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/giveaway-edited-30-for-eid.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/milani-banner-30-for-eid.gif",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/EDITED-WEEKLY-PRODUCTS.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7576"
+                  "category": "7699"
                 }
               ],
               "height": 0.15,
@@ -223,34 +223,13 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/TEMOULI-DISCOUNT.gif",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-banner-for-mataa-home-25-5.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7205"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/EDITED-WEEKLY-PRODUCTS.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7699"
+                  "category": "7811"
                 }
               ],
               "height": 0.15,
@@ -295,17 +274,38 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-banner-for-mataa-home-25-5.gif",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Arshia-Discount-Eid-al-adha.png",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7811"
+                  "category": "7142"
                 }
               ],
               "height": 0.15,
               "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Tefal-Discount-EDITED-Eid-al-adha.png",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7205"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 7,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
@@ -337,13 +337,13 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Arshia-Discount-Eid-al-adha.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/milani-banner-30-for-eid.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7142"
+                  "category": "7576"
                 }
               ],
               "height": 0.15,
@@ -378,27 +378,6 @@
               ],
               "height": 0.15,
               "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Tefal-Discount-EDITED-Eid-al-adha.png",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7205"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 7,
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
