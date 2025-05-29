@@ -286,7 +286,7 @@
             "config": {
               "categoryId": 7821,
               "height": 320,
-              "title": "تونر مثالي بأقل من 50 د.ل",
+              "title": "تونرك المثالي بأقل من 50 د.ل",
               "showMore": true
             }
           },
@@ -351,6 +351,15 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7240,
+              "height": 320,
+              "title": "شامبو هدية عند طلبك 🧴",
+              "showMore": true
             }
           },
           {
