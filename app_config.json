@@ -282,6 +282,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7821,
+              "height": 320,
+              "title": "تونر مثالي بأقل من 50 د.ل",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
