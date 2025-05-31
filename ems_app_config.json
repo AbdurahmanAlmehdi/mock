@@ -19,10 +19,7 @@
         "sectionBackgroundColor": "#FAA61A",
         "isMain": true,
         "components": [
-          {
-            "layout": "mainCategoryList"
-            
-            },
+       
           {
             "layout": "banner",
             "config": {
