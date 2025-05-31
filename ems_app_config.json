@@ -20,6 +20,10 @@
         "isMain": true,
         "components": [
           {
+            "layout": "mainCategoryList"
+            
+            },
+          {
             "layout": "banner",
             "config": {
               "items": [
