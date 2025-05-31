@@ -199,7 +199,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7699"
+                  "category": "1139"
                 }
               ],
               "height": 0.15,
@@ -220,7 +220,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7689"
+                  "category": "1139"
                 }
               ],
               "height": 0.15,
@@ -241,7 +241,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7811"
+                  "category": "1139"
                 }
               ],
               "height": 0.15,
@@ -262,7 +262,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7672"
+                  "category": "1139"
                 }
               ],
               "height": 0.15,
@@ -283,7 +283,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7142"
+                  "category": "1813"
                 }
               ],
               "height": 0.15,
@@ -304,7 +304,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7579"
+                  "category": "1813"
                 }
               ],
               "height": 0.15,
@@ -325,7 +325,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7205"
+                  "category": "1813"
                 }
               ],
               "height": 0.15,
@@ -346,7 +346,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7624"
+                  "category": "1813"
                 }
               ],
               "height": 0.15,
@@ -359,7 +359,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 5725,
+              "categoryId": 1813,
               "height": 250,
               "title": "ساعات لطفلك في العيد",
               "showMore": true
@@ -376,7 +376,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7195"
+                  "category": "1813"
                 }
               ],
               "height": 0.15,
@@ -397,7 +397,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7147"
+                  "category": "1813"
                 }
               ],
               "height": 0.15,
@@ -417,7 +417,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-storie-2.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7671",
+                  "categoryId": "1813",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "جرعة لطافة لطفلك الحبيب",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -429,7 +429,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-story-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7512",
+                  "categoryId": "1813",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "عطور بفوحان ساحر",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -441,7 +441,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/watches-storie-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7669",
+                  "categoryId": "1813",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "ساعتك المفضلة، بسعر مثالي",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -453,7 +453,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kitchen-tools-storie-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7362",
+                  "categoryId": "1369",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "أهم معدات المطبخ للعيد",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -466,7 +466,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/essence-story-4.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7358",
+                  "categoryId": "1369",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "مكياجك للعيد من Essence",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -478,7 +478,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/village-story-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7359",
+                  "categoryId": "1369",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "حماية تامة لبشرتك في العيد",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -490,7 +490,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hoco-story-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7480",
+                  "categoryId": "1369",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "ديما على الموعد مع مجموعة Hoco",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -508,14 +508,14 @@
               "height": 0.15,
               "items": [
                 {
-                  "category": 7386,
+                  "category": 1369,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-puma-small-banner.gif",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7381,
+                  "category": 1369,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-4f-small-banner.gif",
                   "padding": 6,
                   "goToProducts": true,
@@ -534,14 +534,14 @@
               "height": 0.15,
               "items": [
                 {
-                  "category": 7391,
+                  "category": 1369,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-shein-small-banner.gif",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7651,
+                  "category": 1369,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-armaf-small-banner.gif",
                   "padding": 6,
                   "goToProducts": true,
@@ -565,7 +565,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7662"
+                  "category": "1369"
                 }
               ],
               "height": 0.15,
@@ -578,7 +578,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7649,
+              "categoryId": 1369,
               "height": 320,
               "title": "أحدث تخفيضات Hummel",
               "showMore": true
@@ -595,7 +595,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7384"
+                  "category": "1369"
                 }
               ],
               "height": 0.15,
@@ -616,7 +616,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7367"
+                  "category": "1369"
                 }
               ],
               "height": 0.15,
@@ -629,7 +629,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7385,
+              "categoryId": 1369,
               "height": 320,
               "title": "خصومات Mavi",
               "showMore": true
@@ -641,15 +641,15 @@
               "items": [
                 {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/MESAUDA-EDITED-BANNER-CAROUSEL.png",
-                  "categoryId": "7575"
+                  "categoryId": "1369"
                 },
                 {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/SHEGLAM-EDITED-BANNER-CAROUSEL.png",
-                  "categoryId": "7577"
+                  "categoryId": "1369"
                 },
                 {
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/NYX-EDITED-BANNER-CAROUSEL.png",
-                  "categoryId": "7578"
+                  "categoryId": "1369"
                 }
               ],
               "autoPlay": true,
@@ -660,7 +660,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7387,
+              "categoryId": 1369,
               "height": 320,
               "title": "تخفيضات ريبوك",
               "showMore": true
@@ -703,14 +703,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7091,
+                  "category": 1369,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-shoes-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7092,
+                  "category": 1369,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-clothes-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -734,7 +734,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7121"
+                  "category": "1278"
                 }
               ],
               "height": 0.14,
@@ -755,7 +755,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "6894"
+                  "category": "1278"
                 }
               ],
               "height": 0.14,
@@ -768,7 +768,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7688,
+              "categoryId": 1278,
               "height": 320,
               "title": "عروض العناية والمكياج 💄",
               "showMore": true
@@ -785,7 +785,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7685"
+                  "category": "1278"
                 }
               ],
               "height": 0.14,
@@ -806,7 +806,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "1961"
+                  "category": "1278"
                 }
               ],
               "height": 0.14,
@@ -827,7 +827,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7088"
+                  "category": "1278"
                 }
               ],
               "height": 0.14,
@@ -840,7 +840,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7664,
+              "categoryId": 1278,
               "height": 320,
               "title": "تخفيضات الملابس الرجالية",
               "showMore": true
@@ -852,14 +852,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7103,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/lips-make-up-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7102,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eyes-makeup-sm-eid.gif",
                   "padding": 6,
                   "goToProducts": true,
@@ -878,14 +878,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7101,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-makeup-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7104,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nails-products-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -908,7 +908,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-storie-2.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7671",
+                  "categoryId": "1278",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "جرعة لطافة لطفلك الحبيب",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -920,7 +920,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-story-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7512",
+                  "categoryId": "1278",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "عطور بفوحان ساحر",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -932,7 +932,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/watches-storie-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7669",
+                  "categoryId": "1278",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "ساعتك المفضلة، بسعر مثالي",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -944,7 +944,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kitchen-tools-storie-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7362",
+                  "categoryId": "1278",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "أهم معدات المطبخ للعيد",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -957,7 +957,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/essence-story-4.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7358",
+                  "categoryId": "1278",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "مكياجك للعيد من Essence",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -969,7 +969,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/village-story-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7359",
+                  "categoryId": "1278",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "حماية تامة لبشرتك في العيد",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -981,7 +981,7 @@
                     "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hoco-story-3.png"
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7480",
+                  "categoryId": "1278",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "ديما على الموعد مع مجموعة Hoco",
                   "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
@@ -999,14 +999,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7090,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Nutritional-supplements-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7099,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hair-care-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -1025,14 +1025,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7100,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/body-care-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7097,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-care-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -1048,7 +1048,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7663,
+              "categoryId": 1278,
               "height": 320,
               "title": "ليك ولطفلك، بسعر التخفيض",
               "showMore": true
@@ -1065,7 +1065,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7384"
+                  "category": "1278"
                 }
               ],
               "height": 0.14,
@@ -1078,7 +1078,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7096,
+              "categoryId": 1278,
               "height": 320,
               "title": "العاب العيد لأطفالك",
               "showMore": true
@@ -1090,14 +1090,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7093,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-shoes-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7089,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-clothes-sm-eid.gif",
                   "padding": 6,
                   "goToProducts": true,
@@ -1116,14 +1116,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7088,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-bags-sm-eid.gif",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7087,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-accessories-sm-eid.gif",
                   "padding": 6,
                   "goToProducts": true,
@@ -1139,7 +1139,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7195,
+              "categoryId": 1278,
               "height": 320,
               "title": "تخفيض وتوصيل سريع للساعات",
               "showMore": true
@@ -1156,7 +1156,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7095"
+                  "category": "1278"
                 }
               ],
               "height": 0.14,
@@ -1177,7 +1177,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7094"
+                  "category": "1278"
                 }
               ],
               "height": 0.14,
@@ -1190,7 +1190,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 6894,
+              "categoryId": 1278,
               "height": 320,
               "title": "عطور بتوصيل سريع",
               "showMore": true
@@ -1202,14 +1202,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7105,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mataa-tech-sm-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 6901,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mataa-HOME-sm-ONLY-eid.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -1228,14 +1228,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7382,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Bigotti-milano-edited-20-for-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7383,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/daniel-klein-edited-20-for-eid.png",
                   "padding": 6,
                   "goToProducts": true,
@@ -1254,14 +1254,14 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7389,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Sergio-tacchini-edited-20-for-eid.png",
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7388,
+                  "category": 1278,
                   "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/santa-barbara-edited-20-for-eid.png",
                   "padding": 6,
                   "goToProducts": true,
