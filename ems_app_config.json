@@ -19,7 +19,76 @@
         "sectionBackgroundColor": "#FAA61A",
         "isMain": true,
         "components": [
-       
+           {
+            "layout": "mainCategoryList",
+            "config": {
+              "categories": [
+
+                {
+                  "id": "1138",
+                  
+                  "image":
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png"
+
+                },
+                {
+                  "id": "1139",
+                  "image":
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png"
+
+                },
+                {
+                  "id": "1140",
+                  "image":
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png"
+
+
+                },
+                {
+                  "id": "1286",
+                  "image":
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png"
+
+                  
+                },
+                {
+                  "id": "1145",
+                  "image":
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png"
+
+                  
+
+                },
+                {
+                  "id": "1146",
+                  "image":
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png"
+
+                  
+
+                },
+                {
+                  "id": "1137",
+                  "image":
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png"
+
+                  
+
+                  
+
+                },
+                {
+                  "id": "1142",
+                  "image":
+                      "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png"
+
+                  
+
+
+                }
+              ]
+            }
+          },
           {
             "layout": "banner",
             "config": {
