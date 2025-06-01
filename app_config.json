@@ -189,6 +189,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7829,
+              "height": 320,
+              "title": "خلي فرحة العيد، فرحتين 🧡",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
