@@ -13,7 +13,7 @@
         "sectionName": "مَتاع",
         "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-page-1-mataa.png",
+        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tab-bar-mataa-new-eid-background.jpg",
         "sectionTabBackgroundColor": "#FAA61A",
         "sectionBackgroundColor": "#FAA61A",
         "isMain": true,
@@ -23,7 +23,7 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/giveaway-edited-30-for-eid.png",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/eid-mataa-first-banner.jpg",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -31,7 +31,7 @@
                   "showCartIcon": true
                 }
               ],
-              "height": 0.15,
+              "height": 0.30,
               "marginTop": 3,
               "marginRight": 0,
               "marginLeft": 0,
@@ -832,6 +832,26 @@
         "sectionBackgroundColor": "#A0C0FF",
         "isInHouse": true,
         "components": [
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/super-mataa-second-notify-for-eid.jpg",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true
+                }
+              ],
+              "height": 0.06,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
           {
             "layout": "banner",
             "config": {
