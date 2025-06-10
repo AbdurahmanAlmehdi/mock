@@ -148,6 +148,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7689,
+              "height": 320,
+              "title": "أعلى المنتجات مبيعًا ⭐",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -159,27 +168,6 @@
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "7834"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/EDITED-WEEKLY-PRODUCTS.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7699"
                 }
               ],
               "height": 0.15,
@@ -208,15 +196,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7829,
-              "height": 320,
-              "title": "خلي فرحة العيد، فرحتين 🧡",
-              "showMore": true
             }
           },
           {
