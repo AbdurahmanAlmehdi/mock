@@ -151,8 +151,8 @@
             "layout": "product_list",
             "config": {
               "categoryId": 7689,
-              "height": 320,
-              "title": "أعلى المنتجات مبيعًا ⭐",
+              "height": 250,
+              "title": "الأعلى مبيعًا ⭐",
               "showMore": true
             }
           },
@@ -168,6 +168,27 @@
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "7834"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/EDITED-WEEKLY-PRODUCTS.gif",
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "7699"
                 }
               ],
               "height": 0.15,
@@ -261,27 +282,6 @@
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "7811"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/most-selling-edited-20-for-eid.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7689"
                 }
               ],
               "height": 0.15,
