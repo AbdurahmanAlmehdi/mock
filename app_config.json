@@ -220,6 +220,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 7571,
+              "height": 320,
+              "title": "باقات حصرية لمنزلك 🏠",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -259,15 +268,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7571,
-              "height": 320,
-              "title": "باقات حصرية لمنزلك 🏠",
-              "showMore": true
             }
           },
           {
