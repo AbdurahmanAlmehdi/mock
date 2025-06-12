@@ -161,13 +161,13 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/mkhawir-june.gif",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/shein-clothes-june.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7834"
+                  "category": "2918"
                 }
               ],
               "height": 0.15,
@@ -203,13 +203,13 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/shein-clothes-june.gif",
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/mkhawir-june.gif",
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "2918"
+                  "category": "7834"
                 }
               ],
               "height": 0.15,
