@@ -118,6 +118,8 @@
                  "1252",
                  "1251"
                ],
+               "marginBottom": 12,
+               "marginTop": 12,
                "height": 80,
                "title": "Popular Brands",
                "showMore": false
