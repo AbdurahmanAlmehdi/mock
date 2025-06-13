@@ -110,6 +110,19 @@
               "marginBottom": 8
             }
           },
+          {
+             "layout": "brands_list",
+             "config": {
+               "brandIds": [
+                 "1254",
+                 "1252",
+                 "1251"
+               ],
+               "height": 80,
+               "title": "Popular Brands",
+               "showMore": false
+             }
+           },
 
           {
             "layout": "banner",
