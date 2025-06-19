@@ -13,9 +13,8 @@
         "sectionName": "مَتاع",
         "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/Mataa-Tab-bar-background-9-6.png",
         "sectionTabBackgroundColor": "#FAA61A",
-        "sectionBackgroundColor": "#FAA61A",
+        "sectionBackgroundColor": "#FFFFFF",
         "isMain": true,
         "components": [
           {
@@ -748,9 +747,8 @@
         "sectionName": "سوبر مَتاع",
         "sectionShowcase": "سوبر مَتاع توفرلك أفضل المنتجات مبيعًا بتوصيل خلال ساعات من مخازننا مباشرة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-S-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/04/super-mataa-tabback.png",
         "sectionTabBackgroundColor": "#faa61a",
-        "sectionBackgroundColor": "#A0C0FF",
+        "sectionBackgroundColor": "#FFFFFF",
         "isInHouse": true,
         "components": [
           {
