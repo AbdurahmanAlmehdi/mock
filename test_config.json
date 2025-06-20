@@ -120,19 +120,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1139"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -145,19 +145,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1324"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -170,19 +170,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2073"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -195,19 +195,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1139"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -229,19 +229,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2077"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -254,19 +254,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1139"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -288,19 +288,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1927"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -313,19 +313,19 @@
                     "width": "1309",
                     "height": "371"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1965"
                 }
               ],
               "height": 0.15,
-              "marginTop": 7,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -338,19 +338,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2067"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -363,19 +363,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2045"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -397,19 +397,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2048"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -422,19 +422,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2056"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -456,19 +456,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1956"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -481,19 +481,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1929"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -664,9 +664,9 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 2019,
@@ -675,15 +675,15 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 3,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -698,9 +698,9 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 2059,
@@ -709,15 +709,15 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 3,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -730,19 +730,19 @@
                     "width": "1440",
                     "height": "408"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2061"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -764,19 +764,19 @@
                     "width": "1309",
                     "height": "371"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2022"
                 }
               ],
               "height": 0.15,
-              "marginTop": 7,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -789,19 +789,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2017"
                 }
               ],
               "height": 0.15,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -843,7 +843,6 @@
                 }
               ],
               "autoPlay": true,
-              "radius": 12,
               "intervalTime": 5,
               "height": 0.13
             }
@@ -867,18 +866,18 @@
                     "width": "1106",
                     "height": "461"
                   },
-                  "padding": 5,
-                  "radius": 6,
+                  "padding": 10,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "externalLink": "https://www.almadar.ly/ar/Pages/Offers/infinity.aspx"
                 }
               ],
               "height": 0.2,
-              "marginTop": 8,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           }
         ]
@@ -910,18 +909,18 @@
                     "width": "1047",
                     "height": "103"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true
                 }
               ],
               "height": 0.06,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -936,9 +935,9 @@
                     "width": "502",
                     "height": "290"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 2063,
@@ -947,15 +946,15 @@
                     "width": "815",
                     "height": "471"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 7,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -968,19 +967,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1902"
                 }
               ],
               "height": 0.14,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -993,19 +992,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1813"
                 }
               ],
               "height": 0.14,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -1027,19 +1026,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2068"
                 }
               ],
               "height": 0.14,
-              "marginTop": 7,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -1052,19 +1051,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1864"
                 }
               ],
               "height": 0.14,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -1088,9 +1087,9 @@
                     "width": "690",
                     "height": "399"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 1206,
@@ -1099,15 +1098,15 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 7,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -1122,9 +1121,9 @@
                     "width": "502",
                     "height": "290"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 1209,
@@ -1133,15 +1132,15 @@
                     "width": "690",
                     "height": "399"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 3,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -1312,9 +1311,9 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 1200,
@@ -1323,15 +1322,15 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 3,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -1346,9 +1345,9 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 1198,
@@ -1357,15 +1356,15 @@
                     "width": "690",
                     "height": "399"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 3,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -1387,19 +1386,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "2022"
                 }
               ],
               "height": 0.14,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -1423,9 +1422,9 @@
                     "width": "815",
                     "height": "471"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 2062,
@@ -1434,15 +1433,15 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 7,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -1457,9 +1456,9 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 1863,
@@ -1468,15 +1467,15 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 3,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -1498,19 +1497,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1871"
                 }
               ],
               "height": 0.14,
-              "marginTop": 7,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -1523,19 +1522,19 @@
                     "width": "1047",
                     "height": "297"
                   },
-                  "padding": 5,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 6,
+                  "radius": 15,
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "1870"
                 }
               ],
               "height": 0.14,
-              "marginTop": 3,
+              "marginTop": 10,
               "marginRight": 8,
               "marginLeft": 8,
-              "marginBottom": 8
+              "marginBottom": 10
             }
           },
           {
@@ -1559,9 +1558,9 @@
                     "width": "753",
                     "height": "435"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 1817,
@@ -1570,15 +1569,15 @@
                     "width": "815",
                     "height": "471"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 7,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -1593,9 +1592,9 @@
                     "width": "879",
                     "height": "508"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 2021,
@@ -1604,15 +1603,15 @@
                     "width": "879",
                     "height": "508"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 7,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           },
           {
@@ -1627,9 +1626,9 @@
                     "width": "816",
                     "height": "471"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 },
                 {
                   "category": 2026,
@@ -1638,15 +1637,15 @@
                     "width": "879",
                     "height": "508"
                   },
-                  "padding": 6,
+                  "padding": 10,
                   "goToProducts": true,
-                  "radius": 12
+                  "radius": 15
                 }
               ],
-              "marginTop": 7,
-              "marginBottom": 8,
+              "marginTop": 10,
+              "marginBottom": 10,
               "marginRight": 8,
-              "marginLeft": 0
+              "marginLeft": 8
             }
           }
         ]
