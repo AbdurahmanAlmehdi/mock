@@ -106,6 +106,8 @@
             "config": {
               "categoryId": 2071,
               "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "الأعلى مبيعًا ⭐",
               "showMore": true
             }
@@ -214,7 +216,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2043,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "باقات حصرية لمنزلك 🏠",
               "showMore": true
             }
@@ -273,7 +277,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2079,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "تونرك المثالي بأقل من 50 د.ل",
               "showMore": true
             }
@@ -382,7 +388,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 1979,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "شامبو هدية عند طلبك 🧴",
               "showMore": true
             }
@@ -442,6 +450,8 @@
             "config": {
               "categoryId": 1393,
               "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "ساعات لطفلك في العيد",
               "showMore": true
             }
@@ -749,7 +759,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2057,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "أحدث تخفيضات Hummel",
               "showMore": true
             }
@@ -808,7 +820,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2023,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "خصومات Mavi",
               "showMore": true
             }
@@ -844,6 +858,7 @@
               ],
               "autoPlay": true,
               "intervalTime": 5,
+              "radius": 12,
               "height": 0.13
             }
           },
@@ -851,7 +866,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2025,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "تخفيضات ريبوك",
               "showMore": true
             }
@@ -1011,7 +1028,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2070,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "عروض العناية والمكياج 💄",
               "showMore": true
             }
@@ -1070,7 +1089,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2063,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "تخفيضات الملابس الرجالية",
               "showMore": true
             }
@@ -1371,7 +1392,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2062,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "ليك ولطفلك، بسعر التخفيض",
               "showMore": true
             }
@@ -1405,7 +1428,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 1183,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "العاب العيد لأطفالك",
               "showMore": true
             }
@@ -1482,7 +1507,10 @@
             "layout": "product_list",
             "config": {
               "categoryId": 1956,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
+
               "title": "تخفيض وتوصيل سريع للساعات",
               "showMore": true
             }
@@ -1541,7 +1569,9 @@
             "layout": "product_list",
             "config": {
               "categoryId": 1813,
-              "height": 320,
+              "height": 250,
+              "marginLeft": 8,
+              "marginRight": 8,
               "title": "عطور بتوصيل سريع",
               "showMore": true
             }
