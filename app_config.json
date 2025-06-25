@@ -261,83 +261,11 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/mkhawir-june.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7834"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
               "categoryId": 5725,
               "height": 250,
               "title": "ساعات أطفال",
-              "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/MONHA-DISCOUNT.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7819"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/shein-shoes-june.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7824"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7821,
-              "height": 320,
-              "title": "تونرك المثالي بأقل من 50 د.ل",
               "showMore": true
             }
           },
@@ -829,27 +757,6 @@
                   "showSubcategory": false,
                   "showCartIcon": true,
                   "category": "7121"
-                }
-              ],
-              "height": 0.14,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/lelas-june.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "6894"
                 }
               ],
               "height": 0.14,
