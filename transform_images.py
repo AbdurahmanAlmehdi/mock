@@ -34,7 +34,44 @@ class ImageModelTransformer:
             Optional[int], Optional[int]]] = {} if cache_dimensions else {}
         self.category_cache: Dict[str, str] = {}
         self.wordpress_base_url = "https://www.mataaa.com"
-        self.odoo_filter_url = "http://88.198.77.169:5051/api/v1/Category/Filter"
+        self.odoo_filter_url = "https://staging.mataaa.com/gateway/CatalogManagement/api/v1/Category/Filter"
+        # Store main category items during transformation
+        self.main_category_items = []
+
+    def collect_main_category_items(self, components: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+
+        main_category_items = []
+        components_to_remove = []
+
+        for i, component in enumerate(components):
+            if component.get('layout') == 'banner':
+                items = component.get('config', {}).get('items', [])
+                has_main_categories = False
+                
+
+                if all(item.get('isMainCategory', False) for item in items):
+                    has_main_categories = True
+                    for item in items:
+                        main_category_items.append({
+                            'id': str(item.get('category')),
+                            'image': item.get('image')
+                        })
+                    components_to_remove.append(i)
+
+
+        for index in reversed(components_to_remove):
+            components.pop(index)
+
+
+        if main_category_items:
+            components.insert(0, {
+                'layout': 'mainCategoryList',
+                'config': {
+                    'categories': main_category_items
+                }
+            })
+
+        return components
 
     def is_image_url(self, value: Any) -> bool:
        
@@ -266,16 +303,19 @@ class ImageModelTransformer:
         return value
 
     def transform_data(self, data: Any) -> Any:
-
         if isinstance(data, dict):
             transformed = {}
             for key, value in data.items():
-                transformed[key] = self.transform_value(key, value)
-            return transformed
 
+                if key == 'components' and isinstance(value, list):
+                    transformed[key] = self.collect_main_category_items(
+                        [self.transform_data(item) for item in value]
+                    )
+                else:
+                    transformed[key] = self.transform_value(key, value)
+            return transformed
         elif isinstance(data, list):
             return [self.transform_data(item) for item in data]
-
         else:
             return data
 
