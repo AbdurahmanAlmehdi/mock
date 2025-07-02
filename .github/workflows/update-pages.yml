@@ -28,17 +28,17 @@ jobs:
 
       - name: Run Python script with args
         run: |
-          python transform_images.py app_config.json -o test_config.json --indent 2
+          python transform_images.py app_config.json -o app_config_ems_img.json --indent 2
 
-      - name: Commit test_config.json if changed
+      - name: Commit app_config_ems_img.json if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet test_config.json; then
-            echo "No changes to test_config.json"
+          if git diff --quiet app_config_ems_img.json; then
+            echo "No changes to app_config_ems_img.json"
           else
-            git add test_config.json
-            git commit -m "Update test_config.json from transform_image.py"
+            git add app_config_ems_img.json
+            git commit -m "Update app_config_ems_img.json from transform_image.py"
             git push
           fi
