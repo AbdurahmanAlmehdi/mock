@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: 3.x
 
+      - name: Install dependencies
+        run: pip install requests pillow
+
       - name: Run Python script with args
         run: |
           python transform_images.py app_config.json -o test_config.json --indent 2
