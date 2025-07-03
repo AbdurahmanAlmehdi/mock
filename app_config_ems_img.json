@@ -115,7 +115,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "1139"
+                  "category": "2090"
                 }
               ],
               "height": 0.15,
@@ -140,7 +140,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "1139"
+                  "category": "2091"
                 }
               ],
               "height": 0.15,
@@ -165,7 +165,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "1139"
+                  "category": "2089"
                 }
               ],
               "height": 0.15,
@@ -173,15 +173,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1139,
-              "height": 250,
-              "title": "هدية لأول عشرة طلبات 💞",
-              "showMore": true
             }
           },
           {
@@ -233,7 +224,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "1139"
+                  "category": "1848"
                 }
               ],
               "height": 0.15,
@@ -646,7 +637,7 @@
                     }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "1139",
+                  "categoryId": "2092",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "تخفيضات حقائب من شي ان",
                   "influencer_pfp": {
@@ -1264,7 +1255,7 @@
                     }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "1139",
+                  "categoryId": "2092",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "تخفيضات حقائب من شي ان",
                   "influencer_pfp": {
