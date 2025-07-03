@@ -90,7 +90,7 @@
                   }
                 },
                 {
-                  "id": "1142",
+                  "id": "1429",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -204,7 +204,7 @@
             "layout": "product_list",
             "config": {
               "categoryId": 2071,
-              "height": 251,
+              "height": 250,
               "title": "الأعلى مبيعًا ⭐",
               "showMore": true
             }
