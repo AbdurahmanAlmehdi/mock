@@ -210,15 +210,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 7900,
-              "height": 250,
-              "title": "هدية لأول عشرة طلبات 💞",
-              "showMore": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
@@ -243,7 +234,7 @@
             "layout": "product_list",
             "config": {
               "categoryId": 7689,
-              "height": 251,
+              "height": 250,
               "title": "الأعلى مبيعًا ⭐",
               "showMore": true
             }
@@ -259,7 +250,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7883"
+                  "category": "7021"
                 }
               ],
               "height": 0.15,
