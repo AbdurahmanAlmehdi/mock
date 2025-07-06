@@ -106,7 +106,7 @@
               "items": [
                 {
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/flormar-july.jpg",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/flormar-july-without-discount.gif",
                     "width": "1047",
                     "height": "297"
                   },
@@ -215,7 +215,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "2086"
+                  "category": "1139"
                 }
               ],
               "height": 0.15,
