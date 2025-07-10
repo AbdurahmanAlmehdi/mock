@@ -125,6 +125,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2107,
+              "height": 250,
+              "title": "مع كل عدسة من هيفاء رموش هدية ",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
