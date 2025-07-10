@@ -209,6 +209,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2111,
+              "height": 250,
+              "title": "مكياج مناسباتك خليه على زينه 💞",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
