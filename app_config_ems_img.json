@@ -970,15 +970,7 @@
                 },
                 {
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/MESAUDA-EDITED-BANNER-CAROUSEL.png",
-                    "width": "1032",
-                    "height": "327"
-                  },
-                  "categoryId": "2044"
-                },
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/SHEGLAM-EDITED-BANNER-CAROUSEL.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/sheglam-after-edit.jpg",
                     "width": "1032",
                     "height": "327"
                   },
@@ -986,7 +978,7 @@
                 },
                 {
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/NYX-EDITED-BANNER-CAROUSEL.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/nyx-after-edit.jpg",
                     "width": "1032",
                     "height": "327"
                   },
