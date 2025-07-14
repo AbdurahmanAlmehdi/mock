@@ -180,7 +180,7 @@
               "items": [
                 {
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/aya-fayed-july.gif",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/aya-fayed-edited-offer.gif",
                     "width": "1047",
                     "height": "297"
                   },
@@ -960,6 +960,14 @@
             "layout": "carousel",
             "config": {
               "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/mesauda-after-edit.jpg",
+                    "width": "1032",
+                    "height": "327"
+                  },
+                  "categoryId": "2044"
+                },
                 {
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/MESAUDA-EDITED-BANNER-CAROUSEL.png",
