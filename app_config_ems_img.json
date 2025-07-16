@@ -30,63 +30,39 @@
         "isMain": true,
         "components": [
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/notify-main-screen-july-2025.png",
-                    "width": "1047",
-                    "height": "103"
-                  },
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true
-                }
-              ],
-              "height": 0.06,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "mainCategoryList",
             "config": {
               "categories": [
                 {
                   "id": "1138",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
-                    "width": "1080",
-                    "height": "1080"
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/men-resized-category.jpg",
+                    "width": "540",
+                    "height": "540"
                   }
                 },
                 {
                   "id": "1139",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
-                    "width": "1080",
-                    "height": "1080"
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/women-resized-category.jpg",
+                    "width": "540",
+                    "height": "540"
                   }
                 },
                 {
                   "id": "1140",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
-                    "width": "1080",
-                    "height": "1080"
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/kids-resized-category.jpg",
+                    "width": "540",
+                    "height": "540"
                   }
                 },
                 {
                   "id": "1976",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
-                    "width": "1080",
-                    "height": "1080"
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/perfume-resized-category.jpg",
+                    "width": "540",
+                    "height": "540"
                   }
                 }
               ]
