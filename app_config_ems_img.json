@@ -88,7 +88,14 @@
                     "width": "1080",
                     "height": "1080"
                   }
-                },
+                }
+              ]
+            }
+          },
+          {
+            "layout": "mainCategoryList",
+            "config": {
+              "categories": [
                 {
                   "id": "1145",
                   "image": {
