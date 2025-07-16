@@ -108,6 +108,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2117,
+              "height": 250,
+              "title": "خوارزمياتنا تقول ان ساعاتنا حتعجبك 💞",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
