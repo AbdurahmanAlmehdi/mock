@@ -30,6 +30,31 @@
         "isMain": true,
         "components": [
           {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/new-update-pic.png",
+                    "width": "1357",
+                    "height": "382"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "1139"
+                }
+              ],
+              "height": 0.30,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
             "layout": "mainCategoryList",
             "config": {
               "categories": [
