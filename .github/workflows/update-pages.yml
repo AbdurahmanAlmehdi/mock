@@ -1,11 +1,11 @@
 name: Transform and Commit Output on Same Branch
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'app_config.json'
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - 'app_config.json'
 
 permissions:
   contents: write
