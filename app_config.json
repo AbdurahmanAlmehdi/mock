@@ -10,6 +10,7 @@
     "homeSections": [
       {
         "sectionName": "مَتاع",
+        "showSearchBar": false,
         "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-30.png",
@@ -17,6 +18,33 @@
         "sectionBackgroundColor": "#FFFFFF",
         "isMain": true,
         "components": [
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/new-update-pic.png",
+                    "width": "1357",
+                    "height": "382"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                   "externalLink":
+                      "https://play.google.com/store/apps/details?id=com.mataaa",
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "1139"
+                }
+              ],
+               "height": 0.72,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
           {
             "layout": "banner",
             "config": {
