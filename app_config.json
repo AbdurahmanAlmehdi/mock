@@ -10,6 +10,7 @@
     "homeSections": [
       {
         "sectionName": "مَتاع",
+         "showSearchBar": false,
         "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-30.png",
@@ -22,11 +23,7 @@
             "config": {
               "items": [
                 {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/new-update-pic.png",
-                    "width": "1357",
-                    "height": "382"
-                  },
+                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/new-update-pic.png",
                   "padding": 5,
                   "goToProducts": true,
                    "externalLink":
