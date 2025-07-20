@@ -169,6 +169,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2121,
+              "height": 250,
+              "title": "تشكيلة تامة للعناية بيديك 🫰🏻",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
