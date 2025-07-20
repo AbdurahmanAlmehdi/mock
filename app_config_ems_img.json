@@ -101,15 +101,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2124,
-              "height": 320,
-              "title": "مَتاع الصيف",
-              "showMore": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
