@@ -103,9 +103,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2123,
-              "height": 250,
-              "title": "إختيارات العطور لهذا الأسبوع 💌",
+              "categoryId": 2124,
+              "height": 320,
+              "title": "قصة شمس",
               "showMore": true
             }
           },
@@ -132,6 +132,15 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2123,
+              "height": 250,
+              "title": "إختيارات العطور لهذا الأسبوع 💌",
+              "showMore": true
             }
           },
           {
@@ -1082,9 +1091,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2070,
+              "categoryId": 2057,
               "height": 320,
-              "title": "عروض العناية والمكياج 💄",
+              "title": "أهم مقتنيات الصيف 🏖️",
               "showMore": true
             }
           },
@@ -1111,6 +1120,15 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2070,
+              "height": 320,
+              "title": "عروض العناية والمكياج 💄",
+              "showMore": true
             }
           },
           {
