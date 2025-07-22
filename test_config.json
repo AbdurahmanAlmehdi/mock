@@ -32,6 +32,9 @@
           {
             "layout": "mainCategoryList",
             "config": {
+              "columns": 4,
+              "iconSize": 32,
+              "spacing": 8,
               "categories": [
                 {
                   "id": "1138",
