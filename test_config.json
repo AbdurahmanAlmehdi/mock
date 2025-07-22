@@ -5,187 +5,117 @@
     "isCouponEnabled": true
   },
   "homeConfig": {
-    "homeTabBarBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-20.jpg",
+    "homeTabBarBackgroundImage": {
+      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-20.jpg",
+      "width": "1080",
+      "height": "1080"
+    },
     "homeTabBarBackgroundColor": "#FFFFFF",
     "homeSections": [
       {
         "sectionName": "مَتاع",
-        "showSearchBar": false,
         "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
-        "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-30.png",
+        "sectionTabBackgroundImage": {
+          "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
+          "width": "628",
+          "height": "572"
+        },
+        "sectionBackgrondImg": {
+          "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-30.png",
+          "width": "1080",
+          "height": "1080"
+        },
         "sectionTabBackgroundColor": "#FAA61A",
         "sectionBackgroundColor": "#FFFFFF",
         "isMain": true,
         "components": [
+          {
+            "layout": "mainCategoryList",
+            "config": {
+              "categories": [
+                {
+                  "id": "1138",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1139",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1140",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1976",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1145",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1146",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1137",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1142",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                }
+              ]
+            }
+          },
           {
             "layout": "banner",
             "config": {
               "items": [
                 {
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/new-update-pic.png",
-                    "width": "1357",
-                    "height": "382"
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/new-mkhawir-giveaway.gif",
+                    "width": "1047",
+                    "height": "297"
                   },
                   "padding": 5,
                   "goToProducts": true,
-                   "externalLink":
-                      "https://play.google.com/store/apps/details?id=com.mataaa",
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "1139"
-                }
-              ],
-               "height": 0.72,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "category": 172,
-                  "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
-                  "padding": 11,
-                  "goToProducts": true,
-                  "isMainCategory": true,
-                  "mainTitle": {
-                    "text": "رجال",
-                    "color": "#000000",
-                    "fontSize": 13
-                  }
-                },
-                {
-                  "category": 174,
-                  "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
-                  "padding": 11,
-                  "goToProducts": true,
-                  "isMainCategory": true,
-                  "mainTitle": {
-                    "text": "نساء",
-                    "color": "#000000",
-                    "fontSize": 13
-                  }
-                },
-                {
-                  "category": 176,
-                  "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
-                  "padding": 11,
-                  "goToProducts": true,
-                  "isMainCategory": true,
-                  "mainTitle": {
-                    "text": "أطفال",
-                    "color": "#000000",
-                    "fontSize": 13
-                  }
-                },
-                {
-                  "category": 7230,
-                  "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
-                  "padding": 11,
-                  "goToProducts": true,
-                  "isMainCategory": true,
-                  "mainTitle": {
-                    "text": "عطور",
-                    "color": "#000000",
-                    "fontSize": 13
-                  }
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "isMainCategory": true,
-            "config": {
-              "items": [
-                {
-                  "category": 1677,
-                  "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png",
-                  "padding": 11,
-                  "goToProducts": true,
-                  "isMainCategory": true,
-                  "mainTitle": {
-                    "text": "العناية",
-                    "color": "#000000",
-                    "fontSize": 13
-                  }
-                },
-                {
-                  "category": 1684,
-                  "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
-                  "padding": 11,
-                  "goToProducts": true,
-                  "isMainCategory": true,
-                  "mainTitle": {
-                    "text": "المكياج",
-                    "color": "#000000",
-                    "fontSize": 13
-                  }
-                },
-                {
-                  "category": 2066,
-                  "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
-                  "padding": 11,
-                  "goToProducts": true,
-                  "isMainCategory": true,
-                  "mainTitle": {
-                    "text": "هوم",
-                    "color": "#000000",
-                    "fontSize": 13
-                  }
-                },
-                {
-                  "category": 4982,
-                  "isCircular": true,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
-                  "padding": 11,
-                  "goToProducts": true,
-                  "isMainCategory": true,
-                  "mainTitle": {
-                    "text": "تيك",
-                    "color": "#000000",
-                    "fontSize": 13
-                  }
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 1,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/flormar-edit-3.gif",
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "7930"
+                  "category": "2082"
                 }
               ],
               "height": 0.15,
@@ -198,7 +128,236 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7689,
+              "categoryId": 2124,
+              "height": 320,
+              "title": "مَتاع الصيف",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/PRINCESI.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2122"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2123,
+              "height": 250,
+              "title": "إختيارات العطور لهذا الأسبوع 💌",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/home-discount-telinex.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2118"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2119,
+              "height": 250,
+              "title": "إختياراتنا للعناية والمكياج ⭐",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2121,
+              "height": 250,
+              "title": "تشكيلة تامة للعناية بيديك 🫰🏻",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/byphasse-ziaja.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2115"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2117,
+              "height": 250,
+              "title": "تشكيلة بمزيج عصري من الأناقة",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/flormar-edit-3.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2093"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2111,
+              "height": 250,
+              "title": "مكياج مناسباتك خليه على زينه 💞",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/SUMMER-BANNER.png",
+                    "width": "1357",
+                    "height": "382"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2090"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/JULY-NOREVA.png",
+                    "width": "1433",
+                    "height": "401"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2091"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/rawnaq-aljamal-banner-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2086"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2071,
               "height": 250,
               "title": "الأعلى مبيعًا ⭐",
               "showMore": true
@@ -209,13 +368,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/shein-clothes-june.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/bioderma-june.jpg",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "2918"
+                  "category": "2085"
                 }
               ],
               "height": 0.15,
@@ -230,13 +393,42 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/weekly-products-june.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/shein-clothes-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7699"
+                  "category": "1324"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/weekly-products-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2073"
                 }
               ],
               "height": 0.15,
@@ -249,7 +441,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 5725,
+              "categoryId": 1393,
               "height": 250,
               "title": "ساعات أطفال",
               "showMore": true
@@ -260,13 +452,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Arshia-Discount-Eid-al-adha.png",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Arshia-Discount-Eid-al-adha.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7142"
+                  "category": "1927"
                 }
               ],
               "height": 0.15,
@@ -281,13 +477,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/dr-scholls-june.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/dr-scholls-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7672"
+                  "category": "2067"
                 }
               ],
               "height": 0.15,
@@ -302,13 +502,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/milani-june.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/milani-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7576"
+                  "category": "2045"
                 }
               ],
               "height": 0.15,
@@ -321,7 +525,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7240,
+              "categoryId": 1979,
               "height": 320,
               "title": "شامبو هدية عند طلبك 🧴",
               "showMore": true
@@ -332,13 +536,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Ktc-New-Eid.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Ktc-New-Eid.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7579"
+                  "category": "2048"
                 }
               ],
               "height": 0.15,
@@ -353,13 +561,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/ikea-june.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/ikea-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7624"
+                  "category": "2056"
                 }
               ],
               "height": 0.15,
@@ -374,13 +586,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/watches-june.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/watches-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7195"
+                  "category": "1956"
                 }
               ],
               "height": 0.15,
@@ -395,13 +611,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/bayan-new-eid.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/bayan-new-eid.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7147"
+                  "category": "1929"
                 }
               ],
               "height": 0.15,
@@ -416,69 +636,154 @@
             "config": {
               "items": [
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-1-JULY-25.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-1-JULY-25.png",
+                    "width": "402",
+                    "height": "605"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-2-JULY-25.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-3-JULY-25.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-2-JULY-25.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-3-JULY-25.png",
+                      "width": "402",
+                      "height": "606"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7731",
+                  "categoryId": "2074",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "اكسسوار مميز لمناسبتك✨",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 },
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-1-JULY-2025.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-1-AUG-W1.png",
+                    "width": "404",
+                    "height": "607"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-2-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-3-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-4-JULY-2025.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-2-AUG-W1.png",
+                      "width": "403",
+                      "height": "608"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-3-AUG-W1.png",
+                      "width": "401",
+                      "height": "606"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-4-JULY-2025.png",
+                      "width": "402",
+                      "height": "606"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7362",
+                  "categoryId": "2014",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "كماليات ننسوا فيهم للحوش 🏠",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "card_title": "تجهيزات سفرتك اختصرناها هني ",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 },
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-1-JULY-2025.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/Beauty-story-1-aug-w1.png",
+                    "width": "406",
+                    "height": "611"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-2-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-3-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-4-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-5-JULY-2025.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/Beauty-story-1-aug-w1.png",
+                      "width": "407",
+                      "height": "613"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/Beauty-story-2-aug-w1.png",
+                      "width": "406",
+                      "height": "614"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7358",
+                  "categoryId": "2010",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "خليك جلوي في هذا الصيف 💅🏻",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "card_title": "انتعاش طول اليوم 🌬",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 },
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-2-1-JULY-2025.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/2-Beauty-story-1-aug-w1.png",
+                    "width": "380",
+                    "height": "571"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-2-2-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-2-3-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-2-4-JULY-2025.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/2-Beauty-story-1-aug-w1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/2-Beauty-story-2-aug-w1.png",
+                      "width": "381",
+                      "height": "573"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7359",
+                  "categoryId": "2011",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "واقيات شمس أقل من 70 دينار ↙😍",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "card_title": "سيرومات للشعر بأسعار اقل من 70 دينار",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 },
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-1-JULY-2025.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-1-JULY-2025.png",
+                    "width": "482",
+                    "height": "726"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-2-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-3-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-4-JULY-2025.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-2-JULY-2025.png",
+                      "width": "480",
+                      "height": "723"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-3-JULY-2025.png",
+                      "width": "481",
+                      "height": "722"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-4-JULY-2025.png",
+                      "width": "480",
+                      "height": "722"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7921",
+                  "categoryId": "2092",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "تخفيضات حقائب من شي ان",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 }
               ],
               "height": 200,
@@ -493,15 +798,23 @@
               "height": 0.15,
               "items": [
                 {
-                  "category": 7386,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-puma-small-banner.gif",
+                  "category": 2024,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-puma-small-banner.gif",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7381,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-4f-small-banner.gif",
+                  "category": 2019,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-4f-small-banner.gif",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -519,15 +832,23 @@
               "height": 0.15,
               "items": [
                 {
-                  "category": 7391,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-shein-small-banner.gif",
+                  "category": 2029,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-shein-small-banner.gif",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7651,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-armaf-small-banner.gif",
+                  "category": 2059,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-armaf-small-banner.gif",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -544,13 +865,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/adidas-shoes-june.jpg",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/adidas-shoes-june.jpg",
+                    "width": "1440",
+                    "height": "408"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7662"
+                  "category": "2061"
                 }
               ],
               "height": 0.15,
@@ -563,7 +888,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7649,
+              "categoryId": 2057,
               "height": 320,
               "title": "أحدث تخفيضات Hummel",
               "showMore": true
@@ -574,13 +899,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/FARMASI-DISCOUNT-EID.png",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/FARMASI-DISCOUNT-EID.png",
+                    "width": "1309",
+                    "height": "371"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7384"
+                  "category": "2022"
                 }
               ],
               "height": 0.15,
@@ -595,13 +924,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/ipekyol-june.jpg",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/ipekyol-june.jpg",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7367"
+                  "category": "2017"
                 }
               ],
               "height": 0.15,
@@ -614,7 +947,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7385,
+              "categoryId": 2023,
               "height": 320,
               "title": "خصومات Mavi",
               "showMore": true
@@ -625,16 +958,28 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/MESAUDA-EDITED-BANNER-CAROUSEL.png",
-                  "categoryId": "7575"
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/mesauda-after-edit.jpg",
+                    "width": "1032",
+                    "height": "327"
+                  },
+                  "categoryId": "2044"
                 },
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/SHEGLAM-EDITED-BANNER-CAROUSEL.png",
-                  "categoryId": "7577"
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/sheglam-after-edit.jpg",
+                    "width": "1032",
+                    "height": "327"
+                  },
+                  "categoryId": "2046"
                 },
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/NYX-EDITED-BANNER-CAROUSEL.png",
-                  "categoryId": "7578"
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/nyx-after-edit.jpg",
+                    "width": "1032",
+                    "height": "327"
+                  },
+                  "categoryId": "2047"
                 }
               ],
               "autoPlay": true,
@@ -645,7 +990,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7387,
+              "categoryId": 2025,
               "height": 320,
               "title": "تخفيضات ريبوك",
               "showMore": true
@@ -656,8 +1001,16 @@
       {
         "sectionName": "سوبر مَتاع",
         "sectionShowcase": "سوبر مَتاع توفرلك أفضل المنتجات مبيعًا بتوصيل خلال ساعات من مخازننا مباشرة",
-        "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-S-MATAA.png",
-        "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-30.png",
+        "sectionTabBackgroundImage": {
+          "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-S-MATAA.png",
+          "width": "628",
+          "height": "572"
+        },
+        "sectionBackgrondImg": {
+          "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-30.png",
+          "width": "1080",
+          "height": "1080"
+        },
         "sectionTabBackgroundColor": "#ffffff",
         "sectionBackgroundColor": "#FFFFFF",
         "isInHouse": true,
@@ -667,7 +1020,11 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/super-mataa-notify.jpg",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/super-mataa-notify.jpg",
+                    "width": "1047",
+                    "height": "103"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
@@ -688,15 +1045,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7092,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-shoes-sm-eid.png",
+                  "category": 1868,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-shoes-sm-eid.png",
+                    "width": "502",
+                    "height": "290"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7091,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-clothes-sm-eid.png",
+                  "category": 2063,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-clothes-sm-eid.png",
+                    "width": "815",
+                    "height": "471"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -713,13 +1078,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/worldwide-brands-edited-20-for-eid.png",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/worldwide-brands-edited-20-for-eid.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7121"
+                  "category": "1902"
                 }
               ],
               "height": 0.14,
@@ -732,9 +1101,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7688,
+              "categoryId": 2057,
               "height": 320,
-              "title": "عروض العناية والمكياج 💄",
+              "title": "تخفيضات يوليو",
               "showMore": true
             }
           },
@@ -743,13 +1112,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/roncey-june.jpg",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/roncey-june.jpg",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7685"
+                  "category": "2068"
                 }
               ],
               "height": 0.14,
@@ -760,17 +1133,30 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2070,
+              "height": 320,
+              "title": "عروض العناية والمكياج 💄",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Shein-Bags-offer-edited-20-for-eid.png",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Shein-Bags-offer-edited-20-for-eid.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7088"
+                  "category": "1864"
                 }
               ],
               "height": 0.14,
@@ -783,7 +1169,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7664,
+              "categoryId": 2063,
               "height": 320,
               "title": "تخفيضات الملابس الرجالية",
               "showMore": true
@@ -795,15 +1181,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7103,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/lips-make-up-sm-eid.png",
+                  "category": 1207,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/lips-make-up-sm-eid.png",
+                    "width": "690",
+                    "height": "399"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7102,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eyes-makeup-sm-eid.gif",
+                  "category": 1206,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eyes-makeup-sm-eid.gif",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -821,15 +1215,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7101,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-makeup-sm-eid.png",
+                  "category": 1208,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-makeup-sm-eid.png",
+                    "width": "502",
+                    "height": "290"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7104,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nails-products-sm-eid.png",
+                  "category": 1209,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nails-products-sm-eid.png",
+                    "width": "690",
+                    "height": "399"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -846,69 +1248,154 @@
             "config": {
               "items": [
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-1-JULY-25.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-1-JULY-25.png",
+                    "width": "402",
+                    "height": "605"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-2-JULY-25.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-3-JULY-25.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-2-JULY-25.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-3-JULY-25.png",
+                      "width": "402",
+                      "height": "606"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7731",
+                  "categoryId": "2074",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "اكسسوار مميز لمناسبتك✨",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 },
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-1-JULY-2025.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-1-AUG-W1.png",
+                    "width": "404",
+                    "height": "607"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-2-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-3-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-4-JULY-2025.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-2-AUG-W1.png",
+                      "width": "403",
+                      "height": "608"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-3-AUG-W1.png",
+                      "width": "401",
+                      "height": "606"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-4-JULY-2025.png",
+                      "width": "402",
+                      "height": "606"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7362",
+                  "categoryId": "2014",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "كماليات ننسوا فيهم للحوش 🏠",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "card_title": "تجهيزات سفرتك اختصرناها هني ",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 },
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-1-JULY-2025.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/Beauty-story-1-aug-w1.png",
+                    "width": "406",
+                    "height": "611"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-2-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-3-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-4-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-1-5-JULY-2025.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/Beauty-story-1-aug-w1.png",
+                      "width": "407",
+                      "height": "613"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/Beauty-story-2-aug-w1.png",
+                      "width": "406",
+                      "height": "614"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7358",
+                  "categoryId": "2010",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "خليك جلوي في هذا الصيف 💅🏻",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "card_title": "انتعاش طول اليوم 🌬",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 },
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-2-1-JULY-2025.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/2-Beauty-story-1-aug-w1.png",
+                    "width": "380",
+                    "height": "571"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-2-2-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-2-3-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BEAUTY-2-4-JULY-2025.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/2-Beauty-story-1-aug-w1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/2-Beauty-story-2-aug-w1.png",
+                      "width": "381",
+                      "height": "573"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7359",
+                  "categoryId": "2011",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "واقيات شمس أقل من 70 دينار ↙😍",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "card_title": "سيرومات للشعر بأسعار اقل من 70 دينار",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 },
                 {
-                  "small_img": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-1-JULY-2025.png",
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-1-JULY-2025.png",
+                    "width": "482",
+                    "height": "726"
+                  },
                   "slider_images": [
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-2-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-3-JULY-2025.png",
-                    "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-4-JULY-2025.png"
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-2-JULY-2025.png",
+                      "width": "480",
+                      "height": "723"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-3-JULY-2025.png",
+                      "width": "481",
+                      "height": "722"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-4-JULY-2025.png",
+                      "width": "480",
+                      "height": "722"
+                    }
                   ],
                   "title": "ستوريات مَتاع",
-                  "categoryId": "7921",
+                  "categoryId": "2092",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "تخفيضات حقائب من شي ان",
-                  "influencer_pfp": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg"
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
                 }
               ],
               "height": 200,
@@ -923,15 +1410,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7090,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Nutritional-supplements-sm-eid.png",
+                  "category": 1866,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Nutritional-supplements-sm-eid.png",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7099,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hair-care-sm-eid.png",
+                  "category": 1200,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hair-care-sm-eid.png",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -949,15 +1444,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7100,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/body-care-sm-eid.png",
+                  "category": 1201,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/body-care-sm-eid.png",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7097,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-care-sm-eid.png",
+                  "category": 1198,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-care-sm-eid.png",
+                    "width": "690",
+                    "height": "399"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -972,7 +1475,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7663,
+              "categoryId": 2062,
               "height": 320,
               "title": "ليك ولطفلك، بسعر التخفيض",
               "showMore": true
@@ -983,13 +1486,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/EDITED-FARMASI-OFFER-SM-eid.png",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/EDITED-FARMASI-OFFER-SM-eid.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7384"
+                  "category": "2022"
                 }
               ],
               "height": 0.14,
@@ -1002,7 +1509,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7096,
+              "categoryId": 1183,
               "height": 320,
               "title": "العاب متنوعة لأطفالك",
               "showMore": true
@@ -1014,15 +1521,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7093,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-shoes-sm-eid.png",
+                  "category": 1166,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-shoes-sm-eid.png",
+                    "width": "815",
+                    "height": "471"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7089,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-clothes-sm-eid.gif",
+                  "category": 2062,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-clothes-sm-eid.gif",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -1040,15 +1555,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7088,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-bags-sm-eid.gif",
+                  "category": 1864,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-bags-sm-eid.gif",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7087,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-accessories-sm-eid.gif",
+                  "category": 1863,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-accessories-sm-eid.gif",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -1063,7 +1586,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 7195,
+              "categoryId": 1956,
               "height": 320,
               "title": "تخفيض وتوصيل سريع للساعات",
               "showMore": true
@@ -1074,13 +1597,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/kids-clothes-trend-june.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/kids-clothes-trend-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7095"
+                  "category": "1871"
                 }
               ],
               "height": 0.14,
@@ -1095,13 +1622,17 @@
             "config": {
               "items": [
                 {
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/kids-shoes-june.gif",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/kids-shoes-june.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
                   "padding": 5,
                   "goToProducts": true,
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "category": "7094"
+                  "category": "1870"
                 }
               ],
               "height": 0.14,
@@ -1114,7 +1645,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 6894,
+              "categoryId": 1813,
               "height": 320,
               "title": "عطور بتوصيل سريع",
               "showMore": true
@@ -1126,15 +1657,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7105,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mataa-tech-sm-eid.png",
+                  "category": 1880,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mataa-tech-sm-eid.png",
+                    "width": "753",
+                    "height": "435"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 6901,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mataa-HOME-sm-ONLY-eid.png",
+                  "category": 1817,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mataa-HOME-sm-ONLY-eid.png",
+                    "width": "815",
+                    "height": "471"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -1152,15 +1691,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7382,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Bigotti-milano-edited-20-for-eid.png",
+                  "category": 2020,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Bigotti-milano-edited-20-for-eid.png",
+                    "width": "879",
+                    "height": "508"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7383,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/daniel-klein-edited-20-for-eid.png",
+                  "category": 2021,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/daniel-klein-edited-20-for-eid.png",
+                    "width": "879",
+                    "height": "508"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
@@ -1178,15 +1725,23 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 7389,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Sergio-tacchini-edited-20-for-eid.png",
+                  "category": 2027,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Sergio-tacchini-edited-20-for-eid.png",
+                    "width": "816",
+                    "height": "471"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
                 },
                 {
-                  "category": 7388,
-                  "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/santa-barbara-edited-20-for-eid.png",
+                  "category": 2026,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/santa-barbara-edited-20-for-eid.png",
+                    "width": "879",
+                    "height": "508"
+                  },
                   "padding": 6,
                   "goToProducts": true,
                   "radius": 12
