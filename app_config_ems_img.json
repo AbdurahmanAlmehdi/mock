@@ -665,18 +665,18 @@
                 },
                 {
                   "small_img": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-1-JULY-2025.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-1-AUG-W1.png",
                     "width": "404",
                     "height": "607"
                   },
                   "slider_images": [
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-2-JULY-2025.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-2-AUG-W1.png",
                       "width": "403",
                       "height": "608"
                     },
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-3-JULY-2025.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-3-AUG-W1.png",
                       "width": "401",
                       "height": "606"
                     },
@@ -689,7 +689,7 @@
                   "title": "ستوريات مَتاع",
                   "categoryId": "2014",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "كماليات ننسوا فيهم للحوش 🏠",
+                  "card_title": "تجهيزات سفرتك اختصرناها هني ",
                   "influencer_pfp": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
                     "width": "160",
@@ -1103,7 +1103,7 @@
             "config": {
               "categoryId": 2057,
               "height": 320,
-              "title": "أهم مقتنيات الصيف 🏖️",
+              "title": "تخفيضات يوليو",
               "showMore": true
             }
           },
@@ -1277,18 +1277,18 @@
                 },
                 {
                   "small_img": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-1-JULY-2025.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-1-AUG-W1.png",
                     "width": "404",
                     "height": "607"
                   },
                   "slider_images": [
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-2-JULY-2025.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-2-AUG-W1.png",
                       "width": "403",
                       "height": "608"
                     },
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-3-JULY-2025.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/HOME-STORY-3-AUG-W1.png",
                       "width": "401",
                       "height": "606"
                     },
@@ -1301,7 +1301,7 @@
                   "title": "ستوريات مَتاع",
                   "categoryId": "2014",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "كماليات ننسوا فيهم للحوش 🏠",
+                  "card_title": "تجهيزات سفرتك اختصرناها هني ",
                   "influencer_pfp": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
                     "width": "160",
