@@ -637,18 +637,33 @@
               "items": [
                 {
                   "small_img": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-1-JULY-25.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-1-AUG-W1.png",
                     "width": "402",
                     "height": "605"
                   },
                   "slider_images": [
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-2-JULY-25.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-2-AUG-W1.png",
                       "width": "400",
                       "height": "604"
                     },
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-3-JULY-25.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-3-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-4-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-5-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-6-AUG-W1.png",
                       "width": "402",
                       "height": "606"
                     }
@@ -656,7 +671,7 @@
                   "title": "ستوريات مَتاع",
                   "categoryId": "2074",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "اكسسوار مميز لمناسبتك✨",
+                  "card_title": "شباشب لمشية البحر 🌅",
                   "influencer_pfp": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
                     "width": "160",
@@ -1249,18 +1264,33 @@
               "items": [
                 {
                   "small_img": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-1-JULY-25.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-1-AUG-W1.png",
                     "width": "402",
                     "height": "605"
                   },
                   "slider_images": [
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-2-JULY-25.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-2-AUG-W1.png",
                       "width": "400",
                       "height": "604"
                     },
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-3-JULY-25.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-3-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-4-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-5-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-6-AUG-W1.png",
                       "width": "402",
                       "height": "606"
                     }
@@ -1268,7 +1298,7 @@
                   "title": "ستوريات مَتاع",
                   "categoryId": "2074",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "اكسسوار مميز لمناسبتك✨",
+                  "card_title": "شباشب لمشية البحر 🌅",
                   "influencer_pfp": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
                     "width": "160",
