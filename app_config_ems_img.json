@@ -769,6 +769,39 @@
                 },
                 {
                   "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-1-AUG-W1.png",
+                    "width": "380",
+                    "height": "571"
+                  },
+                  "slider_images": [
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-2-AUG-W1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-3-AUG-W1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-4-AUG-W1.png",
+                      "width": "381",
+                      "height": "573"
+                    }
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "2125",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "دببة كيوت لطفلك 🌸",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
+                },
+                {
+                  "small_img": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-1-JULY-2025.png",
                     "width": "482",
                     "height": "726"
@@ -1388,6 +1421,39 @@
                   "categoryId": "2011",
                   "influencer_name": "mataa مَتاع",
                   "card_title": "سيرومات للشعر بأسعار اقل من 70 دينار",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
+                },
+                {
+                  "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-1-AUG-W1.png",
+                    "width": "380",
+                    "height": "571"
+                  },
+                  "slider_images": [
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-2-AUG-W1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-3-AUG-W1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-4-AUG-W1.png",
+                      "width": "381",
+                      "height": "573"
+                    }
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "2125",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "دببة كيوت لطفلك 🌸",
                   "influencer_pfp": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
                     "width": "160",
