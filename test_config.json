@@ -32,12 +32,11 @@
           {
             "layout": "mainCategoryList",
             "config": {
-              "columns": 4,
-              "iconSize": 32,
-              "spacing": 8,
               "categories": [
                 {
                   "id": "1138",
+                  "navigationType": "mainCategory",
+                  "text": "رجال",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -46,6 +45,8 @@
                 },
                 {
                   "id": "1139",
+                  "navigationType": "mainCategory",
+                  "text": "نساء",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -54,6 +55,8 @@
                 },
                 {
                   "id": "1140",
+                  "navigationType": "mainCategory",
+                  "text": "أطفال",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -62,6 +65,8 @@
                 },
                 {
                   "id": "1976",
+                  "navigationType": "mainCategory",
+                  "text": "عطور",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -70,6 +75,8 @@
                 },
                 {
                   "id": "1145",
+                  "navigationType": "mainCategory",
+                  "text": "عناية",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -78,6 +85,8 @@
                 },
                 {
                   "id": "1146",
+                  "navigationType": "mainCategory",
+                  "text": "مكياج",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -86,6 +95,8 @@
                 },
                 {
                   "id": "1137",
+                  "navigationType": "mainCategory",
+                  "text": "منزل",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -94,6 +105,8 @@
                 },
                 {
                   "id": "1142",
+                  "navigationType": "mainCategory",
+                  "text": "تك",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
                     "width": "1080",
@@ -101,31 +114,6 @@
                   }
                 }
               ]
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/new-mkhawir-giveaway.gif",
-                    "width": "1047",
-                    "height": "297"
-                  },
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2082"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
             }
           },
           {
@@ -143,16 +131,100 @@
               "items": [
                 {
                   "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/NEW-WEEKLY-PRODUCTS-AUG.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "radius": 6,
+                  
+                  
+                  "categoryId": "2073"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/aya-fayed-edited-june-promo.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "radius": 6,
+                  
+                  
+                  "categoryId": "2112"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2126,
+              "height": 320,
+              "title": "قد يعجبك أيضاً 🇰🇷",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/new-mkhawir-giveaway.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "radius": 6,
+                  
+                  
+                  "categoryId": "2082"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/PRINCESI.gif",
                     "width": "1047",
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2122"
+                  
+                  
+                  "categoryId": "2122"
                 }
               ],
               "height": 0.15,
@@ -182,11 +254,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2118"
+                  
+                  
+                  "categoryId": "2118"
                 }
               ],
               "height": 0.15,
@@ -225,11 +297,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2115"
+                  
+                  
+                  "categoryId": "2115"
                 }
               ],
               "height": 0.15,
@@ -259,11 +331,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2093"
+                  
+                  
+                  "categoryId": "2093"
                 }
               ],
               "height": 0.15,
@@ -293,11 +365,11 @@
                     "height": "382"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2090"
+                  
+                  
+                  "categoryId": "2090"
                 }
               ],
               "height": 0.15,
@@ -318,11 +390,11 @@
                     "height": "401"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2091"
+                  
+                  
+                  "categoryId": "2091"
                 }
               ],
               "height": 0.15,
@@ -343,11 +415,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2086"
+                  
+                  
+                  "categoryId": "2086"
                 }
               ],
               "height": 0.15,
@@ -377,11 +449,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2085"
+                  
+                  
+                  "categoryId": "2085"
                 }
               ],
               "height": 0.15,
@@ -402,36 +474,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1324"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/weekly-products-june.gif",
-                    "width": "1047",
-                    "height": "297"
-                  },
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2073"
+                  
+                  
+                  "categoryId": "1324"
                 }
               ],
               "height": 0.15,
@@ -461,11 +508,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1927"
+                  
+                  
+                  "categoryId": "1927"
                 }
               ],
               "height": 0.15,
@@ -486,11 +533,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2067"
+                  
+                  
+                  "categoryId": "2067"
                 }
               ],
               "height": 0.15,
@@ -511,11 +558,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2045"
+                  
+                  
+                  "categoryId": "2045"
                 }
               ],
               "height": 0.15,
@@ -545,11 +592,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2048"
+                  
+                  
+                  "categoryId": "2048"
                 }
               ],
               "height": 0.15,
@@ -570,11 +617,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2056"
+                  
+                  
+                  "categoryId": "2056"
                 }
               ],
               "height": 0.15,
@@ -595,11 +642,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1956"
+                  
+                  
+                  "categoryId": "1956"
                 }
               ],
               "height": 0.15,
@@ -620,11 +667,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1929"
+                  
+                  
+                  "categoryId": "1929"
                 }
               ],
               "height": 0.15,
@@ -640,18 +687,33 @@
               "items": [
                 {
                   "small_img": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-1-JULY-25.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-1-AUG-W1.png",
                     "width": "402",
                     "height": "605"
                   },
                   "slider_images": [
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-2-JULY-25.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-2-AUG-W1.png",
                       "width": "400",
                       "height": "604"
                     },
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-3-JULY-25.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-3-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-4-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-5-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-6-AUG-W1.png",
                       "width": "402",
                       "height": "606"
                     }
@@ -659,7 +721,7 @@
                   "title": "ستوريات مَتاع",
                   "categoryId": "2074",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "اكسسوار مميز لمناسبتك✨",
+                  "card_title": "شباشب لمشية البحر 🌅",
                   "influencer_pfp": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
                     "width": "160",
@@ -757,6 +819,39 @@
                 },
                 {
                   "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-1-AUG-W1.png",
+                    "width": "380",
+                    "height": "571"
+                  },
+                  "slider_images": [
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-2-AUG-W1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-3-AUG-W1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-4-AUG-W1.png",
+                      "width": "381",
+                      "height": "573"
+                    }
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "2125",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "دببة كيوت لطفلك 🌸",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
+                },
+                {
+                  "small_img": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-1-JULY-2025.png",
                     "width": "482",
                     "height": "726"
@@ -801,25 +896,25 @@
               "height": 0.15,
               "items": [
                 {
-                  "category": 2024,
+                  "categoryId": 2024,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-puma-small-banner.gif",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 2019,
+                  "categoryId": 2019,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-4f-small-banner.gif",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -835,25 +930,25 @@
               "height": 0.15,
               "items": [
                 {
-                  "category": 2029,
+                  "categoryId": 2029,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-shein-small-banner.gif",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 2059,
+                  "categoryId": 2059,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eid-armaf-small-banner.gif",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -874,11 +969,11 @@
                     "height": "408"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2061"
+                  
+                  
+                  "categoryId": "2061"
                 }
               ],
               "height": 0.15,
@@ -908,11 +1003,11 @@
                     "height": "371"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2022"
+                  
+                  
+                  "categoryId": "2022"
                 }
               ],
               "height": 0.15,
@@ -933,11 +1028,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2017"
+                  
+                  
+                  "categoryId": "2017"
                 }
               ],
               "height": 0.15,
@@ -1029,9 +1124,9 @@
                     "height": "103"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
+                  
                   "showCartIcon": true
                 }
               ],
@@ -1048,25 +1143,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 1868,
+                  "categoryId": 1868,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-shoes-sm-eid.png",
                     "width": "502",
                     "height": "290"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 2063,
+                  "categoryId": 2063,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-clothes-sm-eid.png",
                     "width": "815",
                     "height": "471"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1087,11 +1182,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1902"
+                  
+                  
+                  "categoryId": "1902"
                 }
               ],
               "height": 0.14,
@@ -1121,11 +1216,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2068"
+                  
+                  
+                  "categoryId": "2068"
                 }
               ],
               "height": 0.14,
@@ -1155,11 +1250,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1864"
+                  
+                  
+                  "categoryId": "1864"
                 }
               ],
               "height": 0.14,
@@ -1184,25 +1279,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 1207,
+                  "categoryId": 1207,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/lips-make-up-sm-eid.png",
                     "width": "690",
                     "height": "399"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 1206,
+                  "categoryId": 1206,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/eyes-makeup-sm-eid.gif",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1218,25 +1313,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 1208,
+                  "categoryId": 1208,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-makeup-sm-eid.png",
                     "width": "502",
                     "height": "290"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 1209,
+                  "categoryId": 1209,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/nails-products-sm-eid.png",
                     "width": "690",
                     "height": "399"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1252,18 +1347,33 @@
               "items": [
                 {
                   "small_img": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-1-JULY-25.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-1-AUG-W1.png",
                     "width": "402",
                     "height": "605"
                   },
                   "slider_images": [
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-2-JULY-25.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-2-AUG-W1.png",
                       "width": "400",
                       "height": "604"
                     },
                     {
-                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACCE-3-JULY-25.png",
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-3-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-4-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-5-AUG-W1.png",
+                      "width": "400",
+                      "height": "604"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/ACC-STORY-6-AUG-W1.png",
                       "width": "402",
                       "height": "606"
                     }
@@ -1271,7 +1381,7 @@
                   "title": "ستوريات مَتاع",
                   "categoryId": "2074",
                   "influencer_name": "mataa مَتاع",
-                  "card_title": "اكسسوار مميز لمناسبتك✨",
+                  "card_title": "شباشب لمشية البحر 🌅",
                   "influencer_pfp": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
                     "width": "160",
@@ -1369,6 +1479,39 @@
                 },
                 {
                   "small_img": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-1-AUG-W1.png",
+                    "width": "380",
+                    "height": "571"
+                  },
+                  "slider_images": [
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-2-AUG-W1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-3-AUG-W1.png",
+                      "width": "381",
+                      "height": "572"
+                    },
+                    {
+                      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/GAMES-STORY-4-AUG-W1.png",
+                      "width": "381",
+                      "height": "573"
+                    }
+                  ],
+                  "title": "ستوريات مَتاع",
+                  "categoryId": "2125",
+                  "influencer_name": "mataa مَتاع",
+                  "card_title": "دببة كيوت لطفلك 🌸",
+                  "influencer_pfp": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/influencer-photo-mataa.jpg",
+                    "width": "160",
+                    "height": "160"
+                  }
+                },
+                {
+                  "small_img": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/BAGS-1-JULY-2025.png",
                     "width": "482",
                     "height": "726"
@@ -1413,25 +1556,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 1866,
+                  "categoryId": 1866,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Nutritional-supplements-sm-eid.png",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 1200,
+                  "categoryId": 1200,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/hair-care-sm-eid.png",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1447,25 +1590,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 1201,
+                  "categoryId": 1201,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/body-care-sm-eid.png",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 1198,
+                  "categoryId": 1198,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/face-care-sm-eid.png",
                     "width": "690",
                     "height": "399"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1495,11 +1638,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2022"
+                  
+                  
+                  "categoryId": "2022"
                 }
               ],
               "height": 0.14,
@@ -1524,25 +1667,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 1166,
+                  "categoryId": 1166,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-shoes-sm-eid.png",
                     "width": "815",
                     "height": "471"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 2062,
+                  "categoryId": 2062,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-clothes-sm-eid.gif",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1558,25 +1701,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 1864,
+                  "categoryId": 1864,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-bags-sm-eid.gif",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 1863,
+                  "categoryId": 1863,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Women-accessories-sm-eid.gif",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1606,11 +1749,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1871"
+                  
+                  
+                  "categoryId": "1871"
                 }
               ],
               "height": 0.14,
@@ -1631,11 +1774,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "1870"
+                  
+                  
+                  "categoryId": "1870"
                 }
               ],
               "height": 0.14,
@@ -1660,25 +1803,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 1880,
+                  "categoryId": 1880,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mataa-tech-sm-eid.png",
                     "width": "753",
                     "height": "435"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 1817,
+                  "categoryId": 1817,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/mataa-HOME-sm-ONLY-eid.png",
                     "width": "815",
                     "height": "471"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1694,25 +1837,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 2020,
+                  "categoryId": 2020,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Bigotti-milano-edited-20-for-eid.png",
                     "width": "879",
                     "height": "508"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 2021,
+                  "categoryId": 2021,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/daniel-klein-edited-20-for-eid.png",
                     "width": "879",
                     "height": "508"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
@@ -1728,25 +1871,25 @@
               "height": 0.14,
               "items": [
                 {
-                  "category": 2027,
+                  "categoryId": 2027,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/Sergio-tacchini-edited-20-for-eid.png",
                     "width": "816",
                     "height": "471"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 },
                 {
-                  "category": 2026,
+                  "categoryId": 2026,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/santa-barbara-edited-20-for-eid.png",
                     "width": "879",
                     "height": "508"
                   },
                   "padding": 6,
-                  "goToProducts": true,
+                  "navigationType": "products",
                   "radius": 12
                 }
               ],
