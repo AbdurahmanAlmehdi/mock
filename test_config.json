@@ -38,7 +38,7 @@
                   "navigationType": "mainCategory",
                   "text": "رجال",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/19772054_Summericons2025-2-34.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -48,7 +48,7 @@
                   "navigationType": "mainCategory",
                   "text": "نساء",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/19772054_Summericons2025-2-34.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -58,7 +58,7 @@
                   "navigationType": "mainCategory",
                   "text": "أطفال",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/62952222_Summericons2025-2-01.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -68,7 +68,7 @@
                   "navigationType": "mainCategory",
                   "text": "عطور",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/95705957_Summericons2025-2-20.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -78,7 +78,7 @@
                   "navigationType": "mainCategory",
                   "text": "عناية",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png",
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/46825103_Summericons2025-2-19.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -88,7 +88,7 @@
                   "navigationType": "mainCategory",
                   "text": "مكياج",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/91598017_Summericons2025-2-16.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -98,7 +98,7 @@
                   "navigationType": "mainCategory",
                   "text": "منزل",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/1710512_Summericons2025-2-10.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -108,7 +108,17 @@
                   "navigationType": "mainCategory",
                   "text": "تك",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/28240112_Summericons2025-2-14.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1142",
+                  "navigationType": "mainCategory",
+                  "text": "تك",
+                  "image": {
+                    "imageUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog/app_component/28240112_Summericons2025-2-14.png",
                     "width": "1080",
                     "height": "1080"
                   }
