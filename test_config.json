@@ -26,7 +26,7 @@
           "height": "1080"
         },
         "sectionTabBackgroundColor": "#FAA61A",
-        "sectionBackgroundColor": "#FFFFFF",
+        "sectionBackgroundColor": "#FAA61A",
         "isMain": true,
         "components": [
           {
