@@ -1,0 +1,49 @@
+{
+    "competitionDetails": {
+        "title": "مسابقة العيد",
+        "startDate": "2025-05-12T00:00:00Z",
+        "countdownMessage": "يوم للعيد",
+        "endDate": "2025-06-12T00:00:00Z",
+        "mainImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/5.png",
+        "secondaryImage": "",
+        "backgroundImage": "",
+        "levels": [
+            {
+                "level": 0,
+                "requiredOrders": 0,
+                "minOrderAmount": 0,
+                "title": "    ",
+                "description": "",
+                "reward": "",
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/flag.png"
+            },
+            {
+                "level": 1,
+                "requiredOrders": 0,
+                "minOrderAmount": 0,
+                "title": "سجل",
+                "description": "سجل حسابك",
+                "reward": "",
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/login.png"
+            },
+            {
+                "level": 2,
+                "requiredOrders": 1,
+                "minOrderAmount": 100,
+                "title": "اطلب ب 100",
+                "description": "دير طلب بي 100 دينار وادخل السحب على سكاكين ارشيا",
+                "reward": "سكاكين ارشيا",
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/knives.png"
+            },
+            {
+                "level": 3,
+                "requiredOrders": 1,
+                "minOrderAmount": 500,
+                "title": "اطلب ب 500",
+                "description": "دير طلب بي اكثر من 500 دينار و ادخل السحب على خروف العيد",
+                "reward": "ضحية",
+                "image": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/sheep-nobg.png"
+            }
+        ]
+    }
+}

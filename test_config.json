@@ -170,9 +170,11 @@
                     "height": "297"
                   },
                   "padding": 5,
-                  "navigationType": "products",
+
                   "radius": 6,
-                  
+                  "navigationType": "promotion",
+
+                  "promotionName": "competition_details",
                   
                   "categoryId": "2112"
                 }
