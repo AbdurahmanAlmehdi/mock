@@ -172,7 +172,7 @@
                   "padding": 5,
 
                   "radius": 6,
-                  "navigationType": "promotion",
+                  "navigationType": "competition",
 
                   "promotionName": "competition_details",
                   
