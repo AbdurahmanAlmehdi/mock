@@ -103,9 +103,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2124,
+              "categoryId": 1979,
               "height": 320,
-              "title": "مَتاع الصيف",
+              "title": "شامبو هدية عند طلبك 🧴",
               "showMore": true
             }
           },
@@ -132,6 +132,15 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2124,
+              "height": 320,
+              "title": "مَتاع الصيف",
+              "showMore": true
             }
           },
           {
@@ -504,15 +513,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1979,
-              "height": 320,
-              "title": "شامبو هدية عند طلبك 🧴",
-              "showMore": true
             }
           },
           {
