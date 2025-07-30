@@ -41,7 +41,8 @@
                   },
                   "navigationType": "promotion",
                   "promotionName": "super",
-                  "categoryId": "2044"
+                  "categoryId": "2044",
+                  "radius": 12
                 }
               ],
               "autoPlay": true,
