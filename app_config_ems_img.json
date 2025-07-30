@@ -169,15 +169,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2126,
-              "height": 320,
-              "title": "قد يعجبك أيضاً 🇰🇷",
-              "showMore": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
