@@ -41,13 +41,13 @@
                   },
                   "navigationType": "promotion",
                   "promotionName": "super",
-                  "categoryId": "2044",
-                  "radius": 12
+                  "categoryId": "2044"
                 }
               ],
               "autoPlay": true,
               "intervalTime": 5,
-              "height": 0.13
+              "height": 0.13,
+              "radius": 12
             }
           },
           {
