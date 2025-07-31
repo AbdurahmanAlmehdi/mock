@@ -39,14 +39,14 @@
                     "width": "1080",
                     "height": "1080"
                   },
-                  "navigationType": "promotion",
+                  "navigationType": "promotions",
                   "promotionName": "super",
                   "categoryId": "2044"
                 }
               ],
               "autoPlay": true,
               "intervalTime": 5,
-              "height": 0.18,
+              "height": 0.21,
               "radius": 12
             }
           },
