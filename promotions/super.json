@@ -14,7 +14,7 @@
                   "navigationType": "products",
                   "radius": 6,
                   
-                  "showCartIcon": true
+                  "showCartIcon": true,
                   "categoryId": "1951"
                 }
               ],
@@ -39,7 +39,7 @@
                   "navigationType": "products",
                   "radius": 6,
                   
-                  "showCartIcon": true
+                  "showCartIcon": true,
                   "categoryId": "1955"
                 }
               ],
@@ -64,7 +64,7 @@
                   "navigationType": "products",
                   "radius": 6,
                   
-                  "showCartIcon": true
+                  "showCartIcon": true,
                   "categoryId": "1954"
                 }
               ],
@@ -175,7 +175,7 @@
                   "navigationType": "products",
                   "radius": 6,
                   
-                  "showCartIcon": true
+                  "showCartIcon": true,
                   "categoryId": "1902"
                 }
               ],
@@ -200,7 +200,7 @@
                   "navigationType": "products",
                   "radius": 6,
                   
-                  "showCartIcon": true
+                  "showCartIcon": true,
                   "categoryId": "2022"
                 }
               ],
@@ -234,7 +234,7 @@
                   "navigationType": "products",
                   "radius": 6,
                   
-                  "showCartIcon": true
+                  "showCartIcon": true,
                   "categoryId": "2023"
                 }
               ],
@@ -259,7 +259,7 @@
                   "navigationType": "products",
                   "radius": 6,
                   
-                  "showCartIcon": true
+                  "showCartIcon": true,
                   "categoryId": "2024"
                 }
               ],
@@ -292,9 +292,8 @@
                   "padding": 5,
                   "navigationType": "products",
                   "radius": 6,
-                  
+                  "categoryId": "2029",
                   "showCartIcon": true
-                  "categoryId": "2029"
                 }
               ],
               "height": 0.06,
