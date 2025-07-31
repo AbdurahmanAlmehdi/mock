@@ -56,7 +56,7 @@
               "categories": [
                 {
                   "id": "2156",
-                  "navigationType": "mainCategory",
+                  "navigationType": "products",
                   "text": "الأكثر بيعًا",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-most-wanted-edited.gif",
@@ -66,7 +66,7 @@
                 },
                 {
                   "id": "2157",
-                  "navigationType": "mainCategory",
+                  "navigationType": "products",
                   "text": "وصل حديثًا",
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-new-arrivals-edited.gif",
@@ -302,7 +302,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2119,
+              "categoryId": 2073,
               "height": 320,
               "title": "منتجات الأسبوع ✨",
               "showMore": true
@@ -356,7 +356,7 @@
             "config": {
               "categoryId": 2057,
               "height": 320,
-              "title": "تخفيضات أغسطس",
+              "title": "تخفيضات يوليو",
               "showMore": true
             }
           },
