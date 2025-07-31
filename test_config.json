@@ -21,12 +21,12 @@
           "height": "572"
         },
         "sectionBackgrondImg": {
-          "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-30.png",
+          "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/bgc.png",
           "width": "1080",
           "height": "1080"
         },
-        "sectionTabBackgroundColor": "#FAA61A",
-        "sectionBackgroundColor": "#FAA61A",
+        "sectionTabBackgroundColor": "#ffcc59",
+        "sectionBackgroundColor": "#ffcc59",
         "isMain": true,
         "components": [
           {
@@ -35,7 +35,7 @@
               "items": [
                 {
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/nothing-special.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/mataa-day-main-offers-banner.png",
                     "width": "1080",
                     "height": "1080"
                   },
@@ -55,21 +55,21 @@
             "config": {
               "categories": [
                 {
-                  "id": "1137",
+                  "id": "2,156",
                   "navigationType": "mainCategory",
                   "text": "الأكثر بيعًا",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-most-wanted.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-most-wanted-edited.gif",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
-                  "id": "1138",
+                  "id": "2,157",
                   "navigationType": "mainCategory",
-                  "text": "رجال",
+                  "text": "وصل حديثًا",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-men.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-new-arrivals-edited.gif",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -79,7 +79,7 @@
                   "navigationType": "mainCategory",
                   "text": "نساء",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-women.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-women-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -89,7 +89,7 @@
                   "navigationType": "mainCategory",
                   "text": "أطفال",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-children.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-children-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -99,17 +99,17 @@
                   "navigationType": "mainCategory",
                   "text": "عطور",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-perfume.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-perfume-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
-                  "id": "1137",
+                  "id": "1138",
                   "navigationType": "mainCategory",
-                  "text": "وصل حديثًا",
+                  "text": "رجال",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-new-arrivals.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-men-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -119,7 +119,7 @@
                   "navigationType": "mainCategory",
                   "text": "عناية",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-care.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-care-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -129,7 +129,7 @@
                   "navigationType": "mainCategory",
                   "text": "مكياج",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-makeup.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-makeup-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -139,7 +139,7 @@
                   "navigationType": "mainCategory",
                   "text": "منزل",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-home.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-home-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -149,7 +149,7 @@
                   "navigationType": "mainCategory",
                   "text": "تك",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-tech.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-tech-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -160,7 +160,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2124,
+              "categoryId": 2119,
               "height": 320,
               "title": "جمالك بلمسة واحدة! 💅🏻",
               "showMore": true,
@@ -170,7 +170,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2124,
+              "categoryId": 2073,
               "height": 320,
               "title": "منتجات الأسبوع ✨",
               "showMore": true
@@ -213,7 +213,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2124,
+              "categoryId": 2126,
               "height": 320,
               "title": "أهم البراندات الكورية 🇰🇷",
               "showMore": true
@@ -449,7 +449,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2123,
+              "categoryId": 1880,
               "height": 250,
               "title": "سوبر تيك 💻",
               "showMore": true
