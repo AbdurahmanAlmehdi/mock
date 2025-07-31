@@ -158,6 +158,16 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1864,
+              "height": 320,
+              "title": "من مَتاع لباب حوشك 👜",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
