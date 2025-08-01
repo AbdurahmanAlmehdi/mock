@@ -141,7 +141,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "2151"
+                  "category": "2151"
                 }
               ],
               "height": 0.15,
@@ -166,7 +166,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "2154"
+                  "category": "2154"
                 }
               ],
               "height": 0.15,
@@ -211,7 +211,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "1416"
+                  "category": "1416"
                 }
               ],
               "height": 0.15,
@@ -236,7 +236,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "1206"
+                  "category": "1206"
                 }
               ],
               "height": 0.15,
@@ -281,7 +281,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "1951"
+                  "category": "1951"
                 }
               ],
               "height": 0.19,
@@ -306,7 +306,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "1955"
+                  "category": "1955"
                 }
               ],
               "height": 0.19,
@@ -331,7 +331,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "1954"
+                  "category": "1954"
                 }
               ],
               "height": 0.19,
@@ -356,7 +356,7 @@
               "height": 0.14,
               "items": [
                 {
-                  "categoryId": 2020,
+                  "category": 2020,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/bigotti-milano-discount-promo.png",
                     "width": "502",
@@ -367,7 +367,7 @@
                   "radius": 12
                 },
                 {
-                  "categoryId": 2021,
+                  "category": 2021,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/daniel-klein-discount-promo.png",
                     "width": "502",
@@ -390,7 +390,7 @@
               "height": 0.14,
               "items": [
                 {
-                  "categoryId": 2026,
+                  "category": 2026,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/santa-barbara-polo-discount-promo.png",
                     "width": "502",
@@ -401,7 +401,7 @@
                   "radius": 12
                 },
                 {
-                  "categoryId": 2027,
+                  "category": 2027,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/sergio-tacchini-discount-promo.png",
                     "width": "815",
@@ -442,7 +442,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "1902"
+                  "category": "1902"
                 }
               ],
               "height": 0.19,
@@ -467,7 +467,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "2022"
+                  "category": "2022"
                 }
               ],
               "height": 0.19,
@@ -501,7 +501,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "2023"
+                  "category": "2023"
                 }
               ],
               "height": 0.19,
@@ -526,7 +526,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "2024"
+                  "category": "2024"
                 }
               ],
               "height": 0.19,
@@ -560,7 +560,7 @@
                   "radius": 6,
                   "showSubcategory": false,
                   "showCartIcon": true,
-                  "categoryId": "2029"
+                  "category": "2029"
                 }
               ],
               "height": 0.19,
@@ -585,7 +585,7 @@
               "height": 0.14,
               "items": [
                 {
-                  "categoryId": 2057,
+                  "category": 2057,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/hummel-discount-promo.png",
                     "width": "502",
@@ -596,7 +596,7 @@
                   "radius": 12
                 },
                 {
-                  "categoryId": 2061,
+                  "category": 2061,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/sergio-tacchini-discount-promo.png",
                     "width": "815",
@@ -638,7 +638,7 @@
               "height": 0.14,
               "items": [
                 {
-                  "categoryId": 1868,
+                  "category": 1868,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/super-mataa-men-sneakers-august.jpg",
                     "width": "502",
@@ -649,7 +649,7 @@
                   "radius": 12
                 },
                 {
-                  "categoryId": 2063,
+                  "category": 2063,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/super-mataa-men-clothes-august.jpg",
                     "width": "815",
