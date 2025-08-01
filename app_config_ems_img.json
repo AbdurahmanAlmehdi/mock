@@ -137,7 +137,10 @@
                     "height": "297"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
                   "categoryId": "2151"
                 }
               ],
@@ -159,7 +162,10 @@
                     "height": "297"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
                   "categoryId": "2154"
                 }
               ],
@@ -201,7 +207,10 @@
                     "height": "297"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
                   "categoryId": "1416"
                 }
               ],
@@ -223,7 +232,10 @@
                     "height": "297"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
                   "categoryId": "1206"
                 }
               ],
@@ -265,8 +277,9 @@
                     "height": "103"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
-                  
+                  "showSubcategory": false,
                   "showCartIcon": true,
                   "categoryId": "1951"
                 }
@@ -289,8 +302,9 @@
                     "height": "103"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
-                  
+                  "showSubcategory": false,
                   "showCartIcon": true,
                   "categoryId": "1955"
                 }
@@ -313,8 +327,9 @@
                     "height": "103"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
-                  
+                  "showSubcategory": false,
                   "showCartIcon": true,
                   "categoryId": "1954"
                 }
@@ -348,16 +363,18 @@
                     "height": "290"
                   },
                   "padding": 6,
+                  "goToProducts": true,
                   "radius": 12
                 },
                 {
                   "categoryId": 2021,
                   "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/daniel-klein-discount-promo.png",
-                    "width": "815",
-                    "height": "471"
+                    "width": "502",
+                    "height": "290"
                   },
                   "padding": 6,
+                  "goToProducts": true,
                   "radius": 12
                 }
               ],
@@ -380,6 +397,7 @@
                     "height": "290"
                   },
                   "padding": 6,
+                  "goToProducts": true,
                   "radius": 12
                 },
                 {
@@ -390,6 +408,7 @@
                     "height": "471"
                   },
                   "padding": 6,
+                  "goToProducts": true,
                   "radius": 12
                 }
               ],
@@ -419,8 +438,9 @@
                     "height": "103"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
-                  
+                  "showSubcategory": false,
                   "showCartIcon": true,
                   "categoryId": "1902"
                 }
@@ -443,8 +463,9 @@
                     "height": "103"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
-                  
+                  "showSubcategory": false,
                   "showCartIcon": true,
                   "categoryId": "2022"
                 }
@@ -476,8 +497,9 @@
                     "height": "103"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
-                  
+                  "showSubcategory": false,
                   "showCartIcon": true,
                   "categoryId": "2023"
                 }
@@ -500,8 +522,9 @@
                     "height": "103"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
-                  
+                  "showSubcategory": false,
                   "showCartIcon": true,
                   "categoryId": "2024"
                 }
@@ -533,9 +556,11 @@
                     "height": "103"
                   },
                   "padding": 5,
+                  "goToProducts": true,
                   "radius": 6,
-                  "categoryId": "2029",
-                  "showCartIcon": true
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "categoryId": "2029"
                 }
               ],
               "height": 0.19,
@@ -567,6 +592,7 @@
                     "height": "290"
                   },
                   "padding": 6,
+                  "goToProducts": true,
                   "radius": 12
                 },
                 {
@@ -577,6 +603,7 @@
                     "height": "471"
                   },
                   "padding": 6,
+                  "goToProducts": true,
                   "radius": 12
                 }
               ],
@@ -618,6 +645,7 @@
                     "height": "290"
                   },
                   "padding": 6,
+                  "goToProducts": true,
                   "radius": 12
                 },
                 {
@@ -628,6 +656,7 @@
                     "height": "471"
                   },
                   "padding": 6,
+                  "goToProducts": true,
                   "radius": 12
                 }
               ],
