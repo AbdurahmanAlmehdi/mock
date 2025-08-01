@@ -34,41 +34,17 @@
             "config": {
               "categories": [
                 {
-                  "id": "2156",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-most-wanted-edited.gif",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
                   "id": "2157",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-new-arrivals-edited.gif",
+                    "imageUrl": "hhttps://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/old-ems-main-categories-new-arrivals.gif",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
-                  "id": "1139",
+                  "id": "2156",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-women-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1140",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-children-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1976",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-perfume-edited.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/old-ems-main-categories-most-wanted.gif",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -76,7 +52,31 @@
                 {
                   "id": "1138",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-men-edited.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1139",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1140",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1976",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -84,7 +84,7 @@
                 {
                   "id": "1145",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-care-edited.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -92,7 +92,7 @@
                 {
                   "id": "1146",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-makeup-edited.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -100,7 +100,7 @@
                 {
                   "id": "1137",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-home-edited.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
                     "width": "1080",
                     "height": "1080"
                   }
@@ -108,7 +108,7 @@
                 {
                   "id": "1142",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-tech-edited.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
                     "width": "1080",
                     "height": "1080"
                   }
