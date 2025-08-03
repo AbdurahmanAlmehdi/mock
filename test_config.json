@@ -591,6 +591,24 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2057,
+              "height": 320,
+              "title": "جمالك بلمسة واحدة! :nail_care::skin-tone-2:",
+              "showMore": true,
+              "marginTop": 12,
+              "spacing": 75,
+              "verticalSpacing": 12,
+              "newcomerConfig": {
+                "isOnDiscount": false,
+                "fromDate": "2025-07-01",
+                "brandIds": ["943"]
+              },
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 1880,
               "height": 250,
               "title": "سوبر تيك 💻",
