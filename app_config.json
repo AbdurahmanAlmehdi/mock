@@ -9,9 +9,8 @@
     "homeTabBarBackgroundColor": "#FFFFFF",
     "homeSections": [
       {
-        "sectionName": "مَتاع",
+        "sectionName": "-",
          "showSearchBar": false,
-        "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
         "sectionTabBackgroundImage": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
         "sectionBackgrondImg": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-30.png",
         "sectionTabBackgroundColor": "#FAA61A",
