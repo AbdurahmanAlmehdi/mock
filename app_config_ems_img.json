@@ -187,6 +187,16 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2155,
+              "height": 320,
+              "title": "مع كل عطر هدية 💞",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -209,16 +219,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2152,
-              "height": 320,
-              "title": "منتجات تريندي ✨",
-              "showMore": true,
-              "marginTop": 12
             }
           },
           {
@@ -269,16 +269,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2155,
-              "height": 320,
-              "title": "مع كل عطر هدية 💞",
-              "showMore": true,
-              "marginTop": 12
             }
           },
           {
