@@ -912,6 +912,49 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 1324,
+              "height": 250,
+              "title": "تخفيضات SHEIN الكبرى 👕",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2085,
+              "height": 250,
+              "title": "تخفيضات واقيات الشمس ☀️",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/moulinex-and-tefal-discount-promo-main-screen.gif",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2118"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2123,
               "height": 250,
               "title": "إختياراتنا للعطور 💞",
