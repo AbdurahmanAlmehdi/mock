@@ -759,7 +759,7 @@
             "config": {
               "categoryId": 2073,
               "height": 320,
-              "title": "منتجات الأسبوع ✨",
+              "title": "منتجات الأسبوع",
               "showMore": true
             }
           },
@@ -800,9 +800,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2126,
+              "categoryId": 1862,
               "height": 320,
-              "title": "أهم البراندات الكورية 🇰🇷",
+              "title": "خليك ستايلش ✨",
               "showMore": true
             }
           },
