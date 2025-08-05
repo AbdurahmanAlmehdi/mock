@@ -197,6 +197,16 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2164,
+              "height": 320,
+              "title": "طقم تقديم يليق بيك 🫖",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
