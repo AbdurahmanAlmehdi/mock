@@ -332,26 +332,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2067,
-              "height": 320,
-              "title": "تخفيضات Dr.Scholl's 🥾",
-              "showMore": true,
-              "marginTop": 12
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2122,
-              "height": 320,
-              "title": "مجموعة البشرة الصحية 💫",
-              "showMore": true,
-              "marginTop": 12
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
@@ -374,6 +354,26 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2067,
+              "height": 320,
+              "title": "تخفيضات Dr.Scholl's 🥾",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2122,
+              "height": 320,
+              "title": "مجموعة البشرة الصحية 💫",
+              "showMore": true,
+              "marginTop": 12
             }
           },
           {
@@ -442,6 +442,15 @@
               "marginBottom": 0,
               "marginRight": 0,
               "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2160,
+              "height": 320,
+              "title": "إكسسوارات شــي إن غير 👝",
+              "showMore": true
             }
           },
           {
