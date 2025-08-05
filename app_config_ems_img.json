@@ -583,6 +583,49 @@
           {
             "layout": "banner",
             "config": {
+              "height": 0.14,
+              "items": [
+                {
+                  "category": 2162,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/ximi-vogue-discount-promo.png",
+                    "width": "502",
+                    "height": "290"
+                  },
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 2161,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/miniso-discount-promo.png",
+                    "width": "815",
+                    "height": "471"
+                  },
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 7,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2025,
+              "height": 320,
+              "title": "حليها بحقيبة من Eve 💓",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
               "items": [
                 {
                   "image": {
