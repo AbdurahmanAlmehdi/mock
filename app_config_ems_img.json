@@ -566,6 +566,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2168,
+              "height": 320,
+              "title": "كل تخفيض أكبر من الثاني ⚡",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
