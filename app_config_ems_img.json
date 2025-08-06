@@ -259,6 +259,15 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2171,
+              "height": 320,
+              "title": "عطرك خليه علينا 🛍️",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2169,
               "height": 320,
               "title": "حيسألوك من وين خديتيه 💄",
