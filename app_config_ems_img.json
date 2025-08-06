@@ -257,6 +257,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2169,
+              "height": 320,
+              "title": "حيسألوك من وين خديتيه 💄",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -528,6 +537,15 @@
               "categoryId": 2090,
               "height": 320,
               "title": "صيف مَتاع",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2170,
+              "height": 320,
+              "title": "عناية ولا غلطة 🌸",
               "showMore": true
             }
           },
