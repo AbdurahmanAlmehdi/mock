@@ -25,8 +25,8 @@
           "width": "1080",
           "height": "1080"
         },
-        "sectionTabBackgroundColor": "#FAA61A",
-        "sectionBackgroundColor": "#FFFFFF",
+        "sectionTabBackgroundColor": "#ffcc59",
+        "sectionBackgroundColor": "#ffcc59",
         "isMain": true,
         "components": [
           {
