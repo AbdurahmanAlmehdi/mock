@@ -126,15 +126,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2169,
-              "height": 320,
-              "title": "حيسألوك من وين خديتيه 💄",
-              "showMore": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
@@ -422,15 +413,6 @@
               "title": "طقم تقديم يليق بيك 🫖",
               "showMore": true,
               "marginTop": 12
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2170,
-              "height": 320,
-              "title": "عناية ولا غلطة 🌸",
-              "showMore": true
             }
           },
           {
