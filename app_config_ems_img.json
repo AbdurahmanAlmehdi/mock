@@ -126,6 +126,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2172,
+              "height": 320,
+              "title": "تخفيض مش حيتكرر مرتين 💓",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -233,6 +242,16 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2173,
+              "height": 320,
+              "title": "عرض مَتاعيون من Vichy 💫",
+              "showMore": true,
+              "marginTop": 12
             }
           },
           {
