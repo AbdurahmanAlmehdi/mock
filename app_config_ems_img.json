@@ -119,6 +119,16 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2173,
+              "height": 320,
+              "title": "عرض مَتاعيون من Vichy 💫",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 1864,
               "height": 320,
               "title": "من مَتاع لباب حوشك 👜",
@@ -181,7 +191,7 @@
             "config": {
               "categoryId": 2155,
               "height": 320,
-              "title": "مع كل عطر هدية 💞",
+              "title": "مع كل عطر هدية",
               "showMore": true,
               "marginTop": 12
             }
@@ -312,6 +322,15 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2172,
+              "height": 320,
+              "title": "تخفيض مش حيتكرر مرتين 💓",
+              "showMore": true
             }
           },
           {
@@ -734,40 +753,6 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "height": 0.14,
-              "items": [
-                {
-                  "category": 2057,
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/hummel-discount-promo.png",
-                    "width": "502",
-                    "height": "290"
-                  },
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                },
-                {
-                  "category": 2061,
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/sergio-tacchini-discount-promo.png",
-                    "width": "815",
-                    "height": "471"
-                  },
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                }
-              ],
-              "marginTop": 7,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
               "categoryId": 2119,
@@ -775,15 +760,6 @@
               "title": "جمالك بلمسة واحدة! 💅🏻",
               "showMore": true,
               "marginTop": 12
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2073,
-              "height": 320,
-              "title": "منتجات الأسبوع",
-              "showMore": true
             }
           },
           {
