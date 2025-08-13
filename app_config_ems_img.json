@@ -119,9 +119,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2173,
+              "categoryId": 1864,
               "height": 320,
-              "title": "عرض مَتاعيون من Vichy 💫",
+              "title": "من مَتاع لباب حوشك 👜",
               "showMore": true,
               "marginTop": 12
             }
@@ -129,9 +129,148 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2172,
+              "categoryId": 2159,
               "height": 320,
-              "title": "تخفيض مش حيتكرر مرتين 💓",
+              "title": "نهتموا بصحتك في عروضنا 💌",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/avene-ducray-discount-promo-screen.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2151"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/libyan-brands-promo-main-screen.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2154"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2155,
+              "height": 320,
+              "title": "مع كل عطر هدية 💞",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2164,
+              "height": 320,
+              "title": "طقم تقديم يليق بيك 🫖",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/shampo-and-hair-tie-promo-main-screen.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "1200"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/tricovel-shampoo-giveaway-promo-main-screen.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "1416"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2171,
+              "height": 320,
+              "title": "عطرك خليه علينا 🛍️",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2169,
+              "height": 320,
+              "title": "حيسألوك من وين خديتيه 💄",
               "showMore": true
             }
           },
@@ -161,11 +300,36 @@
             }
           },
           {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/eyes-makeup-prom-main-screen-edited.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "1206"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
             "layout": "product_list",
             "config": {
-              "categoryId": 2122,
+              "categoryId": 2153,
               "height": 320,
-              "title": "مجموعة البشرة الصحية 💫",
+              "title": "مكياجك بأقل من 15 د.ل 💄",
               "showMore": true,
               "marginTop": 12
             }
@@ -248,10 +412,21 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2171,
+              "categoryId": 2067,
               "height": 320,
-              "title": "عطرك خليه علينا 🛍️",
-              "showMore": true
+              "title": "تخفيضات Dr.Scholl's 🥾",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2122,
+              "height": 320,
+              "title": "مجموعة البشرة الصحية 💫",
+              "showMore": true,
+              "marginTop": 12
             }
           },
           {
@@ -325,6 +500,15 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2160,
+              "height": 320,
+              "title": "إكسسوارات شــي إن غير 👝",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 1956,
               "height": 320,
               "title": "عروض الساعات ⌚",
@@ -391,6 +575,15 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2170,
+              "height": 320,
+              "title": "عناية ولا غلطة 🌸",
+              "showMore": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "height": 0.14,
@@ -427,11 +620,10 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2164,
+              "categoryId": 2168,
               "height": 320,
-              "title": "طقم تقديم يليق بيك 🫖",
-              "showMore": true,
-              "marginTop": 12
+              "title": "كل تخفيض أكبر من الثاني ⚡",
+              "showMore": true
             }
           },
           {
@@ -491,6 +683,74 @@
               "height": 320,
               "title": "تخفيضات Reebok 👟",
               "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.14,
+              "items": [
+                {
+                  "category": 2162,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/ximi-vogue-discount-promo.png",
+                    "width": "502",
+                    "height": "290"
+                  },
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                },
+                {
+                  "category": 2161,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/miniso-discount-promo.png",
+                    "width": "815",
+                    "height": "471"
+                  },
+                  "padding": 6,
+                  "goToProducts": true,
+                  "radius": 12
+                }
+              ],
+              "marginTop": 7,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2166,
+              "height": 320,
+              "title": "حليها بحقيبة من Eve 💓",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/phone-covers-discount-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "goToProducts": true,
+                  "radius": 6,
+                  "showSubcategory": false,
+                  "showCartIcon": true,
+                  "category": "2029"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
             }
           },
           {
@@ -587,6 +847,15 @@
               "marginBottom": 0,
               "marginRight": 0,
               "marginLeft": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1862,
+              "height": 320,
+              "title": "خليك ستايلش ✨",
+              "showMore": true
             }
           },
           {
