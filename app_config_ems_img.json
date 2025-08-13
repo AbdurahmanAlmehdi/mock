@@ -127,16 +127,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2159,
-              "height": 320,
-              "title": "نهتموا بصحتك في عروضنا 💌",
-              "showMore": true,
-              "marginTop": 12
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
@@ -407,16 +397,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2067,
-              "height": 320,
-              "title": "تخفيضات Dr.Scholl's 🥾",
-              "showMore": true,
-              "marginTop": 12
             }
           },
           {
@@ -717,15 +697,6 @@
               "marginBottom": 0,
               "marginRight": 0,
               "marginLeft": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2166,
-              "height": 320,
-              "title": "حليها بحقيبة من Eve 💓",
-              "showMore": true
             }
           },
           {
