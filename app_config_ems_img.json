@@ -119,10 +119,11 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2171,
+              "categoryId": 2173,
               "height": 320,
-              "title": "عطرك خليه علينا 🛍️",
-              "showMore": true
+              "title": "عرض مَتاعيون من Vichy 💫",
+              "showMore": true,
+              "marginTop": 12
             }
           },
           {
@@ -247,11 +248,10 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2173,
+              "categoryId": 2171,
               "height": 320,
-              "title": "عرض مَتاعيون من Vichy 💫",
-              "showMore": true,
-              "marginTop": 12
+              "title": "عطرك خليه علينا 🛍️",
+              "showMore": true
             }
           },
           {
