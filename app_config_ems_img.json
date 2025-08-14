@@ -129,9 +129,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2173,
+              "categoryId": 2122,
               "height": 320,
-              "title": "عرض مَتاعيون من Vichy 💫",
+              "title": "مجموعة البشرة الصحية 💫",
               "showMore": true,
               "marginTop": 12
             }
@@ -139,9 +139,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 1864,
+              "categoryId": 2173,
               "height": 320,
-              "title": "من مَتاع لباب حوشك 👜",
+              "title": "عرض مَتاعيون من Vichy 💫",
               "showMore": true,
               "marginTop": 12
             }
@@ -406,9 +406,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2122,
+              "categoryId": 1864,
               "height": 320,
-              "title": "مجموعة البشرة الصحية 💫",
+              "title": "من مَتاع لباب حوشك 👜",
               "showMore": true,
               "marginTop": 12
             }
