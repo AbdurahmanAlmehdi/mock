@@ -119,6 +119,16 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2174,
+              "height": 320,
+              "title": "سعره مش حيتكرر ⚡",
+              "showMore": true,
+              "marginTop": 12
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2173,
               "height": 320,
               "title": "عرض مَتاعيون من Vichy 💫",
