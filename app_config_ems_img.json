@@ -188,54 +188,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2173,
-              "height": 320,
-              "title": "عرض مَتاعيون من Vichy 💫",
-              "showMore": true,
-              "marginTop": 12
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/avene-ducray-discount-promo-screen.gif",
-                    "width": "1047",
-                    "height": "297"
-                  },
-                  "padding": 5,
-                  "goToProducts": true,
-                  "radius": 6,
-                  "showSubcategory": false,
-                  "showCartIcon": true,
-                  "category": "2151"
-                }
-              ],
-              "height": 0.15,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
               "categoryId": 2155,
               "height": 320,
               "title": "مع كل عطر هدية",
-              "showMore": true,
-              "marginTop": 12
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2164,
-              "height": 320,
-              "title": "طقم تقديم يليق بيك 🫖",
               "showMore": true,
               "marginTop": 12
             }
@@ -300,15 +255,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2169,
-              "height": 320,
-              "title": "حيسألوك من وين خديتيه 💄",
-              "showMore": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
@@ -365,16 +311,6 @@
               "height": 320,
               "title": "تخفيض مش حيتكرر مرتين 💓",
               "showMore": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2153,
-              "height": 320,
-              "title": "مكياجك بأقل من 15 د.ل 💄",
-              "showMore": true,
-              "marginTop": 12
             }
           },
           {
@@ -608,58 +544,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2170,
-              "height": 320,
-              "title": "عناية ولا غلطة 🌸",
-              "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.14,
-              "items": [
-                {
-                  "category": 2165,
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/mataa-home-discount-promo.png",
-                    "width": "502",
-                    "height": "290"
-                  },
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                },
-                {
-                  "category": 2163,
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/home-improvements-discount-promo.png",
-                    "width": "815",
-                    "height": "471"
-                  },
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                }
-              ],
-              "marginTop": 7,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2168,
-              "height": 320,
-              "title": "كل تخفيض أكبر من الثاني ⚡",
-              "showMore": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
@@ -716,40 +600,6 @@
               "height": 320,
               "title": "تخفيضات Reebok 👟",
               "showMore": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "height": 0.14,
-              "items": [
-                {
-                  "category": 2162,
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/ximi-vogue-discount-promo.png",
-                    "width": "502",
-                    "height": "290"
-                  },
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                },
-                {
-                  "category": 2161,
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/miniso-discount-promo.png",
-                    "width": "815",
-                    "height": "471"
-                  },
-                  "padding": 6,
-                  "goToProducts": true,
-                  "radius": 12
-                }
-              ],
-              "marginTop": 7,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
             }
           },
           {
@@ -1055,16 +905,6 @@
               "marginTop": 10,
               "marginBottom": 10,
               "showMore": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2122,
-              "height": 320,
-              "title": "مجموعة البشرة الصحية 💫",
-              "showMore": true,
-              "marginTop": 12
             }
           },
           {
