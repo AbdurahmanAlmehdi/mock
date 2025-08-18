@@ -45,7 +45,7 @@
                 }
               ],
               "autoPlay": true,
-              "intervalTime": 5,
+              "intervalTime": 60,
               "height": 0.21,
               "radius": 12
             }
