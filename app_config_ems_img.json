@@ -118,7 +118,6 @@
               "title": "إكسسوارات شــي إن غير 👝",
               "showMore": true,
               "marginTop": 12,
-              "spacing": 75,
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -131,7 +130,6 @@
               "title": "صيف مَتاع 🏖️",
               "showMore": true,
               "marginTop": 12,
-              "spacing": 75,
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -144,7 +142,6 @@
               "title": "جمالك بلمسة واحدة! 💅🏻",
               "showMore": true,
               "marginTop": 12,
-              "spacing": 75,
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -366,7 +363,6 @@
               "title": "تخفيضات واقيات الشمس ☀️",
               "showMore": true,
               "marginTop": 12,
-              "spacing": 75,
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -379,7 +375,6 @@
               "title": "سوبر تيك 💻",
               "showMore": true,
               "marginTop": 12,
-              "spacing": 75,
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
