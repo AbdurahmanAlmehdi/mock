@@ -78,10 +78,161 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2119,
+              "categoryId": 2174,
               "height": 320,
-              "title": "منتجات الأسبوع 📅",
-              "showMore": true
+              "title": "سعره مش حيتكرر ⚡",
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1324,
+              "height": 320,
+              "title": "تخفيضات SHEIN الكبرى 👕",
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/Anuar-brand-launch-main-screen.jpg",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "2167"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/red-twilight-promo-main-screen.gif",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "2175"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2155,
+              "height": 320,
+              "title": "مع كل عطر هدية",
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/tricovel-shampoo-giveaway-promo-main-screen.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "1416"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2171,
+              "height": 320,
+              "title": "عطرك خليه علينا 🛍️",
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/eyes-makeup-prom-main-screen-edited.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "1206"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2172,
+              "height": 320,
+              "title": "تخفيض مش حيتكرر مرتين 💓",
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
             }
           },
           {
@@ -162,6 +313,18 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1864,
+              "height": 320,
+              "title": "من مَتاع لباب حوشك 👜",
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -209,15 +372,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2090,
-              "height": 320,
-              "title": "صيف مَتاع",
-              "showMore": true
             }
           },
           {
@@ -313,37 +467,21 @@
             }
           },
           {
-            "layout": "banner",
+            "layout": "product_list",
             "config": {
-              "height": 0.14,
-              "items": [
-                {
-                  "categoryId": 2057,
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/hummel-discount-promo.png",
-                    "width": "502",
-                    "height": "290"
-                  },
-                  "padding": 6,
-                  "navigationType": "products",
-                  "radius": 12
-                },
-                {
-                  "categoryId": 2061,
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/sergio-tacchini-discount-promo.png",
-                    "width": "815",
-                    "height": "471"
-                  },
-                  "padding": 6,
-                  "navigationType": "products",
-                  "radius": 12
-                }
-              ],
-              "marginTop": 7,
-              "marginBottom": 0,
-              "marginRight": 0,
-              "marginLeft": 0
+              "categoryId": 2057,
+              "height": 320,
+              "title": "تخفيضات Hummel",
+              "showMore": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1862,
+              "height": 320,
+              "title": "خليك ستايلش ✨",
+              "showMore": true
             }
           }
         ]
