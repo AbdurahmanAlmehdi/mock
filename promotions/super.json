@@ -309,7 +309,10 @@
               "categoryId": 1956,
               "height": 320,
               "title": "عروض الساعات ⌚",
-              "showMore": true
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
             }
           },
           {
@@ -430,7 +433,10 @@
               "categoryId": 2025,
               "height": 320,
               "title": "تخفيضات Reebok 👟",
-              "showMore": true
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
             }
           },
           {
@@ -463,7 +469,10 @@
               "categoryId": 2017,
               "height": 320,
               "title": "تخفيضات IPEKYOL",
-              "showMore": true
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
             }
           },
           {
@@ -472,7 +481,10 @@
               "categoryId": 2057,
               "height": 320,
               "title": "تخفيضات Hummel",
-              "showMore": true
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
             }
           },
           {
@@ -481,7 +493,10 @@
               "categoryId": 1862,
               "height": 320,
               "title": "خليك ستايلش ✨",
-              "showMore": true
+              "showMore": true,
+              "marginTop": 12,
+              "verticalSpacing": 12,
+              "useStyledHeader": true
             }
           }
         ]
