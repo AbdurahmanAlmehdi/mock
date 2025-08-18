@@ -59,81 +59,101 @@
             "config": {
               "categories": [
                 {
-                  "id": "2157",
-                  "image": {
-                    "imageUrl": "hhttps://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/old-ems-main-categories-new-arrivals.gif",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
                   "id": "2156",
+                  "navigationType": "products",
+                  "text": "الأكثر بيعًا",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/old-ems-main-categories-most-wanted.gif",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-most-wanted-edited.gif",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
-                  "id": "1138",
+                  "id": "2157",
+                  "navigationType": "products",
+                  "text": "وصل حديثًا",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/men-small-section-eid-al-adha.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-new-arrivals-edited.gif",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
                   "id": "1139",
+                  "navigationType": "mainCategory",
+                  "text": "نساء",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/women-small-section-eid-al-adha.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-women-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
                   "id": "1140",
+                  "navigationType": "mainCategory",
+                  "text": "أطفال",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/kids-small-section-eid-al-adha.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-children-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
                   "id": "1976",
+                  "navigationType": "mainCategory",
+                  "text": "عطور",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/perfume-small-section-eid-al-adha.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-perfume-edited.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
+                  "id": "1138",
+                  "navigationType": "mainCategory",
+                  "text": "رجال",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-men-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
                   "id": "1145",
+                  "navigationType": "mainCategory",
+                  "text": "عناية",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/beauty-small-section-eid-al-adha.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-care-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
                   "id": "1146",
+                  "navigationType": "mainCategory",
+                  "text": "مكياج",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/makeup-small-section-eid-al-adha.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-makeup-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
                   "id": "1137",
+                  "navigationType": "mainCategory",
+                  "text": "منزل",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/home-small-section-eid-al-adha.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-home-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
                 },
                 {
                   "id": "1142",
+                  "navigationType": "mainCategory",
+                  "text": "تك",
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/05/tech-small-section-eid-al-adha.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-tech-edited.png",
                     "width": "1080",
                     "height": "1080"
                   }
