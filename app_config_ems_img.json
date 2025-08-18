@@ -63,7 +63,7 @@
                   "padding": 5,
                   "radius": 6,
                   "navigationType": "products",
-                  "promotionName": "Taha aljewashi promotion for casio watches",
+                  "promotionName": "casio | إعلان طه الجواشي",
                   "categoryId": "1291"
                 }
               ],
@@ -88,7 +88,7 @@
                   },
                   "padding": 6,
                   "navigationType": "products",
-                  "promotionName": "Super mataa men sneakers discount",
+                  "promotionName": "عروض متاع / سوبر للرجال / أحذية رجالية",
                   "radius": 12
                 },
                 {
@@ -100,7 +100,7 @@
                   },
                   "padding": 6,
                   "navigationType": "products",
-                  "promotionName": "Super mataa men clothes discount",
+                  "promotionName": "عروض متاع / سوبر للرجال / الملابس الرجالية",
                   "radius": 12
                 }
               ],
@@ -118,6 +118,7 @@
               "title": "إكسسوارات شــي إن غير 👝",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "تخفيض على شي ان",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -130,6 +131,7 @@
               "title": "صيف مَتاع 🏖️",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "صيف متاع",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -141,6 +143,7 @@
               "height": 320,
               "title": "جمالك بلمسة واحدة! 💅🏻",
               "showMore": true,
+              "promotionName": "تجميعات بيوتي 2",
               "marginTop": 12,
               "verticalSpacing": 12,
               "useStyledHeader": true
@@ -363,6 +366,7 @@
               "title": "تخفيضات واقيات الشمس ☀️",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "تخفيضات واقي الشمس",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -375,6 +379,7 @@
               "title": "سوبر تيك 💻",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "سوبر تيك",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -387,6 +392,7 @@
               "title": "إختياراتنا للعطور 💞",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "تجميعات العطور | بندل عطور مزايا",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
