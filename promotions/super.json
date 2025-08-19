@@ -88,18 +88,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1324,
-              "height": 320,
-              "title": "تخفيضات SHEIN الكبرى 👕",
-              "showMore": true,
-              "marginTop": 12,
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
