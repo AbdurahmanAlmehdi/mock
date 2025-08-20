@@ -182,6 +182,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2056,
+              "height": 320,
+              "title": "تخفيضات آيكيا فنفس اليوم توصلك ⚡",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "ikea",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
