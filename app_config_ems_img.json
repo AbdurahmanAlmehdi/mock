@@ -195,6 +195,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2177,
+              "height": 320,
+              "title": "بتخفيض مفيش زيه بكل 💫",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات البيان",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
