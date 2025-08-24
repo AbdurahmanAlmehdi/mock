@@ -161,6 +161,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2179,
+              "height": 320,
+              "title": "تخفيضات Midea غيــــــر 🥇",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات ميديا",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2056,
               "height": 320,
               "title": "تخفيضات فنفس اليوم توصلك",
