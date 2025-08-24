@@ -3,7 +3,7 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2056,
+              "categoryId": 2179,
               "height": 320,
               "title": "تخفيضات Midea غيــــــر",
               "showMore": true,
@@ -21,7 +21,7 @@
               "title": "تخفيضات فنفس اليوم توصلك ⚡",
               "showMore": true,
               "marginTop": 12,
-              "promotionName": "ikea",
+              "promotionName": "ikea | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -31,7 +31,7 @@
             "config": {
               "categoryId": 2177,
               "height": 320,
-              "title": "بتخفيض مفيش زيه بكل 💫",
+              "title": "بتخفيض مفيش زيه بكل 💫 | صفحة العروض",
               "showMore": true,
               "marginTop": 12,
               "promotionName": "تخفيضات البيان",
@@ -52,7 +52,7 @@
                   "padding": 5,
                   "radius": 6,
                   "navigationType": "products",
-                  "promotionName": "Anuar",
+                  "promotionName": "Anuar | صفحة العروض",
                   "categoryId": "2167"
                 }
               ],
@@ -76,7 +76,7 @@
                   "padding": 5,
                   "radius": 6,
                   "navigationType": "products",
-                  "promotionName": "تخفيضات أرشيا | تخفيضات براند ارشيا arshia",
+                  "promotionName": "تخفيضات أرشيا | تخفيضات براند ارشيا arshia | صفحة العروض",
                   "categoryId": "2176"
                 }
               ],
@@ -100,7 +100,7 @@
                   "padding": 5,
                   "radius": 6,
                   "navigationType": "products",
-                  "promotionName": "ESI - BYPHASSE - Ziaja | إطلاق مورد المعيار من جديد",
+                  "promotionName": "ESI - BYPHASSE - Ziaja | إطلاق مورد المعيار من جديد | صفحة العروض",
                   "categoryId": "2122"
                 }
               ],
@@ -123,6 +123,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "تخفيضات منتجات الأطفال | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -148,6 +149,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "تخفيضات المنتجات الرجالية | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -173,6 +175,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "تخفيضات المنتجات النسائية | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -194,6 +197,7 @@
               "title": "سعره مش حيتكرر ⚡",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "تخفيضات البيان | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -210,6 +214,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "anuar | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
