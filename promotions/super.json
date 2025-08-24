@@ -18,7 +18,7 @@
             "config": {
               "categoryId": 2056,
               "height": 320,
-              "title": "تخفيضات فنفس اليوم توصلك ⚡",
+              "title": "تخفيضات فنفس اليوم توصلك",
               "showMore": true,
               "marginTop": 12,
               "promotionName": "ikea | صفحة العروض",
@@ -214,7 +214,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
-                  "promotionName": "anuar | صفحة العروض",
+                  "promotionName": "صفحة العروض | عرض ريمنغتون فيليج 11 فاكتوري ميزون ثلاثة هدايا",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -236,6 +236,7 @@
               "title": "مع كل عطر هدية",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "هدايا العطور | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -252,6 +253,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "الأكثر طلبًا في المكياج | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -273,6 +275,7 @@
               "title": "عطرك خليه علينا 🛍️",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "تخفيضات العطور | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -289,6 +292,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "هدية لأول عشرين طلب | مكياج العيون | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -310,6 +314,7 @@
               "title": "تخفيض مش حيتكرر مرتين 💓",
               "showMore": true,
               "marginTop": 12,
+                  "promotionName": "novahair | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -328,6 +333,7 @@
                   },
                   "padding": 6,
                   "navigationType": "products",
+                  "promotionName": "ساعات بيغوتي ميلانو | صفحة العروض",
                   "radius": 12
                 },
                 {
@@ -339,6 +345,7 @@
                   },
                   "padding": 6,
                   "navigationType": "products",
+                  "promotionName": "ساعات دانيال كلين | صفحة العروض",
                   "radius": 12
                 }
               ],
@@ -362,6 +369,7 @@
                   },
                   "padding": 6,
                   "navigationType": "products",
+                  "promotionName": "ساعات سانتا باربارا | صفحة العروض",
                   "radius": 12
                 },
                 {
@@ -373,6 +381,7 @@
                   },
                   "padding": 6,
                   "navigationType": "products",
+                  "promotionName": "ساعات سيرجيو تاشيني | صفحة العروض",
                   "radius": 12
                 }
               ],
@@ -390,6 +399,7 @@
               "title": "عروض الساعات ⌚",
               "showMore": true,
               "marginTop": 12,
+                  "promotionName": "عروض الساعات | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -402,6 +412,7 @@
               "title": "من مَتاع لباب حوشك 👜",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "الحقائب النسائية | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -418,6 +429,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "ماركات عالمية بأسعار مثالية | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -443,6 +455,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "تخفيضات 70% فارماسي | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -468,6 +481,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "تخفيضات mavi | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -493,6 +507,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "تخفيضات puma | صفحة العروض",
                   "radius": 6,
                   
                   "showCartIcon": true,
@@ -514,6 +529,7 @@
               "title": "تخفيضات Reebok 👟",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "تخفيضات reebok | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -530,6 +546,7 @@
                   },
                   "padding": 5,
                   "navigationType": "products",
+                  "promotionName": "تخفيضات شي إن | صفحة العروض",
                   "radius": 6,
                   "categoryId": "2029",
                   "showCartIcon": true
@@ -550,6 +567,7 @@
               "title": "تخفيضات IPEKYOL",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "تخفيضات ipekyol | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -562,6 +580,7 @@
               "title": "تخفيضات Hummel",
               "showMore": true,
               "marginTop": 12,
+              "promotionName": "تخفيضات hummel | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
