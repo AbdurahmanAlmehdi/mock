@@ -159,6 +159,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1337,
+              "height": 320,
+              "title": "تجهيزات السفر من مَتاع 🧳",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "حقائب السفر | جميع حقائب النساء",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
