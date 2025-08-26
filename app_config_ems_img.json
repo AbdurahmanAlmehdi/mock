@@ -159,6 +159,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2180,
+              "height": 320,
+              "title": "تجهيزات السفر من مَتاع 🧳",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات ميديا",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
