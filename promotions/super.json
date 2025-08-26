@@ -3,19 +3,6 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2181,
-              "height": 320,
-              "title": "فلاش سيـــل ⚡️",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "Flash Sale",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
               "categoryId": 2180,
               "height": 320,
               "title": "تجهيزات السفر من مَتاع 🧳",
