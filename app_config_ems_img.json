@@ -231,6 +231,19 @@
             "config": {
               "categoryId": 2180,
               "height": 320,
+              "title": "تخفيضات الميلود للعطور 🌙",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عطور مطلع الفجر",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2180,
+              "height": 320,
               "title": "تجهيزات السفر من مَتاع 🧳",
               "showMore": true,
               "marginTop": 12,
