@@ -193,16 +193,27 @@
             }
           },
           {
-            "layout": "product_list",
+            "layout": "banner",
             "config": {
-              "categoryId": 2082,
-              "height": 320,
-              "title": "تجهيزات المولد النبوي 🌙",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "مخاوير",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/uae-traditional-women-clothes.png",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "مخاوير",
+                  "categoryId": "2082"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
             }
           },
           {
