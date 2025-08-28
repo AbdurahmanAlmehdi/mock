@@ -87,6 +87,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2173,
+              "height": 320,
+              "title": "رفيقك المثالي 🥇",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "منتجات Vichy",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2180,
               "height": 320,
               "title": "تجهيزات السفر من مَتاع 🧳",
