@@ -643,58 +643,6 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2181,
-              "height": 320,
-              "title": "test1",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "سوبر تيك",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2082,
-              "height": 320,
-              "title": "test2",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "سوبر تيك",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2182,
-              "height": 320,
-              "title": "test3",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "سوبر تيك",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2173,
-              "height": 320,
-              "title": "test4",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "سوبر تيك",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
               "categoryId": 2123,
               "height": 320,
               "title": "إختياراتنا للعطور 💞",
