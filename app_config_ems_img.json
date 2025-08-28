@@ -42,6 +42,16 @@
                   "navigationType": "promotion",
                   "promotionName": "super",
                   "categoryId": "2044"
+                },
+                {
+                  "image": {
+                    "imageUrl": "https://i.postimg.cc/Y09C9Bjc/weekend-promo-sales.gif",
+                    "width": "1080",
+                    "height": "1080"
+                  },
+                  "navigationType": "promotion",
+                  "promotionName": "super",
+                  "categoryId": "2044"
                 }
               ],
               "autoPlay": true,
