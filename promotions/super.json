@@ -27,6 +27,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2082,
+              "height": 320,
+              "title": "تجهيزات المولد النبوي 🌙",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "مخاوير",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2180,
               "height": 320,
               "title": "تجهيزات السفر من مَتاع 🧳",
