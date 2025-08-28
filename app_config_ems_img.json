@@ -179,19 +179,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2185,
-              "height": 320,
-              "title": "تخفيضات خت فت ⚡️",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "Flash sale",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
