@@ -3,6 +3,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2020,
+              "height": 320,
+              "title": "متخليهاش تفوتك ⌚",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "ساعات bigotti milano",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 1180,
               "height": 320,
               "title": "مَتاع المدرسة 🎒",
