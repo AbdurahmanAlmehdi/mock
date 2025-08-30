@@ -1,6 +1,19 @@
 {
     "data": [
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2184,
+              "height": 320,
+              "title": "مَتاع المدرسة 🎒",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تصنيف حقائب الأطفال",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
