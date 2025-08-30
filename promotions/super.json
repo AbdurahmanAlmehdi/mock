@@ -3,12 +3,12 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2020,
+              "categoryId": 1180,
               "height": 320,
-              "title": "متخليهاش تفوتك ⌚",
+              "title": "مَتاع المدرسة 🎒",
               "showMore": true,
               "marginTop": 12,
-              "promotionName": "ساعات bigotti milano",
+              "promotionName": "تصنيف حقائب الأطفال",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -16,12 +16,38 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 1180,
+              "categoryId": 1864,
               "height": 320,
-              "title": "مَتاع المدرسة 🎒",
+              "title": "خصيصُا من شي إن ليك 💌",
               "showMore": true,
               "marginTop": 12,
-              "promotionName": "تصنيف حقائب الأطفال",
+              "promotionName": "تصنيف الحقائب النسائية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2184,
+              "height": 320,
+              "title": "تخفيضات الميلود للعطور 🌙",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عطور مطلع الفجر",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2020,
+              "height": 320,
+              "title": "متخليهاش تفوتك ⌚",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "ساعات bigotti milano",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -72,19 +98,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2184,
-              "height": 320,
-              "title": "تخفيضات الميلود للعطور 🌙",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عطور مطلع الفجر",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
             }
           },
           {
