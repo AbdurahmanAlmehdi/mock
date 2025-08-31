@@ -161,12 +161,38 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2199,
+              "categoryId": 2198,
               "height": 320,
-              "title": "مجموعة العناية بالأسنان للأطفال 🧡",
+              "title": "عناية بسعر مفيش منه 💫",
               "showMore": true,
               "marginTop": 12,
-              "promotionName": "عرض العناية بالأسنان",
+              "promotionName": "عرض الحكيم",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2197,
+              "height": 320,
+              "title": "خليهم في روتينك اليومي ✨",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "ivybears",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2176,
+              "height": 320,
+              "title": "خليك عالألماني 🇩🇪",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات أرشيا | تخفيضات براند ارشيا arshia",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -198,12 +224,12 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2176,
+              "categoryId": 2199,
               "height": 320,
-              "title": "خليك عالألماني 🇩🇪",
+              "title": "مجموعة العناية بالأسنان للأطفال 🧡",
               "showMore": true,
               "marginTop": 12,
-              "promotionName": "تخفيضات أرشيا | تخفيضات براند ارشيا arshia",
+              "promotionName": "عرض العناية بالأسنان",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
