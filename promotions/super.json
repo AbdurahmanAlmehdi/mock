@@ -3,6 +3,32 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2198,
+              "height": 320,
+              "title": "عناية بسعر مفيش منه 💫",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عرض الحكيم | صفحة العروض",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2197,
+              "height": 320,
+              "title": "خليهم في روتينك اليومي ✨",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "ivybears | صفحة العروض",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2199,
               "height": 320,
               "title": "إعتني بأسنان طفلك 🧡",
