@@ -161,6 +161,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2176,
+              "height": 320,
+              "title": "خليك عالألماني 🇩🇪",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات أرشيا | تخفيضات براند ارشيا arshia",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 1864,
               "height": 320,
               "title": "خصيصُا من شي إن ليك 💌",
@@ -373,30 +386,6 @@
                   "navigationType": "products",
                   "promotionName": "Anuar",
                   "categoryId": "2167"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/arshia-after-edit-main-screen-v2.png",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "تخفيضات أرشيا | تخفيضات براند ارشيا arshia",
-                  "categoryId": "2176"
                 }
               ],
               "height": 0.19,
