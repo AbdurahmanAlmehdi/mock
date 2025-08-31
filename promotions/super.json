@@ -762,6 +762,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2197,
+              "height": 320,
+              "title": "مجموعة العناية بالأسنان للأطفال 🧡",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عرض العناية بالأسنان | صفحة العروض",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2057,
               "height": 320,
               "title": "تخفيضات Hummel",
