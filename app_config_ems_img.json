@@ -159,6 +159,30 @@
             }
           },
           {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/AL-EZDIHAR-INHOUSE-PERFUMES-OFFER.png",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "عروض العطور | عرض الإزدهار",
+                  "categoryId": "2200"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
             "layout": "product_list",
             "config": {
               "categoryId": 2198,
@@ -335,19 +359,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2180,
-              "height": 320,
-              "title": "تجهيزات السفر من مَتاع 🧳",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "حقائب السفر CAT",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
@@ -377,7 +388,7 @@
               "items": [
                 {
                   "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/miniso-after-edit-main-screen-v2.png",
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/MINISO-EDITED-20-PROMO.png",
                     "width": "1047",
                     "height": "400"
                   },
