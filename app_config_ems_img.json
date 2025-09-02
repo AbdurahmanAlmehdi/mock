@@ -524,6 +524,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 1880,
+              "height": 320,
+              "title": "سوبر تيك 💻",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "سوبر تيك",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2090,
               "height": 320,
               "title": "صيف مَتاع 🏖️",
@@ -765,32 +778,6 @@
               "showMore": true,
               "marginTop": 12,
               "promotionName": "تخفيضات واقي الشمس",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1880,
-              "height": 320,
-              "title": "سوبر تيك 💻",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "سوبر تيك",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2123,
-              "height": 320,
-              "title": "إختياراتنا للعطور 💞",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "تجميعات العطور | بندل عطور مزايا",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
