@@ -243,6 +243,32 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2063,
+              "height": 320,
+              "title": "تخفيضات الملابس الرجالية 👕",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عروض متاع / سوبر للرجال / الملابس الرجالية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1868,
+              "height": 320,
+              "title": "تخفيضات الأحذية الرجالية 👟",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عروض متاع / سوبر للرجال / أحذية رجالية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2198,
               "height": 320,
               "title": "عناية بسعر مفيش منه 💫",
@@ -512,32 +538,6 @@
               "marginRight": 0,
               "marginLeft": 0,
               "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2063,
-              "height": 320,
-              "title": "تخفيضات الملابس الرجالية 👕",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عروض متاع / سوبر للرجال / الملابس الرجالية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1868,
-              "height": 320,
-              "title": "تخفيضات الأحذية الرجالية 👟",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عروض متاع / سوبر للرجال / أحذية رجالية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
             }
           },
           {
