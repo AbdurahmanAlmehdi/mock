@@ -65,6 +65,17 @@
             "config": {
               "categories": [
                 {
+                  "id": "2187",
+                  "navigationType": "promotion",
+                  "promotionName": "backtoschool25",
+                  "text": "المدرسة",
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/school-lil-cat.png",
+                    "width": "1080",
+                    "height": "1080"
+                  }
+                },
+                {
                   "id": "2157",
                   "navigationType": "products",
                   "text": "وصل حديثًا",
@@ -166,6 +177,43 @@
                   }
                 }
               ]
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/uae-traditional-women-clothes.png",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "مخاوير",
+                  "categoryId": "2082"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2177,
+              "height": 320,
+              "title": "ضيافة الميلود ☕",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات البيان",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
             }
           },
           {
@@ -332,30 +380,6 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/uae-traditional-women-clothes.png",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "مخاوير",
-                  "categoryId": "2082"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
               "categoryId": 2173,
@@ -438,19 +462,6 @@
               "showMore": true,
               "marginTop": 12,
               "promotionName": "ikea",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2177,
-              "height": 320,
-              "title": "بتخفيض مفيش زيه بكل 💫",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "تخفيضات البيان",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
