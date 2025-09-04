@@ -122,6 +122,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 1864,
+              "height": 320,
+              "title": "حقائب المعلمات 👜",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تصنيف الحقائب النسائية | العودة للمدارس",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2176,
               "height": 320,
               "title": "حضري وجبات طفلك بسهولة 🇩🇪",
