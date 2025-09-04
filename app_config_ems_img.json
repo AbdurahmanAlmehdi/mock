@@ -170,19 +170,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2209,
-              "height": 320,
-              "title": "فلاش سيل ⚡",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "تخفيضات فلاش",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
