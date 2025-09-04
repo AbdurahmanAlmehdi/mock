@@ -175,6 +175,79 @@
               "items": [
                 {
                   "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/doakes-doesn-t-know-this.jpg",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2188,
+              "height": 320,
+              "title": "الزي المدرسي 👕",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "العودة للمدارس | الزي المدرسي | الصفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1396,
+              "height": 320,
+              "title": "قرطاسية المدرسة ✏️",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "العودة للمدارس | قرطاسية | الصفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1396,
+              "height": 320,
+              "title": "حقائب المدرسة 🎒",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "العودة للمدارس | حقائب المدرسة | الصفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2192,
+              "height": 320,
+              "title": "يحتاجها كل معلمة وطالب 🧡",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "العودة للمدارس | مكملات الأطفال | الصفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/uae-traditional-women-clothes.png",
                     "width": "1047",
                     "height": "400"
