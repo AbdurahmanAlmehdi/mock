@@ -256,6 +256,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2197,
+              "height": 320,
+              "title": "المكملات المدرسية للأم والطفل ✨",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "ivybears",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
@@ -351,19 +364,6 @@
               "showMore": true,
               "marginTop": 12,
               "promotionName": "عرض الحكيم",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2197,
-              "height": 320,
-              "title": "خليهم في روتينك اليومي ✨",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "ivybears",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
