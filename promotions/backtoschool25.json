@@ -27,6 +27,30 @@
               "items": [
                 {
                   "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/back-to-school-school-clothes.jpg",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "العودة للمدارس | الزي المدرسي",
+                  "categoryId": "2188"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
                     "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/back-to-school-school-supplies.jpg",
                     "width": "1047",
                     "height": "400"
@@ -74,36 +98,12 @@
             "config": {
               "categoryId": 2192,
               "height": 320,
-              "title": "يحتاجها كل طالب 🧡",
+              "title": "يحتاجها كل معلمة وطالب 🧡",
               "showMore": true,
               "marginTop": 12,
                   "promotionName": "العودة للمدارس | مكملات للأطفال",
               "verticalSpacing": 12,
               "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/back-to-school-school-clothes.jpg",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "العودة للمدارس | الزي المدرسي",
-                  "categoryId": "2188"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
             }
           },
           {
