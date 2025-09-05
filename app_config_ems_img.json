@@ -170,6 +170,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2253,
+              "height": 320,
+              "title": "فلاش سيل ⚡️",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "فلاش سيل",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
