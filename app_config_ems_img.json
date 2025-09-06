@@ -170,6 +170,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2255,
+              "height": 320,
+              "title": "تجهيزات المدرسة 🥤",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "العودة للمدارس | تجهيزات المدرسة | الصفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
