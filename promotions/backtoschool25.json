@@ -96,19 +96,6 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2255,
-              "height": 320,
-              "title": "لانش بوكس وترامس 🥤",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "العودة للمدارس | تجهيزات المدرسة",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
               "categoryId": 2192,
               "height": 320,
               "title": "يحتاجها كل معلمة وطالب 🧡",
