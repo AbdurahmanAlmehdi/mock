@@ -116,19 +116,6 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2184,
-              "height": 320,
-              "title": "تخفيضات الميلود للعطور 🌙",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عطور مطلع الفجر",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
               "categoryId": 2020,
               "height": 320,
               "title": "متخليهاش تفوتك ⌚",
@@ -164,30 +151,6 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/uae-traditional-women-clothes.png",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "مخاوير",
-                  "categoryId": "2082"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
               "categoryId": 2173,
@@ -196,80 +159,6 @@
               "showMore": true,
               "marginTop": 12,
               "promotionName": "منتجات Vichy",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/ximi-vogue-after-edit-main-screen-v2.png",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "تخفيضات ximi vogue | تخفيضات العروض العالمية من mini so و ximi vogue😍",
-                  "categoryId": "2162"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/MINISO-EDITED-20-PROMO.png",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "تخفيضات ميني سو | تخفيضات العروض العالمية من mini so و ximi vogue😍",
-                  "categoryId": "2161"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2179,
-              "height": 320,
-              "title": "تخفيضات Midea غيــــــر 🥇",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "تخفيضات ميديا | تخفيض على براند midea للكهرومنزلية ",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2056,
-              "height": 320,
-              "title": "تخفيضات فنفس اليوم توصلك",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "ikea | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -416,12 +305,12 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2174,
+              "categoryId": 2184,
               "height": 320,
-              "title": "سعره مش حيتكرر ⚡",
+              "title": "تخفيضات العطور 🛍️",
               "showMore": true,
               "marginTop": 12,
-              "promotionName": "تخفيضات البيان | صفحة العروض",
+              "promotionName": "عطور مطلع الفجر",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -624,19 +513,6 @@
               "showMore": true,
               "marginTop": 12,
                   "promotionName": "عروض الساعات | صفحة العروض",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1864,
-              "height": 320,
-              "title": "من مَتاع لباب حوشك 👜",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "الحقائب النسائية | صفحة العروض",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
