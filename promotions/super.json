@@ -662,6 +662,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2160,
+              "height": 320,
+              "title": "إكسسوارات شــي إن غير 👝",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيض على شي ان",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2017,
               "height": 320,
               "title": "تخفيضات IPEKYOL",
