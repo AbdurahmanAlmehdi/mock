@@ -332,30 +332,6 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/dune-london-new-arrivals.png",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "Dune London",
-                  "categoryId": "2182"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
               "categoryId": 2173,
@@ -369,54 +345,6 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/anuar-after-edit-main-screen-v2.png",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "Anuar",
-                  "categoryId": "2167"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/ebz-after-edit-main-screen-v2.gif",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "ESI - BYPHASSE - Ziaja | إطلاق مورد المعيار من جديد",
-                  "categoryId": "2122"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
               "categoryId": 1880,
@@ -425,19 +353,6 @@
               "showMore": true,
               "marginTop": 12,
               "promotionName": "سوبر تيك",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2085,
-              "height": 320,
-              "title": "تخفيضات واقيات الشمس ☀️",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "تخفيضات واقي الشمس",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
