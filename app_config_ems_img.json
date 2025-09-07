@@ -269,43 +269,6 @@
             }
           },
           {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/ezdihar-guerlain-promo.png",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6,
-                  "navigationType": "products",
-                  "promotionName": "عروض العطور | عرض الإزدهار",
-                  "categoryId": "2200"
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1868,
-              "height": 320,
-              "title": "إختياراتنا لأحذية الرجال 👟",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عروض متاع / سوبر للرجال / أحذية رجالية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
               "categoryId": 2198,
