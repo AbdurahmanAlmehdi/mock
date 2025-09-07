@@ -295,22 +295,9 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2063,
-              "height": 320,
-              "title": "تخفيضات الملابس الرجالية 👕",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عروض متاع / سوبر للرجال / الملابس الرجالية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
               "categoryId": 1868,
               "height": 320,
-              "title": "تخفيضات الأحذية الرجالية 👟",
+              "title": "إختياراتنا لأحذية الرجال 👟",
               "showMore": true,
               "marginTop": 12,
               "promotionName": "عروض متاع / سوبر للرجال / أحذية رجالية",
