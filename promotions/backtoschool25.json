@@ -94,6 +94,30 @@
             }
           },
           {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://i.postimg.cc/WbrSpsML/rosebaie-school-promo.jpg",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "تخفيضات rosebaie",
+                  "categoryId": "2196"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
             "layout": "product_list",
             "config": {
               "categoryId": 2192,
