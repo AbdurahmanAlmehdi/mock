@@ -332,6 +332,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2196,
+              "height": 320,
+              "title": "عناية بالعلم، وعناية بالشعر 💌",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات Rosebaie",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
