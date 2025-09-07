@@ -332,19 +332,6 @@
             }
           },
           {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2199,
-              "height": 320,
-              "title": "مجموعة العناية بالأسنان للأطفال 🧡",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عرض العناية بالأسنان",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
             "layout": "banner",
             "config": {
               "items": [
