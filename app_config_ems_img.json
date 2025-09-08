@@ -245,6 +245,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2208,
+              "height": 320,
+              "title": "أحذية المدرسة 👟",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "أحذية مدرسية | صفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2192,
               "height": 320,
               "title": "تاج المعلمة من مَتاع 👑",
