@@ -159,6 +159,32 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2208,
+              "height": 320,
+              "title": "أحذية المدرسة 👟",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "أحذية مدرسية | صفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1956,
+              "height": 320,
+              "title": "ساعات المعلمين ⌚",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عروض الساعات | صفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2176,
               "height": 320,
               "title": "تجهيز الفطور المدرسي 🇩🇪",
