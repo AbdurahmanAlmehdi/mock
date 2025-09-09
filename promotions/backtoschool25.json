@@ -125,7 +125,20 @@
               "title": "يحتاجها كل معلمة وطالب 🧡",
               "showMore": true,
               "marginTop": 12,
-                  "promotionName": "العودة للمدارس | مكملات للأطفال",
+              "promotionName": "العودة للمدارس | مكملات للأطفال",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2199,
+              "height": 320,
+              "title": "ابتسامة المدرسة 💫",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عرض العناية بالأسنان",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
