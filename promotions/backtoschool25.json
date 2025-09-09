@@ -133,19 +133,6 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2199,
-              "height": 320,
-              "title": "إجعلي إبتسامته مشرقة 💛",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عرض العناية بالأسنان",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
               "categoryId": 1864,
               "height": 320,
               "title": "حقائب المعلمات 👜",
