@@ -1,7 +1,7 @@
 {
     "promotionTitle": "Special",
-    "promotionHeaderBackgroundColor": "#000000",
-    "promotionBackgroundColor": "#000000",
+    "promotionHeaderBackgroundColor": "#FFFFFF",
+    "promotionBackgroundColor": "#FFFFFF",
     "data": [
           {
             "layout": "carousel",
