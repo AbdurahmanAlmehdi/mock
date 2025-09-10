@@ -1,34 +1,5 @@
 {
-  "categoryBanners": [],
-  "cartConfig": {
-    "emptyCartId": "6298",
-    "isCouponEnabled": true
-  },
-  "homeConfig": {
-    "homeTabBarBackgroundImage": {
-      "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/06/tabbar-type-20.jpg",
-      "width": "1080",
-      "height": "1080"
-    },
-    "homeTabBarBackgroundColor": "#FFFFFF",
-    "homeSections": [
-      {
-        "sectionName": "مَتاع",
-        "sectionShowcase": "مَتاع توفرلك عدد منتجات كبير ومتنوع بتوصيل خلال أيام معدودة",
-        "sectionTabBackgroundImage": {
-          "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/03/SB-MATAA.png",
-          "width": "628",
-          "height": "572"
-        },
-        "sectionBackgrondImg": {
-          "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/bgc.png",
-          "width": "1080",
-          "height": "1080"
-        },
-        "sectionTabBackgroundColor": "#ffcc59",
-        "sectionBackgroundColor": "#ffcc59",
-        "isMain": true,
-        "components": [
+    "data": [
           {
             "layout": "carousel",
             "config": {
@@ -360,7 +331,4 @@
             }
           }
         ]
-      }
-    ]
-  }
 }
