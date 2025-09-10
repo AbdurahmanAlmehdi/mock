@@ -120,6 +120,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2267,
+              "height": 320,
+              "title": "عطور المدرسة",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "العودة للمدارس | عطور المدرسة | الصفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2192,
               "height": 320,
               "title": "يحتاجها كل معلمة وطالب 🧡",
