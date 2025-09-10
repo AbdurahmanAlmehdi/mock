@@ -157,6 +157,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 1191,
+              "height": 320,
+              "title": "ساعات ذكية وملحقاتها ⌚",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "العودة للمدارس | ساعات ذكية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2192,
               "height": 320,
               "title": "يحتاجها كل معلمة وطالب 🧡",
