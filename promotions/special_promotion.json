@@ -4,6 +4,511 @@
     "promotionBackgroundColor": "#FFFFFF",
     "data": [
           {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/ezdihar-guerlain-promo.png",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "عروض العطور | عرض الإزدهار | صفحة العروض",
+                  "categoryId": "2200"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/anuar-after-edit-main-screen-v2.png",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "Anuar | صفحة العروض",
+                  "categoryId": "2167"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/ebz-after-edit-main-screen-v2.gif",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "ESI - BYPHASSE - Ziaja | إطلاق مورد المعيار من جديد | صفحة العروض",
+                  "categoryId": "2122"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/dune-london-new-arrivals.png",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "Dune London",
+                  "categoryId": "2182"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2177,
+              "height": 320,
+              "title": "بتخفيض مفيش زيه بكل 💫",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات البيان  | صفحة العروض",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/kids-products-discount-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "تخفيضات منتجات الأطفال | صفحة العروض",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "1951"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/men-products-discount-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "تخفيضات المنتجات الرجالية | صفحة العروض",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "1955"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/womens-products-discount-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "تخفيضات المنتجات النسائية | صفحة العروض",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "1954"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2184,
+              "height": 320,
+              "title": "تخفيضات العطور 🛍️",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عطور مطلع الفجر",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2155,
+              "height": 320,
+              "title": "مع كل عطر هدية",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "هدايا العطور | صفحة العروض",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1868,
+              "height": 320,
+              "title": "إختياراتنا لأحذية الرجال 👟",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عروض متاع / سوبر للرجال / أحذية رجالية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2171,
+              "height": 320,
+              "title": "عطرك خليه علينا 🛍️",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات العطور | صفحة العروض",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/eyes-makeup-prom-main-screen-edited.png",
+                    "width": "1047",
+                    "height": "297"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "هدية لأول عشرين طلب | مكياج العيون | صفحة العروض",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "1206"
+                }
+              ],
+              "height": 0.15,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2172,
+              "height": 320,
+              "title": "تخفيض مش حيتكرر مرتين 💓",
+              "showMore": true,
+              "marginTop": 12,
+                  "promotionName": "novahair | صفحة العروض",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.14,
+              "items": [
+                {
+                  "categoryId": 2020,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/bigotti-milano-discount-promo.png",
+                    "width": "502",
+                    "height": "290"
+                  },
+                  "padding": 6,
+                  "navigationType": "products",
+                  "promotionName": "ساعات بيغوتي ميلانو | صفحة العروض",
+                  "radius": 12
+                },
+                {
+                  "categoryId": 2021,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/daniel-klein-discount-promo.png",
+                    "width": "815",
+                    "height": "471"
+                  },
+                  "padding": 6,
+                  "navigationType": "products",
+                  "promotionName": "ساعات دانيال كلين | صفحة العروض",
+                  "radius": 12
+                }
+              ],
+              "marginTop": 7,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "height": 0.14,
+              "items": [
+                {
+                  "categoryId": 2026,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/santa-barbara-polo-discount-promo.png",
+                    "width": "502",
+                    "height": "290"
+                  },
+                  "padding": 6,
+                  "navigationType": "products",
+                  "promotionName": "ساعات سانتا باربارا | صفحة العروض",
+                  "radius": 12
+                },
+                {
+                  "categoryId": 2027,
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/sergio-tacchini-discount-promo.png",
+                    "width": "815",
+                    "height": "471"
+                  },
+                  "padding": 6,
+                  "navigationType": "products",
+                  "promotionName": "ساعات سيرجيو تاشيني | صفحة العروض",
+                  "radius": 12
+                }
+              ],
+              "marginTop": 7,
+              "marginBottom": 0,
+              "marginRight": 0,
+              "marginLeft": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/worldwide-brands-with-low-prizes-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "ماركات عالمية بأسعار مثالية | صفحة العروض",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "1902"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/farmasi-discount-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "تخفيضات 70% فارماسي | صفحة العروض",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "2022"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/mavi-discount-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "تخفيضات mavi | صفحة العروض",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "2023"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/puma-discount-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "تخفيضات puma | صفحة العروض",
+                  "radius": 6,
+                  
+                  "showCartIcon": true,
+                  "categoryId": "2024"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/phone-covers-discount-promo.png",
+                    "width": "1047",
+                    "height": "103"
+                  },
+                  "padding": 5,
+                  "navigationType": "products",
+                  "promotionName": "تخفيضات شي إن | صفحة العروض",
+                  "radius": 6,
+                  "categoryId": "2029",
+                  "showCartIcon": true
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2160,
+              "height": 320,
+              "title": "إكسسوارات شــي إن غير 👝",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيض على شي ان",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2017,
+              "height": 320,
+              "title": "تخفيضات IPEKYOL",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "تخفيضات ipekyol | صفحة العروض",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "carousel",
             "config": {
               "items": [
