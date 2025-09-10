@@ -193,6 +193,19 @@
           {
             "layout": "product_list",
             "config": {
+              "categoryId": 2267,
+              "height": 320,
+              "title": "عطور المدرسة",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "العودة للمدارس | عطور المدرسة | الصفحة الرئيسية",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
               "categoryId": 2255,
               "height": 320,
               "title": "لانش بوكس وترامس 🥤",
