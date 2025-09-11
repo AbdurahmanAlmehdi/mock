@@ -1,8 +1,45 @@
 {
-    "promotionTitle": "Special",
+    "promotionTitle": "عروض متنوعة يوميًا في إنتظارك",
     "promotionHeaderBackgroundColor": "#FFFFFF",
     "promotionBackgroundColor": "#FFFFFF",
     "data": [
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2271,
+              "height": 320,
+              "title": "تشكيلة ننصحوك بيها 💄",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "صفحة العروض | منوعات nyx",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/collagen-offer-to-bag-mizon.gif",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "عرض الشفق الأحمر | توت باق وظروف كولاجين هدية | صفحة العروض",
+                  "categoryId": "2272"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
           {
             "layout": "banner",
             "config": {
@@ -509,331 +546,14 @@
             }
           },
           {
-            "layout": "carousel",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/BACK-TO-SCHOOL-OFFICIAL-PROMO.png",
-                    "width": "1080",
-                    "height": "1080"
-                  },
-                  "navigationType": "promotion",
-                  "promotionName": "backtoschool25",
-                  "categoryId": "2187"
-                },
-                {
-                  "image": {
-                    "imageUrl": "https://i.postimg.cc/6qqJsDD1/super-page-carousel.gif",
-                    "width": "1080",
-                    "height": "1080"
-                  },
-                  "navigationType": "promotion",
-                  "promotionName": "super",
-                  "categoryId": "2044"
-                }
-              ],
-              "autoPlay": true,
-              "intervalTime": 60,
-              "height": 0.21,
-              "radius": 12
-            }
-          },
-          {
-            "layout": "mainCategoryList",
-            "config": {
-              "categories": [
-                {
-                  "id": "2187",
-                  "navigationType": "promotion",
-                  "promotionName": "backtoschool25",
-                  "text": "المدرسة",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/school-lil-category-20.gif",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "2044",
-                  "navigationType": "promotion",
-                  "promotionName": "super",
-                  "text": "عروض",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/08/offers-changed-text-edited.gif",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1139",
-                  "navigationType": "mainCategory",
-                  "text": "نساء",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-women-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1140",
-                  "navigationType": "mainCategory",
-                  "text": "أطفال",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-children-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1976",
-                  "navigationType": "mainCategory",
-                  "text": "عطور",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-perfume-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1138",
-                  "navigationType": "mainCategory",
-                  "text": "رجال",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-sections-men-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1145",
-                  "navigationType": "mainCategory",
-                  "text": "عناية",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-care-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1146",
-                  "navigationType": "mainCategory",
-                  "text": "مكياج",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-makeup-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1137",
-                  "navigationType": "mainCategory",
-                  "text": "منزل",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-home-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                },
-                {
-                  "id": "1142",
-                  "navigationType": "mainCategory",
-                  "text": "تك",
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/07/main-section-tech-edited.png",
-                    "width": "1080",
-                    "height": "1080"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "layout": "banner",
-            "config": {
-              "items": [
-                {
-                  "image": {
-                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/doakes-doesn-t-know-this.jpg",
-                    "width": "1047",
-                    "height": "400"
-                  },
-                  "padding": 5,
-                  "radius": 6
-                }
-              ],
-              "height": 0.19,
-              "marginTop": 3,
-              "marginRight": 0,
-              "marginLeft": 0,
-              "marginBottom": 0
-            }
-          },
-          {
             "layout": "product_list",
             "config": {
-              "categoryId": 2255,
+              "categoryId": 2085,
               "height": 320,
-              "title": "لانش بوكس وترامس 🥤",
+              "title": "تخفيضات واقيات الشمس ☀️",
               "showMore": true,
               "marginTop": 12,
-              "promotionName": "العودة للمدارس | لانش بوكس وترامس | الصفحة الرئيسية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2188,
-              "height": 320,
-              "title": "الزي المدرسي 👕",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "العودة للمدارس | الزي المدرسي | الصفحة الرئيسية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1396,
-              "height": 320,
-              "title": "قرطاسية المدرسة ✏️",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "العودة للمدارس | قرطاسية | الصفحة الرئيسية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2190,
-              "height": 320,
-              "title": "حقائب المدرسة 🎒",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "العودة للمدارس | حقائب المدرسة | الصفحة الرئيسية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2208,
-              "height": 320,
-              "title": "أحذية المدرسة 👟",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "أحذية مدرسية | صفحة الرئيسية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2192,
-              "height": 320,
-              "title": "تاج المعلمة من مَتاع 👑",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "العودة للمدارس | تاج المعرفة | الصفحة الرئيسية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1864,
-              "height": 320,
-              "title": "حقائب المعلمات 👜",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "تصنيف الحقائب النسائية | الصفحة الرئيسية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2197,
-              "height": 320,
-              "title": "فيتامينات الأم والطفل ✨",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "ivybears",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2198,
-              "height": 320,
-              "title": "عناية بسعر مفيش منه 💫",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عرض الحكيم",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2176,
-              "height": 320,
-              "title": "تجهيز الفطور المدرسي 🇩🇪",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "تخفيضات أرشيا | تخفيضات براند ارشيا arshia",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 2196,
-              "height": 320,
-              "title": "عناية بالعلم، وعناية بالشعر 💌",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "تخفيضات Rosebaie",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1956,
-              "height": 320,
-              "title": "ساعات المعلمين ⌚",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عروض الساعات | صفحة الرئيسية",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1880,
-              "height": 320,
-              "title": "سوبر تيك 💻",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "سوبر تيك",
+              "promotionName": "تخفيضات واقي الشمس",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
