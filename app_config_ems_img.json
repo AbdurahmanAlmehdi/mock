@@ -323,19 +323,6 @@
           {
             "layout": "product_list",
             "config": {
-              "categoryId": 2198,
-              "height": 320,
-              "title": "عناية بسعر مفيش منه 💫",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عرض الحكيم",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
               "categoryId": 2270,
               "height": 320,
               "title": "تجهيز الفطور المدرسي 🥪",
