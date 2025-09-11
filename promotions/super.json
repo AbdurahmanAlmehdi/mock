@@ -1,6 +1,19 @@
 {
     "data": [
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 2271,
+              "height": 320,
+              "title": "تشكيلة ننصحوك بيها 💄",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "صفحة العروض | منوعات nyx",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
