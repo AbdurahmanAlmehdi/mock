@@ -170,6 +170,30 @@
             }
           },
           {
+            "layout": "banner",
+            "config": {
+              "items": [
+                {
+                  "image": {
+                    "imageUrl": "https://mataa-media-cdn.fra1.cdn.digitaloceanspaces.com/2025/09/collagen-offer-to-bag-mizon.gif",
+                    "width": "1047",
+                    "height": "400"
+                  },
+                  "padding": 5,
+                  "radius": 6,
+                  "navigationType": "products",
+                  "promotionName": "عرض الشفق الأحمر | توت باق وظروف كولاجين هدية",
+                  "categoryId": "2272"
+                }
+              ],
+              "height": 0.19,
+              "marginTop": 3,
+              "marginRight": 0,
+              "marginLeft": 0,
+              "marginBottom": 0
+            }
+          },
+          {
             "layout": "product_list",
             "config": {
               "categoryId": 1162,
@@ -178,6 +202,19 @@
               "showMore": true,
               "marginTop": 12,
               "promotionName": "عطور رجال",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1956,
+              "height": 320,
+              "title": "ساعات المعلمين ⌚",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عروض الساعات | صفحة الرئيسية",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
@@ -355,19 +392,6 @@
               "showMore": true,
               "marginTop": 12,
               "promotionName": "تخفيضات Rosebaie",
-              "verticalSpacing": 12,
-              "useStyledHeader": true
-            }
-          },
-          {
-            "layout": "product_list",
-            "config": {
-              "categoryId": 1956,
-              "height": 320,
-              "title": "ساعات المعلمين ⌚",
-              "showMore": true,
-              "marginTop": 12,
-              "promotionName": "عروض الساعات | صفحة الرئيسية",
               "verticalSpacing": 12,
               "useStyledHeader": true
             }
