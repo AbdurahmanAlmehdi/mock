@@ -170,6 +170,19 @@
             }
           },
           {
+            "layout": "product_list",
+            "config": {
+              "categoryId": 1162,
+              "height": 320,
+              "title": "عطور للآباء 👑",
+              "showMore": true,
+              "marginTop": 12,
+              "promotionName": "عطور رجال",
+              "verticalSpacing": 12,
+              "useStyledHeader": true
+            }
+          },
+          {
             "layout": "banner",
             "config": {
               "items": [
